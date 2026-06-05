@@ -1,0 +1,49 @@
+name: 💡 Feature request
+description: Suggest an idea or improvement for Cloomba.
+title: "[Feature]: "
+labels: ["enhancement", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping shape Cloomba! 🌱
+
+        Please **[search existing requests](https://github.com/whitetown/cloomba/issues?q=is%3Aissue)** and the **[Ideas board](https://github.com/whitetown/cloomba/discussions/categories/ideas)** first — if your idea already exists, add a 👍 or a comment instead of a new issue.
+  - type: textarea
+    id: problem
+    attributes:
+      label: What problem are you trying to solve?
+      description: What's frustrating or missing today? Describe the situation, not just the solution.
+    validations:
+      required: true
+  - type: textarea
+    id: solution
+    attributes:
+      label: What would you like to see?
+      description: Your proposed solution or how you imagine it working.
+  - type: checkboxes
+    id: surfaces
+    attributes:
+      label: Which surface(s) does this affect?
+      options:
+        - label: Web (cloomba.com)
+        - label: iOS app
+        - label: Android app
+        - label: All / not sure
+  - type: textarea
+    id: context
+    attributes:
+      label: Your use case
+      description: Are you organising or attending events? What kind? This helps us prioritise.
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives you've considered
+      description: Workarounds you use today, or how other tools handle this.
+  - type: checkboxes
+    id: confirmations
+    attributes:
+      label: Before you submit
+      options:
+        - label: I searched and this isn't a duplicate of an existing request.
+          required: true

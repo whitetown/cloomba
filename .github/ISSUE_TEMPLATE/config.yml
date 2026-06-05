@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 🔒 Report a security vulnerability
+    url: https://github.com/whitetown/cloomba/security/advisories/new
+    about: Found a security or privacy issue? Report it privately here — please do NOT open a public issue.
+  - name: 💬 Questions & ideas
+    url: https://github.com/whitetown/cloomba/discussions
+    about: Ask a question, share an idea, or chat with the community in Discussions.
+  - name: 📧 Contact the team
+    url: mailto:support@cloomba.com
+    about: Account, billing, privacy, or anything you'd rather not post publicly.

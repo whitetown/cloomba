@@ -1,0 +1,72 @@
+name: 🐞 Bug report
+description: Something in Cloomba isn't working the way it should.
+title: "[Bug]: "
+labels: ["bug", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to report a bug! 🙏
+
+        Please **[search existing issues](https://github.com/whitetown/cloomba/issues?q=is%3Aissue)** first — your problem may already be reported.
+
+        ⚠️ **Security or privacy issue?** Don't file it here — [report it privately](https://github.com/whitetown/cloomba/security/advisories/new) instead.
+  - type: dropdown
+    id: platform
+    attributes:
+      label: Where did it happen?
+      options:
+        - Web (cloomba.com)
+        - iOS app
+        - Android app
+        - Not sure
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: App / browser version
+      description: e.g. iOS app 2.0.1, or Chrome 125 on macOS.
+      placeholder: "iOS app 2.0.1"
+  - type: input
+    id: device
+    attributes:
+      label: Device & OS
+      description: e.g. iPhone 14, iOS 17.5 — or Pixel 7, Android 14 — or MacBook, macOS 14.
+      placeholder: "iPhone 14, iOS 17.5"
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: A clear description of the bug — what you saw vs. what you expected.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: How can we make it happen?
+      placeholder: |
+        1. Go to '...'
+        2. Tap '...'
+        3. See the error
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What did you expect to happen?
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Screenshots or screen recording
+      description: Drag & drop images or video here if it helps. (Don't include personal or payment data.)
+  - type: checkboxes
+    id: confirmations
+    attributes:
+      label: Before you submit
+      options:
+        - label: I searched and this isn't a duplicate of an existing issue.
+          required: true
+        - label: This is not a security or privacy vulnerability (those go to the private security report).
+          required: true

@@ -1,0 +1,26 @@
+title: "[Idea]: "
+labels: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Share an idea for Cloomba 🌱 — please skim the [Ideas board](https://github.com/whitetown/cloomba/discussions/categories/ideas) first and upvote anything similar.
+  - type: textarea
+    id: idea
+    attributes:
+      label: What's your idea?
+      description: Describe it in a sentence or two.
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What problem does it solve?
+      description: What's harder or missing without it?
+    validations:
+      required: true
+  - type: textarea
+    id: who
+    attributes:
+      label: Who benefits?
+      description: Organisers, attendees, a specific kind of event or community?
