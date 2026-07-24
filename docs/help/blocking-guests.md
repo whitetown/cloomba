@@ -32,4 +32,4 @@ Both the organiser and admins can cancel RSVPs and reject guests. Moderators can
 
 ### Reporting abuse
 
-If a guest's behaviour goes beyond what you can handle as an organiser — harassment, threats, or illegal content — use the report function or contact us at [support@cloomba.com](/info/contact). We review all reports within 2 business days.
+If a guest's behaviour goes beyond what you can handle as an organiser — harassment, threats, or illegal content — use the report function or contact us at [support (at) cloomba.com](/info/contact). We review all reports within 2 business days.

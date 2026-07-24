@@ -20,7 +20,7 @@ If your message has a specific topic, mention it in the subject so we can route 
 - **Press and media** — interviews, story ideas, asset requests
 - **Feedback and ideas** — bugs, feature requests, anything you'd improve
 
-If you can't use the form for any reason, our support address is **support@cloomba.com**.
+If you can't use the form for any reason, our support address is **support (at) cloomba.com**.
 
 ---
 

@@ -84,4 +84,4 @@ Where data is processed by sub-processors outside the EEA (such as Google and St
 
 **WhiteTown s.r.o.**
 Narcisova 38, 821 01 Bratislava, Slovak Republic
-[support@cloomba.com](/info/contact)
+[support (at) cloomba.com](/info/contact)

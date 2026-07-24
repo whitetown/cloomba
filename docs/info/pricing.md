@@ -54,4 +54,4 @@ There is no Plus plan, no Pro tier, no monthly fee. Every organiser gets the sam
 
 ### Questions?
 
-Contact us at [support@cloomba.com](/info/contact) — we are happy to walk you through how fees work for your specific event setup.
+Contact us at [support (at) cloomba.com](/info/contact) — we are happy to walk you through how fees work for your specific event setup.

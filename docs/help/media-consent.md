@@ -22,7 +22,7 @@ This confirmation is shown as part of the upload flow — you cannot upload with
 
 ### Your rights if you appear in someone else's upload
 
-If you appear in a photo or video on a Cloomba media wall and want it removed, contact the organiser directly — they can delete any post on their event's wall. If the organiser does not respond, contact us at [support@cloomba.com](/info/contact) and we will review the request.
+If you appear in a photo or video on a Cloomba media wall and want it removed, contact the organiser directly — they can delete any post on their event's wall. If the organiser does not respond, contact us at [support (at) cloomba.com](/info/contact) and we will review the request.
 
 Under GDPR, you have the right to object to the processing of your image in certain circumstances. See [GDPR & Your Rights](/legal/gdpr) for more.
 

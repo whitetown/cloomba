@@ -46,4 +46,4 @@ Your session is tied to your device and browser. If you sign in on a new device,
 
 **Wrong account?** If you have previously signed in with a social provider (Google, Apple, GitHub) and now try a magic link with a different email, you may end up in a different account. Use the same method and email address you used originally.
 
-**Still stuck?** Contact us at [support@cloomba.com](/info/contact) and we will sort it out.
+**Still stuck?** Contact us at [support (at) cloomba.com](/info/contact) and we will sort it out.

@@ -39,7 +39,7 @@ Open the Cloomba app and go to your account settings. Tap **Notifications** and 
 - On Android, check Settings → Apps → Cloomba → Notifications.
 - In the browser, check the site permissions for cloomba.com.
 
-If you have checked all of the above and notifications are still not working, contact us at [support@cloomba.com](/info/contact).
+If you have checked all of the above and notifications are still not working, contact us at [support (at) cloomba.com](/info/contact).
 
 ---
 

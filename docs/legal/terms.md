@@ -22,7 +22,7 @@ You must be at least **16 years old** to create an account. If you are under 18,
 
 ### 2. Your account
 
-You are responsible for keeping your account credentials secure. Do not share your account with others or use someone else's account. If you suspect unauthorised access, contact us immediately at [support@cloomba.com](/info/contact).
+You are responsible for keeping your account credentials secure. Do not share your account with others or use someone else's account. If you suspect unauthorised access, contact us immediately at [support (at) cloomba.com](/info/contact).
 
 ---
 
@@ -126,4 +126,4 @@ As an EU consumer you also have the right to use the [EU Online Dispute Resoluti
 **WhiteTown s.r.o.**
 Narcisova 38, 821 01 Bratislava, Slovak Republic
 IČO: 47878606 · VAT ID: SK2024127160
-[support@cloomba.com](/info/contact)
+[support (at) cloomba.com](/info/contact)

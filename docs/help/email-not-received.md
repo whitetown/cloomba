@@ -14,7 +14,7 @@ If Cloomba emails aren't arriving, here are the most common causes and fixes.
 
 ## Check your spam folder
 
-Look for emails from `no-reply@cloomba.com`. If you find them there, mark them as "Not spam" — your email client will remember for future messages.
+Look for emails from `no-reply (at) cloomba.com`. If you find them there, mark them as "Not spam" — your email client will remember for future messages.
 
 ## Check the Promotions tab
 

@@ -30,7 +30,7 @@ Cloomba sends transactional emails to keep you informed about events you care ab
 
 A few things to check:
 
-- **Spam folder** — look for emails from `no-reply@cloomba.com`
+- **Spam folder** — look for emails from `no-reply (at) cloomba.com`
 - **Correct email address** — make sure your account uses the address you expect; check your profile settings
 - **Promotions tab** — Gmail sometimes sorts event emails into Promotions; move one to your Primary tab and Google will remember
 

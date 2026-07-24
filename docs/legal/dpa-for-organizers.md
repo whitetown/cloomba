@@ -60,4 +60,4 @@ For organisations whose internal policies or contracts require a formal Data Pro
 
 **WhiteTown s.r.o.**
 Narcisova 38, 821 01 Bratislava, Slovak Republic
-[support@cloomba.com](/info/contact)
+[support (at) cloomba.com](/info/contact)

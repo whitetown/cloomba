@@ -72,7 +72,7 @@ Violations may result in content removal, account suspension, or permanent termi
 
 ### Reporting violations
 
-If you see content or behaviour that violates this policy, please report it using the report function on the relevant event or profile, or email us at [support@cloomba.com](/info/contact).
+If you see content or behaviour that violates this policy, please report it using the report function on the relevant event or profile, or email us at [support (at) cloomba.com](/info/contact).
 
 We review all reports and aim to respond within 2 business days.
 
@@ -93,4 +93,4 @@ We may take any of the following actions depending on the severity and frequency
 
 ### Contact
 
-Questions about this policy? Contact us at [support@cloomba.com](/info/contact).
+Questions about this policy? Contact us at [support (at) cloomba.com](/info/contact).

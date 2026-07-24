@@ -14,7 +14,7 @@ Cloomba uses passwordless sign-in — there's no password to reset. Here's how t
 
 ## Magic link not arriving
 
-1. **Check your spam folder** — look for an email from `no-reply@cloomba.com`
+1. **Check your spam folder** — look for an email from `no-reply (at) cloomba.com`
 2. **Check the Promotions tab** — Gmail sometimes routes these there
 3. **Wait a moment** — delivery can take up to a minute
 4. **Request a new link** — magic links expire after a few minutes; go back to the sign-in page and try again

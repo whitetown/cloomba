@@ -103,7 +103,7 @@ Under GDPR you have the right to:
 - **Object** — object to processing based on legitimate interests.
 - **Withdraw consent** — where processing is based on consent (e.g. push notifications), you can withdraw it at any time in your account settings.
 
-To exercise any of these rights, contact us at [support@cloomba.com](/info/contact). We will respond within 30 days.
+To exercise any of these rights, contact us at [support (at) cloomba.com](/info/contact). We will respond within 30 days.
 
 You also have the right to lodge a complaint with the Slovak data protection authority: **Úrad na ochranu osobných údajov SR** ([dataprotection.gov.sk](https://www.dataprotection.gov.sk)).
 
@@ -137,4 +137,4 @@ We will notify you of material changes by email at least **14 days** before they
 
 **WhiteTown s.r.o.**
 Narcisova 38, 821 01 Bratislava, Slovak Republic
-[support@cloomba.com](/info/contact)
+[support (at) cloomba.com](/info/contact)

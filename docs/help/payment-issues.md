@@ -23,7 +23,7 @@ If something went wrong during ticket checkout, here's what to check.
 
 If your bank charged you but you didn't receive a confirmation email or ticket:
 
-1. Check your spam folder for a confirmation from `no-reply@cloomba.com`
+1. Check your spam folder for a confirmation from `no-reply (at) cloomba.com`
 2. Sign in and check your profile — the ticket may be there even without an email
 3. If neither worked, contact [contact us](/info/contact) immediately with the event name, your email address, and the approximate time of the transaction
 

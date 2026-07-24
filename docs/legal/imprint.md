@@ -21,7 +21,7 @@ IČ DPH: SK2024127160
 
 ### Contact
 
-Email: support@cloomba.com
+Email: support (at) cloomba.com
 
 ### Online dispute resolution
 

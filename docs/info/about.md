@@ -52,4 +52,4 @@ We believe the best tools are built by people who use them. We are organisers to
 
 ### Get in touch
 
-Questions, feedback, or just want to say hello — reach us at [support@cloomba.com](/info/contact). We read every message.
+Questions, feedback, or just want to say hello — reach us at [support (at) cloomba.com](/info/contact). We read every message.
