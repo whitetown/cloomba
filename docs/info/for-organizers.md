@@ -16,7 +16,7 @@ Registration, tickets, and check-in — everything you need to run a community e
 
 ### Free events stay free, forever
 
-If your event is free to attend, Cloomba is free to use. No listing fee, no per-RSVP charge, no subscription required. The full feature set, with no caps, for as many free events as you want.
+If your event is free to attend, Cloomba is free to use. No listing fee, no per-RSVP charge, no subscription required. The full feature set, for as many free events as you want.
 
 For paid events, a flat **5% platform fee + standard payment processing** — both deducted from your payout. Attendees pay exactly the price you set. See [Pricing & Fees](/info/pricing).
 

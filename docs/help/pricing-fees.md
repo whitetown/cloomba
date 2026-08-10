@@ -40,6 +40,8 @@ If you refund a ticket, the attendee receives the full ticket price back. Cloomb
 
 ---
 
-### No monthly fees or tiers
+### Is there a monthly fee?
 
-There is no subscription, no Pro plan, and no feature gating. Every organiser on Cloomba gets the same platform. See [Pricing & Fees](/info/pricing) for the full overview.
+Not for running events. The fees above are the only ones on a paid event, and free events cost nothing.
+
+There is a **Pro** plan that lifts the free plan's fair-use limits (photos, videos, monthly emails, team seats, calendars) and adds full analytics and API access. It is not on sale yet — we enable it by hand while we finish it. See [Pricing & Fees](/info/pricing) for the full overview.

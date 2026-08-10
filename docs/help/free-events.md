@@ -14,7 +14,7 @@ If your event is free to attend, Cloomba costs you nothing. No listing fee, no p
 
 ### What you get with a free event
 
-Everything on the platform — guest list, check-in, event updates, media wall, invitations, waitlist, guest approval, registration questions, calendars. Free events are not a limited tier. They are the full product.
+Everything on the platform — guest list, check-in, event updates, media wall, invitations, waitlist, guest approval, registration questions, calendars. A free event is the full product, not a stripped-down trial. Generous fair-use limits apply to photos, videos, monthly emails, team seats, and calendars; see [Pricing & Fees](/info/pricing).
 
 ---
 

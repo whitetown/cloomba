@@ -46,9 +46,13 @@ If you issue a refund to an attendee, the ticket price is returned to them in fu
 
 ---
 
-### No subscription, no tiers
+### Do I need a subscription?
 
-There is no Plus plan, no Pro tier, no monthly fee. Every organiser gets the same full-featured platform. We grow when you grow.
+No. Running events on Cloomba does not require a paid plan, and free events cost nothing at any scale.
+
+The free plan does have fair-use limits — on photos and videos per event, emails per month, team seats, and calendars — set so that a normal event never reaches them. A **Pro** plan lifts those limits and adds full event analytics and API access, for communities and businesses running events at scale.
+
+Pro is not on sale yet and has no price: while we finish it, we enable it by hand for organisers we work with. [Get in touch](/info/contact) if you think you need it.
 
 ---
 
