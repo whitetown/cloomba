@@ -1,6 +1,6 @@
 ---
 title: "Language and locale settings"
-meta_description: "How to switch the Cloomba interface between English, Slovak, and Ukrainian — and how multilingual events work."
+meta_description: "How to switch the Cloomba interface language, which languages are supported, and how multilingual events work."
 section: null
 section_position: 0
 position: 78
@@ -8,7 +8,7 @@ status: published
 generated: from whitetown/cloomba-content — do not edit here, open an issue instead
 ---
 
-Cloomba's interface is available in multiple languages, with more added as the platform grows. User-generated content (event descriptions, comments, names) stays in whatever language the author wrote it in.
+Cloomba's interface is available in many languages, with more added as the platform grows. User-generated content (event descriptions, comments, names) stays in whatever language the author wrote it in.
 
 ---
 
@@ -27,17 +27,17 @@ Use the language switcher in the top-right of any page, or pick a language durin
 
 ### What does NOT get translated
 
-- **Event titles, descriptions, and updates** — they stay in the organiser's chosen language. Cloomba doesn't auto-translate UGC; an organiser running events in Slovak writes them in Slovak.
+- **Event titles, descriptions, and updates** — they stay in the organiser's chosen language. Cloomba doesn't auto-translate UGC; an event written in the organiser's language stays in that language.
 - **Comments and media captions** — written by attendees, kept as-is.
 
 ---
 
 ### Multilingual events
 
-If you run events for an audience that speaks multiple languages, the cleanest pattern is to write the most important parts of the description in each language (e.g. a one-line summary first in English, then Slovak). Avoid two separate events for the same actual event — keep one page, one guest list.
+If you run events for an audience that speaks multiple languages, the cleanest pattern is to write the most important parts of the description in each language (e.g. a one-line summary in each language, most important one first). Avoid two separate events for the same actual event — keep one page, one guest list.
 
 ---
 
-### Supported languages today
+### Which languages are available
 
-English, Slovak, and Ukrainian. More EU languages will be added in line with where the user base is growing. If a language you need is missing, let us know via [contact us](/info/contact).
+Open the language switcher to see the current list — it always shows exactly what is live. We add languages in line with where the user base is growing. If one you need is missing, let us know via [contact us](/info/contact).

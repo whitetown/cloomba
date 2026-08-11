@@ -8,8 +8,6 @@ status: published
 generated: from whitetown/cloomba-content — do not edit here, open an issue instead
 ---
 
-*Last reviewed: May 2026*
-
 Eventbrite is the established name in event ticketing — used by everyone from food festivals to corporate conferences. Cloomba is a different category of product: a community-oriented event platform that happens to handle paid tickets, rather than a ticket marketplace that happens to host event pages.
 
 ---

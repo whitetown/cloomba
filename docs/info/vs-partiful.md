@@ -8,8 +8,6 @@ status: published
 generated: from whitetown/cloomba-content — do not edit here, open an issue instead
 ---
 
-*Last reviewed: May 2026*
-
 Partiful is the party-invite app of choice for a lot of US 20- and 30-somethings — clean, fun, SMS-first. Cloomba covers the same casual-party use case, but is built for a wider set of organisers (meetups, conferences, clubs) and a European audience.
 
 ---

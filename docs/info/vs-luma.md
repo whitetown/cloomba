@@ -8,8 +8,6 @@ status: published
 generated: from whitetown/cloomba-content — do not edit here, open an issue instead
 ---
 
-*Last reviewed: May 2026*
-
 Luma is the platform Cloomba is most often compared to — and the one we respect the most. They've built a clean, well-designed event tool. We didn't set out to copy Luma. We set out to build the European-hosted, independently-operated equivalent, with a few deliberate differences on top.
 
 ---
@@ -35,7 +33,7 @@ If your needs map cleanly to "a polished, modern event tool", you'd be happy on 
 
 **You want an independent product.** Cloomba is run by [WhiteTown s.r.o.](/info/about), a small Slovak company. No VC pressure, no engagement-metric optimisation, no roadmap rewrites because an investor needs a growth story.
 
-**Your community is in CEE / speaks Slovak or Ukrainian.** Cloomba's UI is localised for these markets — see [Language and locale settings](/help/language-and-locale). Luma's localisation is improving but English-first.
+**Your community isn't English-first.** Cloomba's interface and the emails it sends are fully localised, and each person sees them in the language they picked, not the one you organise in. See [Language and locale settings](/help/language-and-locale). Luma's localisation is improving but English-first.
 
 **You want off-platform payment.** Cloomba supports Stripe **or** an [off-platform payment mode](/help/off-platform-payment) (bank transfer, PayPal, cash) where Cloomba stores no money. Useful for organisers who already have a club account, or who run free-with-donation events.
 

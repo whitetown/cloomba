@@ -8,8 +8,6 @@ status: published
 generated: from whitetown/cloomba-content — do not edit here, open an issue instead
 ---
 
-*Last reviewed: May 2026*
-
 Meetup invented the model of recurring local groups around shared interests. Two decades on, the price has gone up, the UI has aged, and a lot of organisers are looking around. Cloomba is one of the alternatives — built for the same use case (recurring community events) without the monthly group fee.
 
 ---
