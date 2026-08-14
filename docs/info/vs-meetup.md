@@ -63,4 +63,4 @@ Meetup's exact pricing depends on your country and tier — check their current 
 
 If you're a community organiser tired of paying a monthly fee for a group page and a dated UI — and you don't depend on Meetup's existing audience for discovery — Cloomba gives you the same recurring-group model for free, on a faster, EU-hosted platform. If you depend on Meetup's discovery to fill events in a city where that habit is entrenched, switching costs a real audience and may not be worth it today.
 
-[Run your first event on Cloomba →](/help/getting-started)
+[Run your first event on Cloomba →](/switch/meetup)

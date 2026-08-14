@@ -65,4 +65,4 @@ The Cloomba 5% is deducted from the organiser's Stripe payout. See [Pricing & Fe
 
 If you're an EU-based community organiser, especially in CEE, and you care about where attendee data lives — Cloomba is the better fit. The shared photo wall after the event is a genuine reason on its own. If you need a mature platform with a large existing audience, Luma is still the right answer. We're catching up; you don't have to wait if you can't.
 
-[Run your first event on Cloomba →](/help/getting-started)
+[Run your first event on Cloomba →](/switch/luma)

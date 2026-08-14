@@ -61,4 +61,4 @@ Eventbrite's exact rates depend on your plan and country and change periodically
 
 If you're running community events, meetups, classes, or conferences in Europe and don't need a marketplace audience, Cloomba is simpler, cheaper for free events, EU-hosted, and built around the post-event experience as much as the RSVP. If you're a professional promoter selling thousands of tickets and you need every Eventbrite feature plus its discovery surface, stay there.
 
-[Run your first event on Cloomba →](/help/getting-started)
+[Run your first event on Cloomba →](/switch/eventbrite)
