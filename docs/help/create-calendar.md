@@ -12,7 +12,7 @@ generated: from whitetown/cloomba-content — do not edit here, open an issue in
 
 From your account menu, select **Create calendar**. Fill in the basics:
 
-- **Name** — something clear that describes your series or organisation
+- **Name** — something clear that describes your series or organization
 - **Description** — tell people what kind of events to expect and who the calendar is for
 
 ---
@@ -25,10 +25,10 @@ Calendars are public by default — anyone on Cloomba can find and follow them.
 
 ### Adding events
 
-Once your calendar is created, you can add your own events to it directly from the event editor or from the calendar management page. You can also accept submissions from other organisers — see [Submitting an event to a calendar](/help/submit-event-to-calendar).
+Once your calendar is created, you can add your own events to it directly from the event editor or from the calendar management page. You can also accept submissions from other organizers — see [Submitting an event to a calendar](/help/submit-event-to-calendar).
 
 ---
 
 ### Managing your calendar
 
-From your calendar page you can edit the name and description at any time. You can also see your follower count and manage which events are listed.
+From your calendar's manage pages you can edit the name and description at any time, choose which events are listed, and see your audience — followers and past attendees — on the People tab.

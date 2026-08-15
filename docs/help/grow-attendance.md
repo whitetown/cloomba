@@ -22,7 +22,7 @@ Think about where your target audience spends time — Slack groups, Discord ser
 
 ## Use your calendar
 
-If you've created a [Cloomba calendar](/help/about-calendars), publish the event to it. Followers of your calendar get notified automatically — this is the most scalable way to build a recurring audience.
+If you've created a [Cloomba calendar](/help/about-calendars), publish the event to it. Followers of your calendar get notified automatically — this is the most scalable way to build a recurring audience. Each event adds to it: the people you drew last time hear about the next one without another announcement.
 
 ## Leverage your existing audience
 

@@ -25,13 +25,13 @@ Eventbrite is the established name in event ticketing — used by everyone from 
 
 **You want truly free free events.** Cloomba's free events cost the organiser nothing — no listing fee, no per-RSVP charge, no "free tier with limits". Eventbrite historically applied per-ticket fees even on free events on some plans; the exact terms shift over time, but Cloomba's commitment is simpler: [free events are always free](/help/free-events).
 
-**You're an EU organiser.** Cloomba's servers are in Amsterdam (EU-West) and the product is GDPR-by-design. Eventbrite is a US company; your attendee data flows through US infrastructure under whichever transfer mechanism Eventbrite has in place at the time.
-
 **You're running a community, not a transaction.** Cloomba ships with a [media wall](/help/media-wall), [comments and reactions](/help/comments-and-reactions), [organiser updates](/help/event-updates), and [calendars](/help/about-calendars) — built for the conversation around an event, not just the moment of buying a ticket.
 
 **Your pricing is simple and predictable.** Cloomba is a flat 5% + standard payment processing on paid tickets, with no per-event surcharges. Eventbrite's pricing has historically combined a percentage **and** a flat per-ticket fee, with tiers that change. See [Pricing & Fees](/info/pricing).
 
 **You want a modern, fast UI.** Cloomba is built on TanStack Start with server-side rendering and real-time updates. Eventbrite's organiser tooling is feature-rich but generationally older.
+
+**You're an EU organiser.** Cloomba's servers are in Amsterdam (EU-West) and the product is GDPR-by-design. Eventbrite is a US company; your attendee data flows through US infrastructure under whichever transfer mechanism Eventbrite has in place at the time.
 
 ---
 

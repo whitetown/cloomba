@@ -29,11 +29,11 @@ Meetup invented the model of recurring local groups around shared interests. Two
 
 **You want a modern UI on the web.** Cloomba is built mobile-first on the web (and installable as a [PWA](/help/install-as-pwa)). Meetup's web product looks and feels like a 2010s product, and the mobile apps have a reputation for pushing engagement notifications more than serving organisers.
 
-**You're an EU organiser.** Cloomba's servers are in Amsterdam. Meetup is US-hosted (currently owned by Bending Spoons, an Italian company, but the infrastructure remains US-based).
-
 **You want richer event pages.** Cloomba ships with a [media wall](/help/media-wall), [comments and reactions](/help/comments-and-reactions), [organiser updates](/help/event-updates), [waitlists](/help/waitlist), and [guest approval](/help/guest-approval). Meetup's per-event page is more bare.
 
 **You want a CSV export of your attendees.** Cloomba's [export](/help/guest-list-export) is one click. Meetup has restricted member data export over the years for privacy reasons; what you can get out varies.
+
+**You're an EU organiser.** Cloomba's servers are in Amsterdam. Meetup is US-hosted (currently owned by Bending Spoons, an Italian company, but the infrastructure remains US-based).
 
 ---
 

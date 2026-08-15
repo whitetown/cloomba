@@ -8,7 +8,7 @@ status: published
 generated: from whitetown/cloomba-content — do not edit here, open an issue instead
 ---
 
-Following a calendar keeps you up to date with everything an organiser or community puts on.
+Following a calendar keeps you up to date with everything an organizer or community puts on.
 
 ---
 

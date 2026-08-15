@@ -25,10 +25,6 @@ If your needs map cleanly to "a polished, modern event tool", you'd be happy on 
 
 ## When Cloomba is the better fit
 
-**You want your data in the EU.** Cloomba's servers run in Amsterdam (EU-West). All event content, RSVPs, photos, and messages stay in the EU. Luma is US-hosted; their auth and data sit on US-default Google infrastructure. For schools, corporates, public-sector organisers, and anyone in the EU who reads the privacy policy, that's a real difference.
-
-**You want GDPR as the design starting point, not a region setting.** Cloomba's privacy policy is short because the product collects less. No advertising profiles. No behavioural tracking. The default visibility is the strictest one (the [media-wall consent](/help/media-consent) is asked every upload).
-
 **You want a real shared photo wall as part of the event.** Cloomba ships a full [media wall](/help/media-wall) with photo and video uploads, captions, [comments and reactions](/help/comments-and-reactions), real-time updates, and an [optional public-wall mode](/help/open-media-wall) with explicit consent. It's a first-class part of every event, not an afterthought. Luma doesn't offer an equivalent today.
 
 **You want an independent product.** Cloomba is run by [WhiteTown s.r.o.](/info/about), a small Slovak company. No VC pressure, no engagement-metric optimisation, no roadmap rewrites because an investor needs a growth story.
@@ -38,6 +34,10 @@ If your needs map cleanly to "a polished, modern event tool", you'd be happy on 
 **You want off-platform payment.** Cloomba supports Stripe **or** an [off-platform payment mode](/help/off-platform-payment) (bank transfer, PayPal, cash) where Cloomba stores no money. Useful for organisers who already have a club account, or who run free-with-donation events.
 
 **You're a developer community.** GitHub sign-in is a first-class option on [Cloomba's sign-in page](/help/sign-in).
+
+**You want your data in the EU.** Cloomba's servers run in Amsterdam (EU-West). All event content, RSVPs, photos, and messages stay in the EU. Luma is US-hosted; their auth and data sit on US-default Google infrastructure. For schools, corporates, public-sector organisers, and anyone in the EU who reads the privacy policy, that's a real difference.
+
+**You want GDPR as the design starting point, not a region setting.** Cloomba's privacy policy is short because the product collects less. No advertising profiles. No behavioural tracking. The default visibility is the strictest one (the [media-wall consent](/help/media-consent) is asked every upload).
 
 ---
 

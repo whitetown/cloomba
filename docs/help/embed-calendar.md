@@ -33,7 +33,7 @@ The `embed.js` script makes the calendar **resize itself** to fit its content, s
 
 ---
 
-### Customising the calendar
+### Customizing the calendar
 
 Add options to the `src` URL as query parameters — for example `…/embed/c/your-calendar?view=week&theme=dark`.
 
@@ -43,7 +43,7 @@ Add options to the `src` URL as query parameters — for example `…/embed/c/yo
 | `view` | `month`, `week`, `day`, `list` | Which view to open on |
 | `tz` | e.g. `Europe/Bratislava` | Time zone to show times in |
 | `theme` | `light`, `dark` | Force light or dark (default: follows the visitor) |
-| `accent` | `%23rrggbb` | Override the accent colour (write `#` as `%23`) |
+| `accent` | `%23rrggbb` | Override the accent color (write `#` as `%23`) |
 | `bg` | `transparent`, `%23rrggbb` | Card background — `transparent` blends into your page |
 
 A dark Slovak calendar opening on the week view:

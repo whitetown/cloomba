@@ -1,6 +1,6 @@
 ---
 title: "Exporting your guest list"
-meta_description: "How to export your Cloomba event guest list as a CSV — names, RSVP status, check-in data, and registration question answers."
+meta_description: "How to export your Cloomba event guest list — CSV, Excel, or a printable door list, with names, status, check-in and question answers."
 section: "Guest management"
 section_position: 30
 position: 80
@@ -8,7 +8,7 @@ status: published
 generated: from whitetown/cloomba-content — do not edit here, open an issue instead
 ---
 
-You can export your full guest list as a CSV file at any time — before, during, or after the event.
+You can export your full guest list at any time — as CSV, Excel (XLSX), or a printable list — before, during, or after the event.
 
 ---
 
@@ -20,14 +20,16 @@ The CSV contains one row per guest with:
 - RSVP status (confirmed, waitlisted, cancelled, etc.)
 - Registration date
 - Check-in status and time
+- Phone and email, where the guest provided them
+- Plus-ones
+- Ticket type and amount paid (for paid events)
 - Answers to any registration questions you set up
-- Ticket type (for paid events)
 
 ---
 
 ### How to export
 
-Open the **Guests** tab on your event page and click **Export CSV**. The file downloads immediately.
+Open the **Guests** tab on your event page and choose **Export** — CSV, Excel (.xlsx), or Print view (HTML). The print view is the door list: print it, or save it as a PDF.
 
 ---
 
