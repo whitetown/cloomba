@@ -18,7 +18,9 @@ Click **Create event** from the navigation menu. You will be taken to the event 
 
 **Title** — keep it clear and specific. "April Bratislava JS Meetup" beats "Monthly Meetup #12".
 
-**Description** — use this to tell people what the event is, who it is for, what they should bring or prepare, and anything else they need to know. You can format text with headings, bold, bullet lists, and links.
+**Description** — use this to tell people what the event is, who it is for, what they should bring or prepare, and anything else they need to know. You can [format the text with markdown](/help/markdown) — headings, bold, bullet lists, links, and tables.
+
+Running the event for people who read different languages? You can [write one description covering several languages](/help/multilingual-descriptions) instead of picking one.
 
 ---
 

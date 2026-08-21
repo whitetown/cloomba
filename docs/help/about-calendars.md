@@ -30,6 +30,12 @@ Each event can belong to more than one calendar. An event can be part of your ow
 
 ---
 
+### Events from other organizers
+
+A calendar can accept submissions: other organizers propose their events from the calendar's page, and the owner approves or declines each one. Nothing appears on the calendar — and no follower is notified — until the owner approves it. See [Submitting an event to a calendar](/help/submit-event-to-calendar).
+
+---
+
 ### Following a calendar
 
 Any Cloomba user can follow a calendar. Followers see the calendar's upcoming events and receive notifications when new events are posted. Following a calendar does not automatically RSVP you to any events — you still register for each one individually.

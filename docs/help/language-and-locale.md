@@ -27,14 +27,16 @@ Use the language switcher in the top-right of any page, or pick a language durin
 
 ### What does NOT get translated
 
-- **Event titles, descriptions, and updates** — they stay in the organiser's chosen language. Cloomba doesn't auto-translate UGC; an event written in the organiser's language stays in that language.
+- **Event titles, descriptions, and updates** — they stay in whatever language the organiser wrote them in. Cloomba doesn't auto-translate anything people write. Descriptions are the one place an organiser can cover several languages by hand — see below.
 - **Comments and media captions** — written by attendees, kept as-is.
 
 ---
 
 ### Multilingual events
 
-If you run events for an audience that speaks multiple languages, the cleanest pattern is to write the most important parts of the description in each language (e.g. a one-line summary in each language, most important one first). Avoid two separate events for the same actual event — keep one page, one guest list.
+One event page can carry a description in several languages at once — each visitor reads the section matching their interface language, and you keep one page, one link, and one guest list. See [writing a description in several languages](/help/multilingual-descriptions).
+
+Avoid creating two separate events for the same actual event.
 
 ---
 

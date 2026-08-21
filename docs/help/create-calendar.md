@@ -19,7 +19,7 @@ From your account menu, select **Create calendar**. Fill in the basics:
 
 ### Calendar visibility
 
-Calendars are public by default — anyone on Cloomba can find and follow them.
+Calendars are public — anyone on Cloomba can find and follow them. Only your public events are listed on a calendar; unlisted and private events never appear there.
 
 ---
 

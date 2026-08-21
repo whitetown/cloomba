@@ -29,6 +29,8 @@ The same pages are published on [cloomba.com](https://cloomba.com).
 - [Event visibility: public, unlisted, and private](help/event-visibility.md)
 - [Adding a cover image](help/event-cover-image.md)
 - [Writing your event description](help/event-description.md)
+- [Formatting text with markdown](help/markdown.md)
+- [Writing a description in several languages](help/multilingual-descriptions.md)
 - [Setting your event location](help/event-location.md)
 - [Hosting online events](help/online-events.md)
 - [Recurring and multi-date events](help/recurring-events.md)

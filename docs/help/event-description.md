@@ -28,15 +28,11 @@ The description is your main pitch to potential attendees. A good one answers ev
 
 ### Formatting
 
-The description editor supports markdown formatting:
-
-- `**bold**` for emphasis
-- `# Heading` and `## Subheading` for structure
-- `- item` for bullet lists
-- `[link text](url)` for links
-- Tables for schedules, speaker line-ups, or pricing tiers
+The description box accepts [markdown](/help/markdown) — bold, headings, bullet lists, links, tables, and images. The **Preview** button next to the box shows exactly what your readers will see.
 
 Use formatting to break up long descriptions — a wall of text loses people quickly.
+
+If your guests read different languages, you can [write one description covering several languages](/help/multilingual-descriptions) rather than choosing one.
 
 ---
 
