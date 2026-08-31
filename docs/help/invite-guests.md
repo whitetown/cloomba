@@ -69,3 +69,13 @@ Use it when you want to share the event with a trusted group but do not want to 
 ### Invitations and approval
 
 An invitation gets someone to your event page — it does not decide whether they are in. If you have [guest approval](/help/guest-approval) switched on, invited guests still land in the pending queue and you approve them like anyone else. The two are independent.
+
+---
+
+### Inviting after registration has closed
+
+If you have set a [registration deadline](/help/registration-deadline) and it has passed, the event stops taking sign-ups from the public — but you can still invite someone personally, and their invitation works. Sending it after the deadline is you deciding to open the door again for that person, so Cloomba lets them through.
+
+An invitation you sent **before** the deadline shares that deadline and stops working with it. If you want somebody in after the fact, send them a fresh one.
+
+This applies to invitations addressed to a person, by email or username. To reopen the event for everyone, clear or extend **Sales end** on the ticket types instead.

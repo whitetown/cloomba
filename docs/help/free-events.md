@@ -26,6 +26,14 @@ If you want to limit attendance, set a capacity. If you want to vet guests first
 
 ---
 
+### Letting people chip in, without charging
+
+If your event is free but running it isn't, there is a middle option: set the ticket type to **Pay what you want** with a minimum of 0. Guests see an amount field pre-filled at nothing. Anyone who leaves it at 0 registers exactly as they would for a free event — no card, no checkout — and anyone who wants to cover a coffee or the room hire types a number.
+
+Nothing about the event stops being free. You only pay a fee on money that actually arrives, so the guests who pay nothing cost you nothing. See [Ticket types and how you price them](/help/ticket-types) and [How Cloomba fees work](/help/pricing-fees).
+
+---
+
 ### Switching from free to paid
 
 You can add a paid ticket type to an event that started as free. Keep in mind that guests who already registered for free will keep their free spot — the paid ticket type applies to new registrations only.

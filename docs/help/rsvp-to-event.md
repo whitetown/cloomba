@@ -16,12 +16,28 @@ RSVPing on Cloomba lets the organiser know you're coming and, for paid events, s
 
 Open the event page — either from Discover, a link someone shared with you, or a calendar you follow.
 
-## RSVPing
+## Registering
 
-1. Tap **RSVP** on the event page
+1. Tap **Join** (or **Register**) on the event page
 2. If you're not signed in, you'll be asked to sign in first
 3. For free events, you're confirmed immediately — unless the event requires organiser approval
 4. For paid events, you'll be taken to checkout to complete your ticket purchase
+
+If the event offers several ticket types, you pick one first. Some may be cheaper, limited in number, or only available with a code the organiser gave you.
+
+## Tickets that don't show a fixed price
+
+Two kinds of ticket work a little differently.
+
+**Pay what you want.** You choose the amount. The figure shown is a minimum, and checkout starts there — you can raise it before paying. If the minimum is 0, leaving it at 0 registers you for free with no card involved.
+
+**On request.** The organiser hasn't published the price. Register anyway: you either see the amount on the payment step, or the organiser agrees it with you afterwards and your place stays pending until it's settled.
+
+## When registration has closed
+
+If the event page says **Registration has closed for this event**, the organiser set a deadline and it has passed. There's no Join button and no waitlist to join — a waitlist is only for events that are full.
+
+It's worth [contacting the organiser](/help/contact-organizer) if you'd still like to come. An invitation they send you after the deadline lets you register anyway.
 
 ## Events with approval
 

@@ -60,9 +60,7 @@ Since `#` marks a language, write the headings inside each section as `##` or `#
 
 ### Which codes work
 
-`en` · `cs` · `de` · `es` · `fr` · `it` · `nl` · `pl` · `pt` · `sk` · `uk`
-
-These are the languages the Cloomba interface is available in. Capitals are fine.
+Any language Cloomba's interface is available in, written as its two-letter code — the same code you see in the address bar when you switch languages. Capitals are fine.
 
 ---
 

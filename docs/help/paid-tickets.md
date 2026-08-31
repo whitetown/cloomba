@@ -25,6 +25,8 @@ Cloomba currently supports paid events in countries where Stripe Connect is avai
 
 That is all that is needed to start collecting payments.
 
+Once that works, there is more you can do with the ticket itself: several ticket types on one event, a capacity per type, a sales window, and three different ways to price one — a fixed amount, a price on request, or pay what you want. [Ticket types and how you price them](/help/ticket-types) covers all of it.
+
 ---
 
 ### Connecting Stripe

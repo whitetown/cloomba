@@ -20,8 +20,9 @@ Use this checklist to make sure everything is in order before your event goes li
 - [ ] Location is set — or "Online" with a meeting link in the description
 - [ ] Description covers what, who it's for, and any practical details
 - [ ] Visibility is set correctly (public / unlisted / private)
-- [ ] Capacity is set if you have a limit
+- [ ] Capacity is set if you have a limit — add a per-type limit only where one type needs its own cap
 - [ ] Ticket type configured if the event is paid
+- [ ] Sales end set if sign-ups should close before the event starts
 - [ ] RSVP approval turned on if you want to vet guests
 
 ## 1–2 weeks before

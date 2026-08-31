@@ -45,6 +45,7 @@ The same pages are published on [cloomba.com](https://cloomba.com).
 - [Email sending limits](help/email-sending-limits.md)
 - [Managing RSVPs](help/rsvp-management.md)
 - [Manual guest approval](help/guest-approval.md)
+- [Closing registration before the event](help/registration-deadline.md)
 - [Using the waitlist](help/waitlist.md)
 - [Checking in guests at the door](help/check-in.md)
 - [Adding co-hosts and managers](help/cohosts.md)
@@ -54,6 +55,7 @@ The same pages are published on [cloomba.com](https://cloomba.com).
 
 ### Tickets & payments
 - [Setting up paid tickets](help/paid-tickets.md)
+- [Ticket types and how you price them](help/ticket-types.md)
 - [How Cloomba fees work](help/pricing-fees.md)
 - [Hosting free events](help/free-events.md)
 - [Getting paid — how payouts work](help/payouts.md)
@@ -123,6 +125,9 @@ The same pages are published on [cloomba.com](https://cloomba.com).
 - [Building a Community with Calendars](help/community-building.md)
 
 ## Info
+
+### Product
+- [Frequently asked questions](info/faq.md)
 - [Cloomba for organisers](info/for-organizers.md)
 
 ### Product

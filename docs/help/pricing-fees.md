@@ -26,6 +26,8 @@ Our platform fee on each ticket sold.
 **Standard payment processing**
 Stripe's fee for handling the payment. The exact rate depends on the card type and country — your event editor shows the exact net payout for the price and currency you choose, before you publish.
 
+Both fees are charged on the amount the guest actually pays. That matters on a [pay-what-you-want](/help/ticket-types) ticket, where the guest picks the figure: someone who pays €20 on a €5 minimum is charged 5% of €20, and someone who pays nothing on a 0 minimum costs you nothing at all. A [coupon](/help/coupons) works the same way — the 5% is taken on the discounted total, not the list price.
+
 ---
 
 ### When do you get paid?

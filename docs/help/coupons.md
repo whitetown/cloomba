@@ -54,6 +54,14 @@ Coupons apply on the platform price displayed to the attendee. For [off-platform
 
 ---
 
+### Coupons + pay-what-you-want tickets
+
+Coupons don't apply to a [pay-what-you-want](/help/ticket-types) ticket either: the guest already chooses the amount, so a discount off it has nothing to bite on. The code field is hidden on those tickets and a code entered elsewhere won't apply to them.
+
+If you want a cheaper option for a particular group, add a second ticket type at the price you have in mind and put **Require a coupon code** on it. That gives you the same effect — a private price for people holding the code — on a ticket where the number is yours to set.
+
+---
+
 ### Coupons + fees
 
 Cloomba's 5% fee is calculated on the **final** price after the coupon — so a coupon that drops the price to zero results in no Cloomba fee.

@@ -43,7 +43,11 @@ Off-platform payment and Stripe paid mode are mutually exclusive on the same eve
 
 ### What Cloomba does and doesn't store
 
-Cloomba never sees the money. There's no amount on the ticket type and no payout. The price lives only in your instructions text. Refunds, receipts, and any tax handling are entirely between you and the attendee.
+Cloomba never sees the money, and there is no payout. Refunds, receipts, and any tax handling are entirely between you and the attendee.
+
+The ticket type still carries a price, and that price is what the guest owes you — it shows on their registration and on your guest list, so you can see at a glance who has paid and who hasn't. When you mark a guest as paid you record the amount you actually received, which may differ from the list price if you agreed something else.
+
+You can also leave the price at 0 and set the ticket type to **Price on request**, for the case where the amount genuinely depends on the guest — dates, occupancy, group size. The registration then holds at **Pending payment** with no figure attached until you agree one and record it. See [Ticket types and how you price them](/help/ticket-types).
 
 ---
 
@@ -53,4 +57,4 @@ Cloomba never sees the money. There's no amount on the ticket type and no payout
 
 > €5 cash on the door — no advance payment, just RSVP here so I know to expect you.
 
-Use short, exact instructions. Vague ones lead to support questions you'll have to answer in DMs (which Cloomba doesn't have yet — see [How to contact the event organiser](/help/contact-organizer)).
+Use short, exact instructions. Vague ones lead to support questions you'll have to answer one by one in [direct messages](/help/messaging).

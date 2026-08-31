@@ -14,6 +14,18 @@ A running log of significant updates and new features.
 
 ---
 
+### August 2026 — Pricing options, calendars, and embeds
+
+- **Pay what you want** — set a minimum (or zero) and let people choose what they pay
+- **Price on request** — list a ticket type without publishing a number when the price depends on the details
+- **One event, several languages** — write the description with a section per language; each visitor sees theirs
+- **Public calendar directory** — [/calendars](/calendars) now lists public community calendars
+- **Subscribe to a calendar** — iCal and RSS feeds; paste the link into Apple Calendar, Outlook, or Google and new events arrive on their own
+- **Embeds** — put a calendar or a single event on your own site
+- **Public API** — see [the developer docs](/developers/api)
+
+---
+
 ### July 2026 — Post-launch updates
 
 The first wave of post-launch features is live:
