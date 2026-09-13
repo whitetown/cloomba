@@ -21,7 +21,7 @@ Cloomba is built for real communities. If you encounter content or behaviour tha
 
 ## How to report
 
-At the moment, reports are handled via email. Send a message to [contact us](/info/contact) with:
+Reports are handled via email. Send a message to [contact us](/info/contact) with:
 
 - A link to the content or event in question
 - A brief description of the issue

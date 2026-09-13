@@ -48,7 +48,3 @@ If someone is bothering you, block them from their profile. A blocked person can
 ### Event chats are separate
 
 Every event also has its own group chat for everyone going — that's a different thread. See [The event chat](/help/event-chat).
-
-### Not yet available
-
-Group chats and typing indicators are on the roadmap but not here yet.

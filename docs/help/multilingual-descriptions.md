@@ -78,7 +78,7 @@ Event emails use the section matching the language of the person receiving them.
 
 Calendar files, feeds, and the preview text shown when your link is shared carry one language only, because there is nowhere in them to choose.
 
-Only the **description** works this way. Titles, updates, guest questions, and comments are single-language — see [language and locale settings](/help/language-and-locale).
+Two fields work this way: an event's **description** and the **description** under a guest question. The question's own wording and its answer options are single-language, as are titles, updates, and comments — see [language and locale settings](/help/language-and-locale).
 
 ---
 

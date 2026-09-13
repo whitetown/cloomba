@@ -55,10 +55,12 @@ The button comes with a default style. To use your **own** styling, remove the `
 
 | Parameter | Values | What it does |
 | --- | --- | --- |
-| `locale` | `en`, `sk`, `uk`, … | Language of the card |
+| `locale` | `en`, `sk`, `uk`, … | Starting language of the card |
 | `theme` | `light`, `dark` | Force light or dark (default: follows the visitor) |
 | `accent` | `%23rrggbb` | Override the accent colour (write `#` as `%23`) |
 | `bg` | `transparent`, `%23rrggbb` | Card background — `transparent` blends into your page |
+
+`locale` sets the language the card opens in, not the only one it can show: every card carries a language picker in its footer, so a visitor can switch to their own language. Leave `locale` out and the card opens in the visitor's browser language.
 
 **Button** — pass the same options as `data-cloomba-*` attributes; they're forwarded to the pop-up:
 

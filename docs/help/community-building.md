@@ -14,7 +14,7 @@ Running events regularly is how communities form. Cloomba calendars give you the
 
 ## What a calendar does for you
 
-A calendar is a persistent home for your events. Followers subscribe once and get notified every time you publish something new — you don't have to find them again for each event. The people who actually attend land in your guest lists, which you can export at any time — what you build here is yours to keep.
+A calendar is a persistent home for your events. Followers subscribe once and get notified every time you publish something new — you don't have to find them again for each event. And when there is something to say between events, write to them from the calendar's Newsletter tab. The people who actually attend land in your guest lists, which you can export at any time — what you build here is yours to keep.
 
 Think of it as your own channel: people follow it because your last event was worth their evening, and you earn that trust event by event.
 

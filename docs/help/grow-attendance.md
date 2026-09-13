@@ -26,7 +26,7 @@ If you've created a [Cloomba calendar](/help/about-calendars), publish the event
 
 ## Leverage your existing audience
 
-If you have a newsletter, social media following, or mailing list, announce the event there. Link directly to your Cloomba event page so RSVPs stay in one place.
+If you have a newsletter, social media following, or mailing list, announce the event there. Your calendar has one built in: its Newsletter tab reaches everyone who follows it or came before. Link directly to your Cloomba event page so RSVPs stay in one place.
 
 ## Post early and remind closer to the date
 

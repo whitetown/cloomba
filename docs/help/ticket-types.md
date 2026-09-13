@@ -54,10 +54,9 @@ The guest chooses the amount. The price you set is the **minimum**, not the pric
 
 Set the minimum to 0 and the ticket is free with support optional. A guest who leaves it at 0 registers on the ordinary free path, with no card involved at all; a guest who types an amount pays it. Fees follow the amount actually paid, so a guest who pays nothing costs you nothing — see [How Cloomba fees work](/help/pricing-fees).
 
-Two limits are worth knowing before you use it:
+One limit is worth knowing before you use it:
 
 - **Coupons do not apply.** A discount off an amount the guest picks themselves does not mean anything, so the coupon field is hidden on a pay-what-you-want ticket. See [Discount coupons for paid events](/help/coupons).
-- **The mobile apps have not caught up yet.** Someone registering from the iOS or Android app sees the ticket at your minimum and pays that. Only the website offers the choice for now.
 
 ---
 

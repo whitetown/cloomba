@@ -40,6 +40,10 @@ A calendar can accept submissions: other organizers propose their events from th
 
 Any Cloomba user can follow a calendar. Followers see the calendar's upcoming events and receive notifications when new events are posted. Following a calendar does not automatically RSVP you to any events — you still register for each one individually.
 
+### Writing to your followers
+
+From the calendar's Newsletter tab, the owner can email everyone the calendar has reached: people who follow it, people who came to its events, and contacts added on the People tab. Every email carries an unsubscribe link, and anyone can turn calendar newsletters off in their notification settings.
+
 ---
 
 ### Calendars vs events
