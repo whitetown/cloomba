@@ -24,14 +24,9 @@ For paid events, a flat **5% platform fee + standard payment processing** — bo
 
 ### Everything you actually need
 
-- **RSVPs** with optional manual approval and waitlists
-- **Paid tickets** via Stripe, or [off-platform payment](/help/off-platform-payment) (bank / PayPal / cash) if Stripe isn't an option
-- **Check-in** at the door via QR scan, or by name
-- **Co-hosts and moderators** — share the load
-- **Calendars** — group your recurring events into a channel followers can subscribe to
-- **Media wall** — attendees upload photos and videos; you get a shared memory of every event
-- **Updates** — announce changes to all registered guests at once
-- **CSV export** — your guest list is yours
+Registration with waitlists and approval, paid tickets, check-in at the door, calendars and recurring events, updates, chat, a photo wall, and your guest list as a CSV whenever you want it.
+
+The full list, section by section: [Features](/info/features).
 
 ---
 

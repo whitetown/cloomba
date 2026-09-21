@@ -128,6 +128,7 @@ The same pages are published on [cloomba.com](https://cloomba.com).
 
 ### Product
 - [Frequently asked questions](info/faq.md)
+- [Features](info/features.md)
 - [Cloomba for organisers](info/for-organizers.md)
 
 ### Product
