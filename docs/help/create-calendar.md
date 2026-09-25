@@ -29,7 +29,7 @@ The **Settings** tab is what you land on. Everything on it saves as you go:
 - **Let others submit events** — off by default; see [Submitting an event to a calendar](/help/submit-event-to-calendar)
 - **Links** — your website and social profiles
 - **People & sponsors** — organizers, speakers, and partners shown on the calendar page
-- **Admins** — people who can edit the calendar, add events, review submissions, and write to your audience
+- **Admins** — people who can edit the calendar, add events, review submissions, and write to your audience; see [Calendar admins and ownership](/help/calendar-admins)
 
 Calendars are always public — anyone can open the page and follow it. Public events are shown to everyone. An unlisted event shows only to the calendar's members, when it offers memberships, and private events never appear.
 
@@ -48,9 +48,9 @@ Calendars are always public — anyone can open the page and follow it. Public e
 Open **Manage** on the calendar page, or the pencil on your Calendars page. The tabs:
 
 - **Events** — every event on the calendar, with the submissions queue behind a button on the toolbar
-- **People** — everyone the calendar reaches: followers, guests of your events, and contacts you import; tag them, export them, and manage memberships
-- **Newsletters** — write to those people; see [Email sending limits](/help/email-sending-limits)
+- **People** — everyone the calendar reaches: followers, guests of every event whose home is this calendar (whoever organized it), and contacts you import; tag them, export them, and manage memberships
+- **Newsletters** — write to those people; see [Calendar newsletters](/help/calendar-newsletters)
 - **Payments** — your Stripe account for membership dues, and the calendar's discount codes
-- **Settings** — everything above, plus the embed snippet and delete
+- **Settings** — everything above, plus the embed snippet and the **Danger zone**: **Leave calendar** for admins, **Transfer calendar** and **Delete** for the owner
 
-Deleting a calendar keeps its events — they only stop being listed on it.
+Deleting a calendar keeps its events — they only stop being listed on it. A calendar can't be deleted while any of its membership tiers has a price.

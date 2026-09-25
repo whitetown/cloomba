@@ -1,6 +1,6 @@
 ---
 title: "Email sending limits"
-meta_description: "Which Cloomba emails are limited and which are not — the monthly allowance for invitations and event updates, and how the allowance for reaching new people grows with every event you run."
+meta_description: "Which Cloomba emails are limited and which are not — the monthly allowance for invitations, event updates, and newsletters, and how the allowance for reaching new people grows with every event you run."
 section: "Guest management"
 section_position: 30
 position: 15
@@ -12,7 +12,7 @@ Cloomba sends two kinds of email, and only one of them is limited.
 
 **Automatic emails** — ticket confirmations, RSVP confirmations, reminders, cancellation notices — go out on their own when something happens. They are never limited and never count towards any allowance. Your guests always get their tickets.
 
-**Emails you choose to send** — [invitations](/help/invite-guests) and [event updates](/help/event-updates) — go out because you pressed Send. Those are the ones with limits, and this page explains how they work.
+**Emails you choose to send** — [invitations](/help/invite-guests), [event updates](/help/event-updates), and calendar newsletters — go out because you pressed Send. Those are the ones with limits, and this page explains how they work.
 
 ---
 
@@ -26,7 +26,7 @@ The limits below protect that shared trust. If you email people who want to hear
 
 ### The monthly allowance
 
-You can send up to **500 emails per calendar month**, counted per recipient — an update sent to 40 guests uses 40. Invitations and event updates both count; automatic emails never do.
+You can send up to **500 emails per calendar month**, counted per recipient — an update sent to 40 guests uses 40. Invitations, event updates, and newsletters all count; automatic emails never do. A calendar's newsletters count against its owner's limits, whoever on the team sends them.
 
 A single CSV import is capped at 5,000 rows.
 
@@ -34,11 +34,11 @@ A single CSV import is capped at 5,000 rows.
 
 ### Reaching people who don't know you yet
 
-Someone belongs to **your audience** if they have RSVP'd to any of your events or follow you on Cloomba. Emailing your audience only draws on the monthly allowance above — inviting the sixty people who came last time never touches any other limit. Event updates go only to registered guests, so they are always in this category.
+Someone belongs to **your audience** if they have RSVP'd to any of your events or follow you on Cloomba. For a calendar's newsletters, and for invitations to any event whose home is that calendar, the calendar's followers and the guests of all those events count too. Emailing your audience only draws on the monthly allowance above — inviting the sixty people who came last time never touches any other limit. Event updates go only to registered guests, so they are always in this category.
 
 Everyone else counts as **new to you**, and a second, smaller allowance applies to them. Having a Cloomba account is not the same as knowing you: an invitation to a stranger counts as new even if they already use Cloomba.
 
-**The new-people allowance grows with your track record.** You start with **100 new-people invitations per 30 days**. Every event you have actually run — with a group of confirmed guests — adds another 100, up to **500 per 30 days**. Higher limits are available on request.
+**The new-people allowance grows with your track record.** You start with **100 emails to new people per 30 days**. Every event you have actually run — with a group of confirmed guests — adds another 100, up to **500 per 30 days**. Higher limits are available on request.
 
 ---
 

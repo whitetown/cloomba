@@ -58,7 +58,7 @@ When you are happy with the details, hit **Publish**. Your event page is now liv
 
 ### 6. Invite people
 
-Share your event link anywhere — social media, messaging apps, email. If you want to invite specific people directly, go to your event's guest list and send invitations by email, phone, or Cloomba username.
+Share your event link anywhere — social media, messaging apps, email. If you want to invite specific people directly, go to your event's **Invitations** tab and send invitations by email, phone, or Cloomba username.
 
 ---
 

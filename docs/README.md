@@ -65,6 +65,8 @@ The same pages are published on [cloomba.com](https://cloomba.com).
 ### Calendars
 - [What are calendars on Cloomba?](help/about-calendars.md)
 - [Creating a calendar](help/create-calendar.md)
+- [Calendar newsletters](help/calendar-newsletters.md)
+- [Calendar admins and ownership](help/calendar-admins.md)
 - [Submitting an event to a calendar](help/submit-event-to-calendar.md)
 - [Following a calendar](help/calendar-subscriptions.md)
 

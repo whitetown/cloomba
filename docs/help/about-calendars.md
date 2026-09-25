@@ -63,7 +63,7 @@ A calendar can offer membership tiers — free or paid, open to everyone or appr
 
 ### Writing to your followers
 
-From the calendar's Newsletters tab, the owner or an admin can email everyone the calendar has reached: people who follow it, people who came to its events, and contacts added on the People tab. Every email carries an unsubscribe link, and anyone can turn calendar newsletters off in their notification settings.
+From the calendar's Newsletters tab, the owner or an admin can email everyone the calendar has reached: people who follow it, people who came to its events, and contacts added on the People tab. Every email carries an unsubscribe link, and anyone can turn calendar newsletters off in their notification settings. See [Calendar newsletters](/help/calendar-newsletters).
 
 ---
 

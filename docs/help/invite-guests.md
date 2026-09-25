@@ -18,17 +18,19 @@ For **public** events this is the primary way to spread the word.
 
 ### Personal invitations
 
-For **unlisted** and **private** events — and any time you want to invite someone directly — open your event's **Invitations** tab and choose **Invite people**.
+For **unlisted** and **private** events — and any time you want to invite someone directly — open your event's **Invitations** tab and choose **Invite by email**.
 
-Add everyone you want to invite to one list. You can build that list three ways, and mix them freely:
+Add everyone you want to invite to one list. You can build that list four ways, and mix them freely:
 
 **Type an email or @username.** Press Enter after each, or paste a whole batch separated by commas, spaces, or new lines. If the person already has a Cloomba account, use their username and the invitation lands in their inbox. If you only have an email address, use that — the invitation is matched to their account automatically once they sign up with that email.
 
-**Drop in a CSV.** Drag a file onto the composer or paste the contents. Cloomba pulls out the email addresses and shows you what it found before you send: how many are valid, how many are duplicates, and who has already been invited.
+**Drop in a CSV.** Under **Import from CSV**, drop a file or click to choose one. Cloomba pulls out the email addresses and adds each one to your list once.
 
-**Add from a past event.** Pick one of your previous events and bring its confirmed guests across in one click. This is the fastest way to invite a returning audience.
+**Add your calendar's people.** If the event's home calendar is yours — as its owner or an admin — it appears on the invite page under its own name. Pick **Everyone**, or narrow it to groups from the People tab: **Followers**, **Guests**, **Manual**, a membership tier, or a tag. Groups add up, and anyone in two of them is invited once. Only the home calendar is offered, never a calendar the event is just listed on.
 
-The list is checked as you build it, so you see who could not be found and who already has an invitation before anything is sent.
+**Pick from a past event.** Under **Past events**, find one of your previous events and choose who to bring across: **Guests**, **Checked in**, **Waitlist**, or **Invited** — people you invited who never registered. This is the fastest way to invite a returning audience.
+
+The list is checked as you build it, so before anything is sent you see who could not be found, who already has an invitation, who is already registered, who unsubscribed from your emails, and who is blocked. None of them get an invitation.
 
 When you are ready, add an optional **personal message** — it appears on the invitation and in the email — and send.
 
@@ -44,7 +46,7 @@ Invitation emails count towards your [email sending limits](/help/email-sending-
 
 ### Open invite links
 
-Sometimes you want to invite people without knowing who they are. **Create link** on the Invitations tab mints an **open link** — a reusable invitation anyone can open and RSVP from.
+Sometimes you want to invite people without knowing who they are. **Create short link** on the Invitations tab mints an **open link** — a reusable invitation anyone can open and RSVP from.
 
 Give each link a name — "Facebook", "Newsletter", "Front desk" — and you can see which channel your guests actually came through. Create as many as you like.
 
