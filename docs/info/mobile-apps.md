@@ -10,7 +10,7 @@ generated: from whitetown/cloomba-content — do not edit here, open an issue in
 
 ## Cloomba on iOS and Android
 
-Cloomba is now live on the **App Store** and **Google Play**. The apps cover everything you can do on the website — discover events, RSVP, manage your own events, chat with organisers, and post to the event media wall — in a faster, mobile-first interface.
+Cloomba is now live on the **App Store** and **Google Play**. The apps cover everything you can do on the website — discover events, RSVP, manage your own events, chat with organizers, and post to the event media wall — in a faster, mobile-first interface.
 
 ### What's in the apps
 

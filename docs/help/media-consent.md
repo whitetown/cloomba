@@ -22,15 +22,15 @@ This confirmation is shown as part of the upload flow — you cannot upload with
 
 ### Your rights if you appear in someone else's upload
 
-If you appear in a photo or video on a Cloomba media wall and want it removed, contact the organiser directly — they can delete any post on their event's wall. If the organiser does not respond, contact us at [support (at) cloomba.com](/info/contact) and we will review the request.
+If you appear in a photo or video on a Cloomba media wall and want it removed, contact the organizer directly — they can delete any post on their event's wall. If the organizer does not respond, contact us at [support (at) cloomba.com](/info/contact) and we will review the request.
 
 Under GDPR, you have the right to object to the processing of your image in certain circumstances. See [GDPR & Your Rights](/legal/gdpr) for more.
 
 ---
 
-### Organiser responsibility
+### Organizer responsibility
 
-As an organiser, you are responsible for the content posted on your event's media wall. Make sure attendees understand your photography policy — include it in your event description if it matters for your event. You can remove any post at any time.
+As an organizer, you are responsible for the content posted on your event's media wall. Make sure attendees understand your photography policy — include it in your event description if it matters for your event. You can remove any post at any time.
 
 ---
 

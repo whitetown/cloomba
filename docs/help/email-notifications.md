@@ -17,8 +17,8 @@ Cloomba sends transactional emails to keep you informed about events you care ab
 **For attendees:**
 - **RSVP confirmation** — sent immediately when you RSVP to an event
 - **Event reminder** — sent the day before an event starts
-- **Event update** — when the organiser posts an announcement to the event
-- **Invitation** — when an organiser invites you directly to an unlisted or private event
+- **Event update** — when the organizer posts an announcement to the event
+- **Invitation** — when an organizer invites you directly to an unlisted or private event
 - **Waitlist status** — when you join a waitlist, and again if a spot opens up
 
 **For organizers:**

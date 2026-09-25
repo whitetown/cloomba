@@ -38,7 +38,7 @@ When something new happens, the badge ticks up without you needing to refresh �
 
 ### Push notifications
 
-Push notifications are the same events, delivered to your device's notification centre. See [Setting up push notifications](/help/push-notifications) to turn them on.
+Push notifications are the same events, delivered to your device's notification center. See [Setting up push notifications](/help/push-notifications) to turn them on.
 
 ---
 
@@ -48,6 +48,6 @@ Some kinds of notification — RSVP confirmations, event updates, invitations �
 
 ---
 
-### What you can't do yet
+### Choosing where notifications reach you
 
-There's no per-kind preference toggle today — you get all notifications relevant to the events and calendars you're part of. A more granular preferences page is on the roadmap.
+The inbox lists every notification. To choose which kinds also reach you by email, push, or Telegram, open **Preferences** in your account on the web, or **Settings → Notifications** in the app. Each kind — event reminders, organizer announcements, registrations, comments and mentions, invitations, chat requests, calendar newsletters, and the daily digest — has its own switch for each channel. Account and payment alerts always arrive.

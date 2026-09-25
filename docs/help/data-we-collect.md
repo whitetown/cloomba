@@ -25,11 +25,11 @@ We collect only what's necessary to run Cloomba. Here's a plain-language breakdo
 
 ## Event data
 
-When you create or attend events, we store the events you organised, your RSVPs, ticket purchases, and any content you post (comments, photos, videos).
+When you create or attend events, we store the events you organized, your RSVPs, ticket purchases, and any content you post (comments, photos, videos).
 
 ## Device and usage data
 
-We collect standard technical data to keep the platform running: IP address, browser type, and basic usage logs. We do not build behavioural profiles or sell this data.
+We collect standard technical data to keep the platform running: IP address, browser type, and basic usage logs. We do not build behavioral profiles or sell this data.
 
 ## Firebase Authentication
 

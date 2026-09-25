@@ -1,6 +1,6 @@
 ---
-title: "Customising RSVP emails"
-meta_description: "How to customise the approved- and declined-RSVP emails Cloomba sends to your guests, with placeholder variables for personalisation."
+title: "Adding your note to guest emails"
+meta_description: "How to add a personal note to the emails Cloomba sends your guests — approved, declined, registration confirmed, and post-event feedback — while the rest stays in each guest's language."
 section: null
 section_position: 0
 position: 57
@@ -8,47 +8,39 @@ status: published
 generated: from whitetown/cloomba-content — do not edit here, open an issue instead
 ---
 
-For events that use **Require approval**, Cloomba sends an automatic email to each guest when you approve or decline their request. You can override the default text with your own per-event template.
+Cloomba emails your guests on your behalf, each in the guest's own language. You can add a personal note to four of these emails — parking, what to bring, a thank-you — and it appears inside the email, just as you wrote it.
 
 ---
 
-### What you can customise
+### Where to find it
 
-Two templates per event:
-
-- **Approved** — sent when you approve a pending RSVP
-- **Declined** — sent when you decline a pending RSVP
-
-The defaults are short and friendly. Customise them when you want a specific voice, to add practical details ("door opens at 18:30, ring bell #4"), or to soften a decline with context.
+Open your event's management page, go to the **Advanced** tab, and scroll to **Email notes**.
 
 ---
 
-### Variables
+### Which emails take a note
 
-Templates support a handful of placeholders that get filled in per recipient:
+- **Approved registration** — sent when you approve a pending request
+- **Declined registration** — sent when you decline a pending request
+- **Registration confirmed** — sent when a guest's place is confirmed
+- **Post-event feedback** — sent after the event
 
-- `{{guest_name}}` — the guest's display name
-- `{{event_title}}` — your event's title
-- `{{event_url}}` — direct link back to the event page
-- `{{event_date}}` — formatted event date
-- additional event-specific tokens shown in the editor
+Each email has its own note. Write it in **Your note** and save. Leave a note empty and that email goes out without one.
 
-Drop them into the body and Cloomba substitutes the real values when sending.
+---
+
+### What a note can contain
+
+Plain text, up to 2,000 characters. Links you paste become clickable.
 
 ---
 
 ### Sending a test
 
-The editor has a **Send test** button — it sends the current draft to your own email address so you can preview the rendering before saving.
+**Send test email** sends the email with your current note to your own address, so you can see it the way your guests will.
 
 ---
 
-### Resetting to default
+### Cancelling an event
 
-If you change your mind, the **Reset to default** button restores Cloomba's stock copy for that template.
-
----
-
-### Other emails
-
-The transactional emails Cloomba sends for reminders, ticket confirmations, and waitlist alerts are not customisable per event today — they use platform defaults. See [Email reminders & alerts](/help/email-notifications).
+The cancel dialog has its own **Message to guests** field, added to the cancellation email — see [Cancelling an event](/help/cancel-event). For when reminders go out, see [Email reminders & alerts](/help/email-notifications).

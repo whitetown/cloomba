@@ -40,7 +40,7 @@ Speakers appear in their own tab on the event page, with chips linking to the se
 
 ### Who can edit
 
-The event organiser and admins can add, edit, and remove sessions and speakers. Moderators cannot.
+The event organizer and admins can add, edit, and remove sessions and speakers. Moderators cannot.
 
 ---
 

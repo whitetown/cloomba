@@ -33,7 +33,7 @@ As a user in the EU (or anywhere), you have the right to access, correct, export
 ## Security practices
 
 - All data is transmitted over HTTPS
-- Access to production systems is restricted to authorised personnel
+- Access to production systems is restricted to authorized personnel
 - We do not sell your data to third parties
 
 Questions? [contact us](/info/contact).

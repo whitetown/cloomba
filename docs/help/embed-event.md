@@ -35,7 +35,7 @@ The `embed.js` script resizes the card to fit. Free events can be RSVP'd to righ
 
 ### Registration button
 
-A button that opens the event in a centred pop-up — handy when you just want a call-to-action.
+A button that opens the event in a centered pop-up — handy when you just want a call-to-action.
 
 ```html
 <a
@@ -49,7 +49,7 @@ The button comes with a default style. To use your **own** styling, remove the `
 
 ---
 
-### Customising
+### Customizing
 
 **Inline card** — add query parameters to the `src` URL (e.g. `…/embed/e/your-event?theme=dark`):
 
@@ -57,7 +57,7 @@ The button comes with a default style. To use your **own** styling, remove the `
 | --- | --- | --- |
 | `locale` | `en`, `sk`, `uk`, … | Starting language of the card |
 | `theme` | `light`, `dark` | Force light or dark (default: follows the visitor) |
-| `accent` | `%23rrggbb` | Override the accent colour (write `#` as `%23`) |
+| `accent` | `%23rrggbb` | Override the accent color (write `#` as `%23`) |
 | `bg` | `transparent`, `%23rrggbb` | Card background — `transparent` blends into your page |
 
 `locale` sets the language the card opens in, not the only one it can show: every card carries a language picker in its footer, so a visitor can switch to their own language. Leave `locale` out and the card opens in the visitor's browser language.

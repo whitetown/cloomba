@@ -18,11 +18,11 @@ Plans change. You can cancel your RSVP to a free event at any time before the ev
 2. Tap **Cancel RSVP**
 3. Confirm your cancellation
 
-Your spot is released immediately and the organiser is notified.
+Your spot is released immediately and the organizer is notified.
 
 ## Paid tickets
 
-If you purchased a ticket, cancellation does not automatically trigger a refund. Refunds are handled by the organiser via Stripe. Contact the organiser directly through the event page to request one.
+If you paid for your ticket by card, cancelling refunds you automatically: the full amount goes back to your card, usually within 5–10 business days depending on your bank. If you paid the organizer directly — by bank transfer or in cash — [contact the organizer](/help/contact-organizer) to arrange your refund.
 
 ## Events with a waitlist
 
@@ -30,4 +30,4 @@ If you cancel and the event has a waitlist, the next person on the list may be o
 
 ## After the event has started
 
-You won't be able to cancel your RSVP once the event is underway. If you have a question about attendance after the fact, contact the organiser directly.
+You won't be able to cancel your RSVP once the event is underway. If you have a question about attendance after the fact, contact the organizer directly.

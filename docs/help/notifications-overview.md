@@ -17,12 +17,12 @@ Cloomba sends notifications to keep you informed about events you care about —
 **As an attendee:**
 - Your RSVP is confirmed or declined
 - You move from the waitlist to confirmed
-- The organiser posts an event update
+- The organizer posts an event update
 - The event is cancelled or rescheduled
 - A reminder before the event starts
 - Someone reacts to or comments on your media post
 
-**As an organiser:**
+**As an organizer:**
 - Someone RSVPs to your event
 - A guest requests approval (if Require approval is on)
 - A submission arrives for your calendar

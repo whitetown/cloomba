@@ -30,7 +30,7 @@ Magic links expire quickly. If you requested one and it hasn't arrived after a m
 
 ## Corporate or university email
 
-Some organisations block external email or filter aggressively. Try signing in with a personal email address or use Google/Apple sign-in instead.
+Some organizations block external email or filter aggressively. Try signing in with a personal email address or use Google/Apple sign-in instead.
 
 ## Still not arriving?
 

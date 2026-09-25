@@ -12,7 +12,7 @@ The same pages are published on [cloomba.com](https://cloomba.com).
 - [Opening the media wall to non-attendees](help/open-media-wall.md)
 - [Discount coupons for paid events](help/coupons.md)
 - [Adding an agenda and speakers to your event](help/agenda-and-speakers.md)
-- [Customising RSVP emails](help/email-templates.md)
+- [Adding your note to guest emails](help/email-templates.md)
 - [Hashtags and categories on events](help/hashtags-and-categories.md)
 - [Browse events by city](help/browse-by-city.md)
 - [Browse events by category](help/browse-by-category.md)
@@ -36,7 +36,7 @@ The same pages are published on [cloomba.com](https://cloomba.com).
 - [Recurring and multi-date events](help/recurring-events.md)
 - [Duplicating an event](help/clone-event.md)
 - [Cancelling an event](help/cancel-event.md)
-- [Event colours and appearance](help/event-themes.md)
+- [Event colors and appearance](help/event-themes.md)
 - [Sending updates to attendees](help/event-updates.md)
 - [Transferring event ownership](help/transfer-event.md)
 
@@ -60,7 +60,7 @@ The same pages are published on [cloomba.com](https://cloomba.com).
 - [Hosting free events](help/free-events.md)
 - [Getting paid — how payouts work](help/payouts.md)
 - [Issuing refunds to guests](help/refunds.md)
-- [Taxes and VAT for EU organisers](help/taxes-vat.md)
+- [Taxes and VAT for EU organizers](help/taxes-vat.md)
 
 ### Calendars
 - [What are calendars on Cloomba?](help/about-calendars.md)
@@ -103,7 +103,7 @@ The same pages are published on [cloomba.com](https://cloomba.com).
 - [How to RSVP to an Event](help/rsvp-to-event.md)
 - [Cancelling Your RSVP](help/cancel-rsvp.md)
 - [Getting and Finding Your Tickets](help/getting-tickets.md)
-- [How to contact the event organiser](help/contact-organizer.md)
+- [How to contact the event organizer](help/contact-organizer.md)
 - [Add a Cloomba event to your calendar](help/add-to-calendar.md)
 
 ### Security & privacy
@@ -122,7 +122,7 @@ The same pages are published on [cloomba.com](https://cloomba.com).
 ### Tips & tricks
 - [How to Promote Your Event](help/grow-attendance.md)
 - [Tips for a Standout Event Page](help/great-event-page.md)
-- [Organiser Checklist Before the Event](help/event-checklist.md)
+- [Organizer Checklist Before the Event](help/event-checklist.md)
 - [After the Event: Follow-Up Tips](help/post-event-tips.md)
 - [Building a Community with Calendars](help/community-building.md)
 
@@ -131,7 +131,7 @@ The same pages are published on [cloomba.com](https://cloomba.com).
 ### Product
 - [Frequently asked questions](info/faq.md)
 - [Features](info/features.md)
-- [Cloomba for organisers](info/for-organizers.md)
+- [Cloomba for organizers](info/for-organizers.md)
 
 ### Product
 - [Cloomba on iOS and Android](info/mobile-apps.md)

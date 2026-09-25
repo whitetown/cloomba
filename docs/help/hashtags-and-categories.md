@@ -28,7 +28,7 @@ Rules:
 
 Every tag you add becomes a clickable chip on your event page. Tapping the chip opens a page listing all events with that tag.
 
-A small subset of tags are **promoted categories** — curated by the Cloomba team and given a friendly title, an icon, and a colour. Promoted categories also appear in the **Browse by Category** block on Discover, get their own rich landing page, and are subscribable (people can follow them and be notified of new events).
+A small subset of tags are **promoted categories** — curated by the Cloomba team and given a friendly title, an icon, and a color. Promoted categories also appear in the **Browse by Category** block on Discover, get their own rich landing page, and are subscribable (people can follow them and be notified of new events).
 
 You can't promote your own tag — promotion is editorial. Pick tags that genuinely describe your event, and the right ones get promoted as the platform grows.
 
@@ -42,4 +42,4 @@ If you write `#tag` in a comment, Cloomba turns it into a link and adds the tag 
 
 ### Categories vs calendars
 
-Categories filter events by topic, across all organisers. **Calendars** are curated channels run by a specific organiser. They complement each other — see [What are calendars on Cloomba?](/help/about-calendars).
+Categories filter events by topic, across all organizers. **Calendars** are curated channels run by a specific organizer. They complement each other — see [What are calendars on Cloomba?](/help/about-calendars).

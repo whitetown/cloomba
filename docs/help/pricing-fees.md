@@ -38,7 +38,7 @@ Payouts go to your connected Stripe bank account after the event. Stripe's stand
 
 ### Refunds
 
-If you refund a ticket, the attendee receives the full ticket price back. Cloomba refunds its 5% fee too — unlike most ticketing platforms, you don't pay to refund. Whether the payment processing fee is returned depends on your Stripe account settings.
+If you refund a ticket, the attendee receives the full ticket price back. Cloomba refunds its 5% fee too, so refunding a ticket costs you nothing on our side. Stripe keeps its processing fee from the original payment — that's Stripe's rule for every refund.
 
 ---
 

@@ -32,7 +32,7 @@ Each post can have an optional caption. Keep it short — a sentence or two is e
 
 You can edit the caption of your post at any time. You can also delete your own posts from the media wall at any time.
 
-Organisers, admins, and moderators can delete any post on the wall.
+Organizers, admins, and moderators can delete any post on the wall.
 
 ---
 

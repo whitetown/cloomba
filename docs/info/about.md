@@ -1,6 +1,6 @@
 ---
 title: "About Cloomba"
-meta_description: "Cloomba is a European event management platform — simple to use, built to respect your privacy, and designed for organisers who care about their community."
+meta_description: "Cloomba is an event platform: host your own events, grow your community, and bring people together. Made by WhiteTown s.r.o. in Bratislava, Slovakia, launched in May 2026."
 section: "Company"
 section_position: 10
 position: 10
@@ -8,48 +8,35 @@ status: published
 generated: from whitetown/cloomba-content — do not edit here, open an issue instead
 ---
 
-Cloomba is an event management platform built for organisers who want a tool that works — without the bloat, the dark patterns, or the data harvesting that comes with most alternatives.
-
-Create an event, invite people, sell tickets if you need to, and let attendees share photos and memories afterwards. That is the core of it. Everything else follows from making those things genuinely good.
+Cloomba is an event platform. Host your own events, grow your community, and bring people together — registration, tickets, check-in, chat, and a shared photo wall, in one place.
 
 ---
 
-### What you can do with Cloomba
+### Cloomba at a glance
 
-**For organisers**
-- Create public or private events in minutes
-- Set up free or paid ticket types
-- Require approval before people join, or open it up to anyone
-- Add co-hosts and event managers
-- Send updates to everyone who has registered
-- Check in attendees at the door with a QR scanner
-- Export your guest list at any time
-- Organise your events into calendars and build a following
-
-**For attendees**
-- RSVP or buy tickets in a few taps
-- Get reminders before the event
-- Upload photos and videos to the event media wall
-- Stay up to date with organiser announcements
+- **Made by** WhiteTown s.r.o., Bratislava, Slovakia — see the [imprint](/legal/imprint).
+- **Launched** in May 2026.
+- **Price:** free. When you sell tickets, Cloomba takes 5% plus card processing out of your payout, so guests pay exactly the price you list — see [pricing](/info/pricing).
+- **Where it runs:** on the web at cloomba.com, in the iOS and Android apps, and in Telegram through @cloomba_bot — see [mobile apps](/info/mobile-apps).
+- **Languages:** multiple European languages, and every email reaches each guest in their own language.
+- **Your data** is stored on servers in the EU — see the [privacy policy](/legal/privacy).
 
 ---
 
-### Who it is for
+### Who it's for
 
-Cloomba is built for community organisers, meetup hosts, conference teams, independent promoters, and anyone who brings people together regularly. If you run one event a year or fifty, the platform scales to fit.
+Community organizers, meetup hosts, conference teams, independent promoters, and anyone who brings people together regularly — one event a year or fifty.
 
-We are particularly focused on European organisers — people who care about where their data lives, who want GDPR compliance as a given rather than an add-on, and who are tired of paying US platforms to host European communities.
-
----
-
-### Built in Europe
-
-Cloomba is made by **WhiteTown s.r.o.**, a software company based in Bratislava, Slovakia. Our servers run in the EU. Our product decisions are made by people, not algorithms.
-
-We believe the best tools are built by people who use them. We are organisers too.
+Cloomba is relatively young, and it's growing. Try it, create your events, and [give us feedback](/info/contact) — with your help, we'll make it even better.
 
 ---
 
-### Get in touch
+### What it does
 
-Questions, feedback, or just want to say hello — reach us at [support (at) cloomba.com](/info/contact). We read every message.
+See the [features page](/info/features).
+
+---
+
+### Contact
+
+[Get in touch](/info/contact).

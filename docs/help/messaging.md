@@ -8,7 +8,7 @@ status: published
 generated: from whitetown/cloomba-content — do not edit here, open an issue instead
 ---
 
-Cloomba has built-in 1:1 messaging — chat with organisers, co-hosts, or anyone else you've connected with, without leaving Cloomba.
+Cloomba has built-in 1:1 messaging — chat with organizers, co-hosts, or anyone else you've connected with, without leaving Cloomba.
 
 ### Where to find it
 

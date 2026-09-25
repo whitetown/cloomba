@@ -1,6 +1,6 @@
 ---
 title: "Comments and reactions on media"
-meta_description: "How comments and emoji reactions work on the event media wall, and the organiser controls."
+meta_description: "How comments and emoji reactions work on the event media wall, and the organizer controls."
 section: "Media & content"
 section_position: 60
 position: 50
@@ -16,9 +16,9 @@ Open any post in the media wall to read its comments and add your own. Every pos
 
 Comments and reactions appear live for everyone viewing the same event — no need to refresh. See [Real-time updates](/help/notifications-inbox) for the wider story.
 
-### Organiser controls
+### Organizer controls
 
-In your event settings you can turn **reactions off** to disable emoji reactions on media posts. Organisers, admins, and moderators can also delete any comment or remove any reaction at any time — handy for spam or off-topic content.
+In your event settings you can turn **reactions off** to disable emoji reactions on media posts. Organizers, admins, and moderators can also delete any comment or remove any reaction at any time — handy for spam or off-topic content.
 
 ### Looking for the event discussion?
 

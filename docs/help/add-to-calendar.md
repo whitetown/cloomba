@@ -30,6 +30,6 @@ Cloomba stores each event with its own time zone. Your calendar will show the ev
 
 ### If the event changes
 
-If the organiser updates the date, time, or location after you've added the event to your calendar, you'll need to re-add it. Calendar apps don't follow Cloomba's live updates; the **.ics** download is a one-time snapshot.
+If the organizer updates the date, time, or location after you've added the event to your calendar, you'll need to re-add it. Calendar apps don't follow Cloomba's live updates; the **.ics** download is a one-time snapshot.
 
-To stay in sync with changes, keep email and push notifications on — Cloomba notifies you when an organiser sends an update.
+To stay in sync with changes, keep email and push notifications on — Cloomba notifies you when an organizer sends an update.

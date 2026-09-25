@@ -14,9 +14,9 @@ The media wall is a shared photo and video feed on your event page. Attendees ca
 
 ### Who can upload
 
-By default, confirmed attendees can upload photos to the media wall. Organisers and admins can also upload. You can control this in your event settings:
+By default, confirmed attendees can upload photos to the media wall. Organizers and admins can also upload. You can control this in your event settings:
 
-- **Allow attendee uploads** — on by default. Turn it off if you want only organisers to post.
+- **Allow attendee uploads** — on by default. Turn it off if you want only organizers to post.
 - **Allow attendee video uploads** — off by default. Turn it on to let attendees upload videos too.
 
 ---
@@ -35,7 +35,7 @@ Attendees can react to media and leave comments on individual posts. You can dis
 
 ### Removing content
 
-Organisers, admins, and moderators can delete any media post or comment from the wall. Use this to remove anything that violates your event's standards or Cloomba's [Acceptable Use Policy](/legal/acceptable-use).
+Organizers, admins, and moderators can delete any media post or comment from the wall. Use this to remove anything that violates your event's standards or Cloomba's [Acceptable Use Policy](/legal/acceptable-use).
 
 ---
 

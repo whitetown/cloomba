@@ -28,7 +28,7 @@ Comments on individual posts stay attendee-only regardless of the wall setting.
 
 ### Consent always asked
 
-When an attendee uploads to the wall, Cloomba asks them to confirm consent — every time, on every event. The consent wording **describes the actual audience** the photos will reach, including a warning that the organiser can later widen that audience:
+When an attendee uploads to the wall, Cloomba asks them to confirm consent — every time, on every event. The consent wording **describes the actual audience** the photos will reach, including a warning that the organizer can later widen that audience:
 
 - **Attendees-only wall:** "Only the organizer and attendees can see what you upload now — but the organizer can later open this album to everyone who can see the event. They may also share or reuse it."
 - **Open wall:** "Everyone who can open this event can see what you upload. The organizer may also share or reuse it."
@@ -45,7 +45,7 @@ You can switch the wall from open back to attendees-only at any time. The wall h
 
 ### Uploaders can always delete their own posts
 
-Whatever the wall visibility, attendees can delete photos and videos they uploaded — the GDPR-style escape hatch. Organisers, admins, and moderators can also delete any post.
+Whatever the wall visibility, attendees can delete photos and videos they uploaded — the GDPR-style escape hatch. Organizers, admins, and moderators can also delete any post.
 
 ---
 

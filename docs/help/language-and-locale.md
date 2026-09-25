@@ -27,7 +27,7 @@ Use the language switcher in the top-right of any page, or pick a language durin
 
 ### What does NOT get translated
 
-- **Event titles, descriptions, and updates** — they stay in whatever language the organiser wrote them in. Cloomba doesn't auto-translate anything people write. Descriptions are the one place an organiser can cover several languages by hand — see below.
+- **Event titles, descriptions, and updates** — they stay in whatever language the organizer wrote them in. Cloomba doesn't auto-translate anything people write. Descriptions are the one place an organizer can cover several languages by hand — see below.
 - **Comments and media captions** — written by attendees, kept as-is.
 
 ---

@@ -12,7 +12,7 @@ Cloomba has no search box for finding people. You connect with people you actual
 
 ### Three ways to start a chat
 
-**From an event.** Tap someone's name or photo on an event — an organiser, a speaker, or a fellow guest — to open their profile, then tap **Connect**.
+**From an event.** Tap someone's name or photo on an event — an organizer, a speaker, or a fellow guest — to open their profile, then tap **Connect**.
 
 **From a profile.** Every profile at `cloomba.com/u/username` has a **Connect** button. Once you already have a conversation, the same button reads **Chat** and takes you straight to it.
 

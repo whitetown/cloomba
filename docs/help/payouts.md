@@ -39,7 +39,7 @@ Attendees pay the full listed price. The fees come out of your share.
 
 ### Refunds and their effect on payouts
 
-If you issue a refund before a payout has been processed, Stripe deducts the refunded amount from the pending payout. If the payout has already been sent, Stripe debits your account for the refund amount. Cloomba's 5% fee is returned to you on refunds — unlike most platforms, you don't pay to refund.
+If you issue a refund before a payout has been processed, Stripe deducts the refunded amount from the pending payout. If the payout has already been sent, Stripe debits your account for the refund amount. Cloomba's 5% fee is returned to you on refunds, so a refund costs you nothing on our side. Stripe keeps its processing fee from the original payment.
 
 ---
 

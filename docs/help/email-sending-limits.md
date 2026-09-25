@@ -18,7 +18,7 @@ Cloomba sends two kinds of email, and only one of them is limited.
 
 ### Why limits exist
 
-When someone marks an email as spam, mailbox providers like Gmail trust the sender a little less — and on a shared platform, the sender is Cloomba. A single careless sender blasting a bought address list could push ticket confirmations into spam folders for every organiser on the platform.
+When someone marks an email as spam, mailbox providers like Gmail trust the sender a little less — and on a shared platform, the sender is Cloomba. A single careless sender blasting a bought address list could push ticket confirmations into spam folders for every organizer on the platform.
 
 The limits below protect that shared trust. If you email people who want to hear from you, you will most likely never run into them.
 
@@ -46,7 +46,7 @@ Everyone else counts as **new to you**, and a second, smaller allowance applies 
 
 The send is blocked **as a whole** — nothing goes out, and you see a message explaining which limit you hit. We never send half of your list and quietly drop the rest, so you always know exactly who has been emailed.
 
-If you hit a limit with a genuine audience waiting, [contact us](/info/contact) and tell us about your events. Raising a limit for a real organiser is free and quick — the limits exist to stop scraped address lists, not community builders.
+If you hit a limit with a genuine audience waiting, [contact us](/info/contact) and tell us about your events. Raising a limit for a real organizer is free and quick — the limits exist to stop scraped address lists, not community builders.
 
 ---
 

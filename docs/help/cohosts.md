@@ -14,7 +14,7 @@ If you are running an event with a team, you can give other Cloomba users access
 
 ### Roles
 
-**Admin** — broad management access. Can edit the event, manage the guest list, approve or decline RSVPs, send invitations, post updates, manage ticket types, handle bans, run check-in, and delete media or comments. Cannot cancel or delete the event, issue refunds, or manage the staff roster — those actions are reserved for the organiser.
+**Admin** — broad management access. Can edit the event, manage the guest list, approve or decline RSVPs, send invitations, post updates, manage ticket types, handle bans, run check-in, and delete media or comments. Cannot cancel or delete the event, issue refunds, or manage the staff roster — those actions are reserved for the organizer.
 
 **Moderator** — focused on day-of moderation. Can run check-in, manage bans, and delete inappropriate media or comments. Cannot edit event details, manage the guest list, approve RSVPs, send invitations, or post updates.
 
@@ -37,6 +37,6 @@ You can remove a staff member at any time from the Staff section. Their access i
 
 ---
 
-### Managing staff is organiser-only
+### Managing staff is organizer-only
 
-Only the original organiser can add or remove staff members. Admins cannot modify the staff roster.
+Only the original organizer can add or remove staff members. Admins cannot modify the staff roster.

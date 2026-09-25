@@ -19,7 +19,7 @@ Deleting your Cloomba account is a serious step. Once erased under GDPR, your pr
 
 ## Before you delete
 
-- **Events you organised** — these are NOT auto-cancelled today. If you have upcoming events with registered guests, **cancel them first** so attendees are notified properly. We're working on automating this.
+- **Events you organized** — these are NOT auto-cancelled today. If you have upcoming events with registered guests, **cancel them first** so attendees are notified properly. We're working on automating this.
 - **Paid tickets** — if guests hold paid tickets to your future events, issue refunds via Stripe before deleting.
 - **Your RSVPs** — your future RSVPs no longer count once the account is deleted.
 

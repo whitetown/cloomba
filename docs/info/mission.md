@@ -8,9 +8,9 @@ status: published
 generated: from whitetown/cloomba-content — do not edit here, open an issue instead
 ---
 
-The event platforms most people use today were built in Silicon Valley, funded by venture capital, and optimised for growth at any cost. That model has a price — your data, your attendees' data, and eventually your dependence on a platform whose incentives are not aligned with yours.
+The event platforms most people use today were built in Silicon Valley, funded by venture capital, and optimized for growth at any cost. That model has a price — your data, your attendees' data, and eventually your dependence on a platform whose incentives are not aligned with yours.
 
-We built Cloomba because we think organisers in Europe deserve better.
+We built Cloomba because we think organizers in Europe deserve better.
 
 ---
 
@@ -22,15 +22,15 @@ Cloomba runs on infrastructure in the **European Union** — EU West, Amsterdam.
 
 ### GDPR as a design principle
 
-Most platforms treat GDPR compliance as a legal obligation to minimise. We treat it as a design principle. We collect only what we need to run the service. We do not sell data. We do not build advertising profiles. We do not track your attendees across the web.
+Most platforms treat GDPR compliance as a legal obligation to minimize. We treat it as a design principle. We collect only what we need to run the service. We do not sell data. We do not build advertising profiles. We do not track your attendees across the web.
 
-When your attendees sign up for an event on Cloomba, they are giving their data to you — the organiser — not to a platform that will use it for its own purposes.
+When your attendees sign up for an event on Cloomba, they are giving their data to you — the organizer — not to a platform that will use it for its own purposes.
 
 ---
 
 ### No venture capital, no growth-at-all-costs
 
-Cloomba is an independent product built and operated by a small team. We are not chasing a hockey-stick growth curve to satisfy investors. That means we can make decisions based on what is right for users, not what maximises engagement metrics or ad revenue.
+Cloomba is an independent product built and operated by a small team. We are not chasing a hockey-stick growth curve to satisfy investors. That means we can make decisions based on what is right for users, not what maximizes engagement metrics or ad revenue.
 
 Our business model is simple: free events are free, and we take a small fee on paid tickets. When you succeed, we succeed.
 
@@ -38,7 +38,7 @@ Our business model is simple: free events are free, and we take a small fee on p
 
 ### Built for European communities
 
-The communities that inspired Cloomba are the ones we know — tech meetups, cultural events, neighbourhood gatherings, professional conferences. Events that bring people together in person, in cities across Europe.
+The communities that inspired Cloomba are the ones we know — tech meetups, cultural events, neighborhood gatherings, professional conferences. Events that bring people together in person, in cities across Europe.
 
 We understand the context: multilingual audiences, local payment expectations, GDPR-aware attendees who read the privacy policy. We are building for that reality, not adapting an American product for it as an afterthought.
 

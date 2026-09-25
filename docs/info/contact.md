@@ -16,7 +16,7 @@ If your message has a specific topic, mention it in the subject so we can route 
 
 - **Account or how-to** — any question about using cloomba
 - **Legal or data rights** — GDPR requests, takedowns, legal correspondence
-- **Report abuse** — content or behaviour that breaks our [Acceptable Use Policy](/legal/acceptable-use); include a link to the event or profile
+- **Report abuse** — content or behavior that breaks our [Acceptable Use Policy](/legal/acceptable-use); include a link to the event or profile
 - **Press and media** — interviews, story ideas, asset requests
 - **Feedback and ideas** — bugs, feature requests, anything you'd improve
 

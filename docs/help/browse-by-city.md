@@ -8,7 +8,7 @@ status: published
 generated: from whitetown/cloomba-content — do not edit here, open an issue instead
 ---
 
-Cloomba organises in-person events by city, so you can see what's happening in a place you live or are visiting.
+Cloomba organizes in-person events by city, so you can see what's happening in a place you live or are visiting.
 
 ---
 
@@ -32,7 +32,7 @@ If you set a **home city** in your profile settings, Cloomba shows a **Popular n
 
 To set your home city: **Account → Settings → Home city**.
 
-If you don't set a home city, Cloomba falls back to no personalisation; you can still browse any city manually.
+If you don't set a home city, Cloomba falls back to no personalization; you can still browse any city manually.
 
 ---
 

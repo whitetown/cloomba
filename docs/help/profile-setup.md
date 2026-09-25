@@ -1,6 +1,6 @@
 ---
 title: "Setting Up Your Profile"
-meta_description: "Learn how to set up your Cloomba profile — display name, username, photo, and bio — so organisers and guests can recognise you."
+meta_description: "Learn how to set up your Cloomba profile — display name, username, photo, and bio — so organizers and guests can recognize you."
 section: "Your account"
 section_position: 80
 position: 32
@@ -10,12 +10,12 @@ generated: from whitetown/cloomba-content — do not edit here, open an issue in
 
 ## Setting up your profile
 
-Your Cloomba profile is how other users and event organisers recognise you. Setting it up takes less than a minute.
+Your Cloomba profile is how other users and event organizers recognize you. Setting it up takes less than a minute.
 
 ## What's on your profile?
 
 - **Display name** — shown on guest lists, comments, and invitations
-- **Username** — your unique handle (e.g. `@maria`); used when organisers invite you by username
+- **Username** — your unique handle (e.g. `@maria`); used when organizers invite you by username
 - **Profile photo** — appears next to your name across the platform
 - **Bio** — optional short text about yourself
 
@@ -26,7 +26,7 @@ Your Cloomba profile is how other users and event organisers recognise you. Sett
 3. Edit your display name, username, bio, or photo
 4. Tap **Save**
 
-Changes take effect immediately across all events you've attended or organised.
+Changes take effect immediately across all events you've attended or organized.
 
 ## Choosing a username
 

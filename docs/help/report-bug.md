@@ -16,8 +16,8 @@ Found something broken on Cloomba? We want to know. Good bug reports help us fix
 
 - **Refresh the page** — some issues resolve themselves after a reload
 - **Try a different browser** — if it works elsewhere, it may be a browser-specific issue
-- **Clear your cache** — old cached data can sometimes cause unexpected behaviour
-- **Check if it's a known issue** — browse the [Help centre](/help) to see if there's already guidance
+- **Clear your cache** — old cached data can sometimes cause unexpected behavior
+- **Check if it's a known issue** — browse the [Help center](/help) to see if there's already guidance
 
 ## How to report
 
@@ -33,4 +33,4 @@ The more detail you include, the faster we can reproduce and fix the issue.
 
 ## What happens next
 
-We review all bug reports and prioritise by severity. We may follow up by email if we need more information. We don't always send a reply when the fix ships, but we read everything.
+We review all bug reports and prioritize by severity. We may follow up by email if we need more information. We don't always send a reply when the fix ships, but we read everything.

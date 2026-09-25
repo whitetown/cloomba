@@ -13,7 +13,7 @@ generated: from whitetown/cloomba-content — do not edit here, open an issue in
 You can hand over an event to another Cloomba user. This is useful when:
 
 - You're stepping back from a series and a co-host is taking over.
-- The event moves to a different organisation.
+- The event moves to a different organization.
 - You created the event under the wrong account and want to move it.
 
 ### How to start a transfer
@@ -27,14 +27,14 @@ The recipient sees a notification and gets an email with a review link. They hav
 
 ### What happens when accepted
 
-- The new owner becomes the **organiser**.
+- The new owner becomes the **organizer**.
 - You stay attached as an **admin** — you keep edit access but ownership has moved.
 - All RSVPs, tickets, media, and comments stay where they are. Nothing is lost or duplicated.
 - The event slug and URL don't change.
 
 ### What happens when declined or cancelled
 
-- **Declined** by the recipient — the request closes; you remain the organiser.
+- **Declined** by the recipient — the request closes; you remain the organizer.
 - **Cancelled** by you — the recipient's pending notification is cleared.
 - **Expired** after 7 days — closed automatically.
 
@@ -44,6 +44,6 @@ You can't transfer an event that is **upcoming and has paid tickets**. Sales are
 
 You also can't transfer to someone who has blocked you, or whom you have blocked.
 
-### Co-organisers vs transfer
+### Co-organizers vs transfer
 
 If you just want to share management, add a **co-host** instead — that grants edit access without changing ownership. See [Adding co-hosts and managers](/help/cohosts).

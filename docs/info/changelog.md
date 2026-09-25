@@ -32,8 +32,8 @@ The first wave of post-launch features is live:
 
 - **Multiple ticket types** — sell early-bird, standard, VIP, and group tiers side by side
 - **Granular notification preferences** — pick which updates reach you by email, push, and Telegram
-- **Follow organisers and topics** — follow an organiser, calendar, category, or city to hear about new events
-- **Organiser analytics** — attendance trends, conversion funnels, and revenue summaries for your events
+- **Follow organizers and topics** — follow an organizer, calendar, category, or city to hear about new events
+- **Organizer analytics** — attendance trends, conversion funnels, and revenue summaries for your events
 - **Import events** — bring events over from other platforms in a few clicks
 - **Sign in with Telegram** — plus @cloomba_bot for one-tap walk-in RSVPs at the door
 
@@ -58,8 +58,8 @@ Cloomba launches publicly. The full core platform is live:
 **Events**
 - Create public, unlisted, and private events
 - Recurring and multi-date events
-- Cover images, with event colours generated from them
-- Organiser updates (announcements to attendees)
+- Cover images, with event colors generated from them
+- Organizer updates (announcements to attendees)
 - Event cloning
 - Event ownership transfer
 
@@ -69,7 +69,7 @@ Cloomba launches publicly. The full core platform is live:
 - Check-in at the door
 - Guest questions (collect info at RSVP)
 - CSV guest list export
-- Admin and moderator roles for co-organisers
+- Admin and moderator roles for co-organizers
 
 **Tickets & payments**
 - Free and paid events via Stripe

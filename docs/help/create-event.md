@@ -26,7 +26,7 @@ Running the event for people who read different languages? You can [write one de
 
 ### Date, time, and timezone
 
-Set the start and end time for your event. The timezone is detected from your browser but you can change it — useful if you are organising an event in a different city.
+Set the start and end time for your event. The timezone is detected from your browser but you can change it — useful if you are organizing an event in a different city.
 
 For online events where attendees join from multiple timezones, the event page shows the time in each visitor's local timezone automatically.
 

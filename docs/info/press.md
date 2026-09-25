@@ -14,7 +14,7 @@ Information for journalists, bloggers, and anyone writing about Cloomba.
 
 ## About Cloomba
 
-Cloomba is a European event management platform built for organisers who want a simple, privacy-respecting alternative to US-based tools. We're focused on real communities — meetups, clubs, parties, professional events — not algorithmic feeds or growth hacking.
+Cloomba is a European event management platform built for organizers who want a simple, privacy-respecting alternative to US-based tools. We're focused on real communities — meetups, clubs, parties, professional events — not algorithmic feeds or growth hacking.
 
 The platform is built and hosted entirely within the EU. We're based in Bratislava, Slovakia, and operated by WhiteTown s.r.o.
 

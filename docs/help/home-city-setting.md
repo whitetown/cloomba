@@ -32,7 +32,7 @@ The Discover page picks it up immediately.
 
 ### Changing it
 
-You can change your home city at any time from the same settings page. It's a single value — Cloomba doesn't track a list of "favourite cities".
+You can change your home city at any time from the same settings page. It's a single value — Cloomba doesn't track a list of "favorite cities".
 
 ---
 
@@ -44,4 +44,4 @@ If you don't pick a home city, the Popular nearby block is hidden. You can still
 
 ### Privacy
 
-Home city is shared only as part of personalising your own Discover view. It's not shown on your public profile and not visible to organisers of events you RSVP to.
+Home city is shared only as part of personalizing your own Discover view. It's not shown on your public profile and not visible to organizers of events you RSVP to.

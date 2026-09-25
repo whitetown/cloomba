@@ -1,6 +1,6 @@
 ---
 title: "Frequently asked questions"
-meta_description: "Short answers to the questions organisers ask most about Cloomba — what it costs, how registration and deadlines work, coupons, waitlists, guest data and the API."
+meta_description: "Short answers to the questions organizers ask most about Cloomba — what it costs, how registration and deadlines work, coupons, waitlists, guest data and the API."
 section: "Product"
 section_position: 0
 position: 20

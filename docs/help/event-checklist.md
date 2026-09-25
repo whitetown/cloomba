@@ -1,6 +1,6 @@
 ---
-title: "Organiser Checklist Before the Event"
-meta_description: "A complete pre-event checklist for Cloomba organisers — from publishing to the day of the event and follow-up after."
+title: "Organizer Checklist Before the Event"
+meta_description: "A complete pre-event checklist for Cloomba organizers — from publishing to the day of the event and follow-up after."
 section: "Tips & tricks"
 section_position: 120
 position: 53
@@ -8,7 +8,7 @@ status: published
 generated: from whitetown/cloomba-content — do not edit here, open an issue instead
 ---
 
-## Organiser checklist before the event
+## Organizer checklist before the event
 
 Use this checklist to make sure everything is in order before your event goes live — and before guests arrive on the day.
 

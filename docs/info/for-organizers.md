@@ -1,6 +1,6 @@
 ---
-title: "Cloomba for organisers"
-meta_description: "Why event organisers — community meetups, conferences, clubs — choose Cloomba: free for free events, EU-hosted, no growth-at-all-costs."
+title: "Cloomba for organizers"
+meta_description: "Why event organizers — community meetups, conferences, clubs — choose Cloomba: free for free events, EU-hosted, no growth-at-all-costs."
 section: null
 section_position: 0
 position: 25

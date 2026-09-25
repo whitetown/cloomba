@@ -26,15 +26,15 @@ The event is marked as cancelled immediately. It is removed from discovery listi
 
 ### Notifying guests
 
-When you cancel, it is your responsibility to let registered guests know. Send an event update explaining what happened and what to expect — especially if refunds are involved. Guests who registered will still receive updates you post after cancellation.
+When you cancel, every registered guest — including anyone on the waitlist — gets a cancellation email in their own language, plus a notification in Cloomba. Write a **Message to guests** in the cancel dialog to explain what happened; it is added to that email. Guests who registered will still receive updates you post after cancellation.
 
 ---
 
 ### Refunds for paid events
 
-If your event had paid tickets, you must refund all attendees. Cloomba does not issue refunds automatically on cancellation — you need to process them manually through your Stripe dashboard or from the guest list in Cloomba.
+If your event had paid tickets, all attendees must be refunded in full. Cancelling does this for you: every ticket paid by card is refunded automatically. Refund anyone who paid you directly — by bank transfer or in cash — yourself.
 
-Cloomba refunds its 5% platform fee too, so refunding an attendee costs you nothing on our side. Stripe's processing fee may or may not be returned depending on your Stripe settings.
+Cloomba refunds its 5% platform fee too, so refunding an attendee costs you nothing on our side. Stripe keeps its processing fee from the original payment — that's Stripe's rule for every refund.
 
 ---
 

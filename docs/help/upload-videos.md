@@ -1,6 +1,6 @@
 ---
 title: "Uploading videos to an event"
-meta_description: "How to upload videos to a Cloomba event media wall — file limits, formats, and organiser controls."
+meta_description: "How to upload videos to a Cloomba event media wall — file limits, formats, and organizer controls."
 section: "Media & content"
 section_position: 60
 position: 30
@@ -8,15 +8,15 @@ status: published
 generated: from whitetown/cloomba-content — do not edit here, open an issue instead
 ---
 
-Video uploads work like photo uploads but with a few extra considerations around file size and organiser permissions.
+Video uploads work like photo uploads but with a few extra considerations around file size and organizer permissions.
 
 ---
 
 ### Who can upload videos
 
-Video uploads are **off by default**. Organisers must explicitly enable them in the event settings under **Allow attendee video uploads**. Once enabled, any confirmed attendee can upload a video.
+Video uploads are **off by default**. Organizers must explicitly enable them in the event settings under **Allow attendee video uploads**. Once enabled, any confirmed attendee can upload a video.
 
-Organisers and admins can always upload videos regardless of this setting.
+Organizers and admins can always upload videos regardless of this setting.
 
 ---
 
@@ -42,4 +42,4 @@ Add a caption to give context — who is speaking, what moment this is, or anyth
 
 ### Deleting videos
 
-You can delete your own video posts at any time. Organisers, admins, and moderators can delete any video on the wall.
+You can delete your own video posts at any time. Organizers, admins, and moderators can delete any video on the wall.

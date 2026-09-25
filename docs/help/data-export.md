@@ -30,7 +30,7 @@ Your export will contain:
 
 ## What's not included
 
-- Other users' data (guest lists from events you organised are not part of your personal export)
+- Other users' data (guest lists from events you organized are not part of your personal export)
 - Deleted content that has already been purged from our systems
 
 ## Related rights

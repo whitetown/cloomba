@@ -26,10 +26,10 @@ To reject someone, find them in the guest list, open their options, and select *
 
 ### Who can remove and reject
 
-Both the organiser and admins can cancel RSVPs and reject guests. Moderators can reject guests but cannot cancel RSVPs.
+Both the organizer and admins can cancel RSVPs and reject guests. Moderators can reject guests but cannot cancel RSVPs.
 
 ---
 
 ### Reporting abuse
 
-If a guest's behaviour goes beyond what you can handle as an organiser — harassment, threats, or illegal content — use the report function or contact us at [support (at) cloomba.com](/info/contact). We review all reports within 2 business days.
+If a guest's behavior goes beyond what you can handle as an organizer — harassment, threats, or illegal content — use the report function or contact us at [support (at) cloomba.com](/info/contact). We review all reports within 2 business days.

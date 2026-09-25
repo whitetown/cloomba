@@ -10,13 +10,13 @@ generated: from whitetown/cloomba-content — do not edit here, open an issue in
 
 ## Reporting abuse or inappropriate content
 
-Cloomba is built for real communities. If you encounter content or behaviour that violates our [Acceptable Use Policy](/legal/acceptable-use), please report it.
+Cloomba is built for real communities. If you encounter content or behavior that violates our [Acceptable Use Policy](/legal/acceptable-use), please report it.
 
 ## What you can report
 
 - **Inappropriate event content** — offensive descriptions, misleading information, or content that violates our policies
 - **Harmful media** — photos or videos on the event media wall that are abusive, explicit, or non-consensual
-- **User behaviour** — harassment, impersonation, or spam from another user
+- **User behavior** — harassment, impersonation, or spam from another user
 - **Fake or scam events** — events designed to deceive attendees
 
 ## How to report

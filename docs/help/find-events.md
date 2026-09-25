@@ -18,19 +18,19 @@ Open **Discover** from the navigation. You'll see a curated feed of public event
 
 - **Location** — events near a city or place
 - **Category** — filter by topic (music, tech, sport, food, etc.)
-- **Calendars** — collections of events from communities or organisers you follow
+- **Calendars** — collections of events from communities or organizers you follow
 
 ## Searching for events
 
-Use the search bar at the top of Discover to find events by name, organiser, or keyword.
+Use the search bar at the top of Discover to find events by name, organizer, or keyword.
 
 ## Following calendars
 
-Calendars are curated collections of events run by organisers or communities. Follow a calendar to see its events in your feed regularly. Open any calendar page and tap **Follow**.
+Calendars are curated collections of events run by organizers or communities. Follow a calendar to see its events in your feed regularly. Open any calendar page and tap **Follow**.
 
 ## Private and unlisted events
 
-Private events don't appear on Discover — you need a direct invitation from the organiser. Unlisted events are accessible only via a direct link shared by the organiser.
+Private events don't appear on Discover — you need a direct invitation from the organizer. Unlisted events are accessible only via a direct link shared by the organizer.
 
 ## Saving events
 

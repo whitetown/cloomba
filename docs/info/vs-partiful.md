@@ -8,7 +8,7 @@ status: published
 generated: from whitetown/cloomba-content — do not edit here, open an issue instead
 ---
 
-Partiful is the party-invite app of choice for a lot of US 20- and 30-somethings — clean, fun, SMS-first. Cloomba covers the same casual-party use case, but is built for a wider set of organisers (meetups, conferences, clubs) and a European audience.
+Partiful is the party-invite app of choice for a lot of US 20- and 30-somethings — clean, fun, SMS-first. Cloomba covers the same casual-party use case, but is built for a wider set of organizers (meetups, conferences, clubs) and a European audience.
 
 ---
 
@@ -62,6 +62,6 @@ Partiful is the party-invite app of choice for a lot of US 20- and 30-somethings
 
 ## Honest bottom line
 
-Partiful is brilliant at one thing: throwing a casual US party. Cloomba is built for a broader range of organisers — recurring community events, paid conferences, EU-based hosts — without sacrificing the polish you'd expect for casual events.
+Partiful is brilliant at one thing: throwing a casual US party. Cloomba is built for a broader range of organizers — recurring community events, paid conferences, EU-based hosts — without sacrificing the polish you'd expect for casual events.
 
 [Run your first event on Cloomba →](/help/getting-started)

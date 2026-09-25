@@ -1,6 +1,6 @@
 ---
-title: "Taxes and VAT for EU organisers"
-meta_description: "What EU organisers need to know about VAT on event tickets sold through Cloomba — your responsibilities and how Stripe handles tax reporting."
+title: "Taxes and VAT for EU organizers"
+meta_description: "What EU organizers need to know about VAT on event tickets sold through Cloomba — your responsibilities and how Stripe handles tax reporting."
 section: "Tickets & payments"
 section_position: 40
 position: 60
@@ -8,7 +8,7 @@ status: published
 generated: from whitetown/cloomba-content — do not edit here, open an issue instead
 ---
 
-Cloomba collects ticket payments on your behalf through Stripe, but **tax compliance is your responsibility as the organiser**. This page gives an overview — consult a tax adviser for guidance specific to your situation.
+Cloomba collects ticket payments on your behalf through Stripe, but **tax compliance is your responsibility as the organizer**. This page gives an overview — consult a tax adviser for guidance specific to your situation.
 
 ---
 

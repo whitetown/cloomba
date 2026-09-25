@@ -31,7 +31,7 @@ We'll investigate and either confirm your ticket or arrange a refund.
 
 ## Requesting a refund
 
-Refunds are processed by the event organiser via Stripe. Contact the organiser directly through the event page. See [Issuing refunds](/help/refunds) for more detail on how the process works.
+Refunds are processed by the event organizer via Stripe. Contact the organizer directly through the event page. See [Issuing refunds](/help/refunds) for more detail on how the process works.
 
 ## Checkout page not loading
 
