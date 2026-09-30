@@ -1,6 +1,6 @@
 ---
 title: "Cloomba vs Partiful"
-meta_description: "How Cloomba compares to Partiful — EU-hosted vs US-hosted, real paid ticketing, calendars, and longer-lived communities vs Partiful's party-by-party focus."
+meta_description: "How Cloomba compares to Partiful — EU-hosted vs US-hosted, paid ticketing, calendars, and longer-lived communities vs Partiful's party-by-party focus."
 section: null
 section_position: 0
 position: 61
@@ -23,15 +23,15 @@ Partiful is the party-invite app of choice for a lot of US 20- and 30-somethings
 
 ## When Cloomba is the better fit
 
-**You want to charge for tickets.** Partiful is free-events-only; there is no paid-ticket flow. Cloomba supports paid tickets via Stripe Connect (with full EU SEPA + VAT support) and an [off-platform payment mode](/help/off-platform-payment) for bank transfer / PayPal / cash.
+**You want to charge for tickets.** Cloomba sells tickets in every country Stripe Connect supports, paid into your own Stripe account, with an [off-platform payment mode](/help/off-platform-payment) for bank transfer, PayPal or cash.
 
-**You run a recurring series, not one-off parties.** Cloomba [calendars](/help/about-calendars) are a persistent channel followers subscribe to; every new event you add reaches the calendar's audience automatically. Partiful is built around individual parties; there's no equivalent of a followable channel.
+**You run a recurring series, not one-off parties.** Cloomba [calendars](/help/about-calendars) are a persistent channel followers subscribe to; every new event you add reaches the calendar's audience automatically.
 
-**You want real moderation controls.** Cloomba has [manual guest approval](/help/guest-approval), [waitlists](/help/waitlist), [registration questions](/help/guest-questions), [admin and moderator roles](/help/cohosts), [check-in](/help/check-in), and full attendee export. Partiful is deliberately lightweight.
+**You want moderation controls.** Cloomba has [manual guest approval](/help/guest-approval), [waitlists](/help/waitlist), [registration questions](/help/guest-questions), [admin and moderator roles](/help/cohosts), [check-in](/help/check-in), and full attendee export.
 
-**You want sign-in that isn't SMS-only.** Cloomba's [sign-in page](/help/sign-in) offers magic link, Google, Apple, GitHub, or phone. Pick whichever your audience is comfortable with.
+**You want a choice of sign-in.** Cloomba's [sign-in page](/help/sign-in) offers an email link, Google, Apple, GitHub or Telegram. Pick whichever your audience is comfortable with.
 
-**Your party is in Europe.** Cloomba's servers run in Amsterdam (EU-West). Partiful is US-hosted and SMS-first, which is a US-cultural default — outside North America the friction shows up immediately (international SMS reliability, US-centric phone-number prompts).
+**Your party is in Europe.** Cloomba's servers run in Amsterdam (EU-West), and each guest sees the pages and emails in the language they picked.
 
 **You want GDPR by design.** Cloomba's privacy posture and data residency match EU expectations out of the box — see [How we protect your data](/help/privacy-overview).
 
@@ -40,7 +40,7 @@ Partiful is the party-invite app of choice for a lot of US 20- and 30-somethings
 ## When Partiful is the better fit
 
 - **You're throwing a casual US party for friends.** Partiful's vibe, animations, and SMS-native invites are still the best in class for that use case.
-- **You only want one-off parties.** No need for calendars, no need for paid tickets — Partiful's intentional minimalism is a feature.
+- **You only want one-off parties.** Partiful's intentional minimalism is a feature.
 - **Your guests are all in the US** and respond to SMS reflexively.
 
 ---
@@ -51,12 +51,10 @@ Partiful is the party-invite app of choice for a lot of US 20- and 30-somethings
 |---|---|---|
 | Hosting | EU (Amsterdam) | US |
 | Free events | Free | Free |
-| Paid tickets | Yes (Stripe Connect or off-platform) | No |
-| Recurring series / calendars | Yes (subscribable channels) | No |
-| Waitlist + approval + questions | Yes | Limited |
-| Sign-in methods | Magic link / Google / Apple / GitHub / phone | Phone-first |
-| Media wall + comments | Yes | Photos yes; lighter discussion |
-| Native mobile apps | In development (PWA today) | Yes |
+| Paid tickets | Every Stripe Connect country, or off-platform | US and UK hosts |
+| Where ticket money goes | Your own Stripe account, chosen per event | Paid out to you after the event |
+| Sign-in methods | Email link / Google / Apple / GitHub / Telegram | Text message code |
+| Photos after the event | Photo and video wall with comments and reactions | Photos and videos on the event page |
 
 ---
 

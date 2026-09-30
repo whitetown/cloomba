@@ -46,4 +46,4 @@ If you refund a ticket, the attendee receives the full ticket price back. Cloomb
 
 Not for running events. The fees above are the only ones on a paid event, and free events cost nothing.
 
-There is a **Pro** plan that lifts the free plan's fair-use limits (photos, videos, monthly emails, team seats, calendars) and adds full analytics and API access. It is not on sale yet — we enable it by hand while we finish it. See [Pricing & Fees](/info/pricing) for the full overview.
+There is a **Pro** plan that lifts the free plan's fair-use limits (photos, videos, monthly emails, team seats, calendars) and adds full analytics and API access. We set it up with each organizer — [get in touch](/info/contact). If you sell a lot of tickets, we can also agree a custom fee with you. See [Pricing & Fees](/info/pricing) for the full overview.

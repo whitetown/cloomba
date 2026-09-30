@@ -1,6 +1,6 @@
 ---
 title: "Can't Sign In?"
-meta_description: "Fix common Cloomba sign-in problems — magic link not arriving, SMS code issues, wrong provider, and missing account data."
+meta_description: "Fix common Cloomba sign-in problems — magic link not arriving, wrong provider, and missing account data."
 section: "Troubleshooting"
 section_position: 110
 position: 46
@@ -22,7 +22,7 @@ Cloomba uses passwordless sign-in — there's no password to reset. Here's how t
 
 ## Signed in with the wrong provider
 
-Each sign-in method (Google, Apple, magic link, GitHub) creates a **separate account**. If your events or RSVPs seem missing, you may be signed in to the wrong account. Sign out and try a different method.
+Each sign-in method (Google, Apple, magic link, GitHub, Telegram) creates a **separate account**. If your events or RSVPs seem missing, you may be signed in to the wrong account. Sign out and try a different method.
 
 ## Account seems to be gone
 

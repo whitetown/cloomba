@@ -14,7 +14,7 @@ If you are running an event with a team, you can give other Cloomba users access
 
 ### Roles
 
-**Admin** — broad management access. Can edit the event, manage the guest list, approve or decline RSVPs, send invitations, post updates, manage ticket types, handle bans, run check-in, and delete media or comments. Cannot cancel or delete the event, issue refunds, or manage the staff roster — those actions are reserved for the organizer.
+**Admin** — broad management access. Can edit the event, manage the guest list, approve or decline RSVPs, send invitations, post updates, manage ticket types, choose the event's [payment account](/help/payment-accounts) among the organizer's, handle bans, run check-in, and delete media or comments. Cannot cancel or delete the event, issue refunds, or manage the staff roster — those actions are reserved for the organizer.
 
 **Moderator** — focused on day-of moderation. Can run check-in, manage bans, and delete inappropriate media or comments. Cannot edit event details, manage the guest list, approve RSVPs, send invitations, or post updates.
 

@@ -24,7 +24,7 @@ This page summarises what that means in practice. The authoritative documents ar
 
 ### What you accept when you connect Stripe
 
-During Stripe onboarding (the first time you set up a paid event), you accept:
+During Stripe onboarding (each time you add a [payment account](/help/payment-accounts)), you accept:
 
 - **Stripe Services Agreement** — Stripe's general terms.
 - **Stripe Connected Account Agreement** — the terms that apply specifically to Connect accounts like yours.
@@ -38,7 +38,7 @@ Read them in full on Stripe's site:
 
 ### Practical implications
 
-- **Refunds** are issued through your Stripe dashboard. See [Issuing refunds](/help/refunds).
+- **Refunds** are issued from your event's guest list. See [Issuing refunds](/help/refunds).
 - **Disputes / chargebacks** flow through Stripe. You'll receive notifications and have a chance to submit evidence.
 - **VAT and tax** on ticket sales are your responsibility as merchant of record. See [Taxes and VAT for EU organisers](/help/taxes-vat).
 - **Payout schedules** are set by Stripe — typically 2–7 business days. See [Getting paid — how payouts work](/help/payouts).
@@ -54,9 +54,9 @@ If you later refund the ticket, Cloomba **refunds this fee too** — a full refu
 
 ---
 
-### Disconnecting Stripe
+### Choosing an account
 
-You can disconnect your Stripe account from Cloomba at any time. Pending payouts continue per Stripe's schedule. Without a connected Stripe account you can't publish new paid events, but your existing event pages remain intact.
+Each event is paid into the payment account you choose, and you can switch an event to another of your accounts at any time. A calendar's account can change while no membership subscriptions run on it. Payments already made stay on the account that took them, and so do their refunds and payouts. See [Payment accounts](/help/payment-accounts).
 
 ---
 

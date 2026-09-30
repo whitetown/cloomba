@@ -8,7 +8,7 @@ status: published
 generated: from whitetown/cloomba-content — do not edit here, open an issue instead
 ---
 
-Everything Cloomba does, in one list. Every item here is live today — nothing planned, nothing in beta. Free events are free on all of it; paid tickets carry a 5% platform fee plus payment processing, see [Pricing & Fees](/info/pricing).
+Everything Cloomba does, in one list. Every item here is live. Free events are free on all of it; paid tickets carry a 5% platform fee plus payment processing, see [Pricing & Fees](/info/pricing).
 
 ## Event page
 

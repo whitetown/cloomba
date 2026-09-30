@@ -40,7 +40,7 @@ See [Manual guest approval](/help/guest-approval) for more detail.
 
 ### Cancelling a guest's RSVP
 
-You can cancel any guest's RSVP from the guest list. Use this if someone asks you to remove them or if they should no longer attend. For paid tickets, cancelling a RSVP does not automatically issue a refund — you need to handle that separately.
+You can cancel any guest's RSVP from the guest list. Use this if someone asks you to remove them or if they should no longer attend. For paid tickets, cancelling a RSVP does not automatically issue a refund — to give the money back, use **Refund** in the guest list. See [Issuing refunds](/help/refunds).
 
 ---
 

@@ -20,7 +20,7 @@ Cloomba currently supports paid events in countries where Stripe Connect is avai
 
 1. Open your event in the editor.
 2. Switch the event to **Paid**.
-3. Connect your Stripe account if prompted — this is a one-time step.
+3. Connect your Stripe account if prompted.
 4. Set your **price** and **currency**.
 
 That is all that is needed to start collecting payments.
@@ -33,7 +33,7 @@ Once that works, there is more you can do with the ticket itself: several ticket
 
 The first time you set up a paid event, Cloomba will prompt you to connect a Stripe account. You will be taken to Stripe's onboarding flow where you enter your business details and bank account information.
 
-Once connected, your Stripe account is linked to your Cloomba profile and used for all future paid events — you only need to do this once.
+Once connected, it becomes your default account, and every paid event you organize uses it. You can connect more accounts and choose one per event — see [Payment accounts](/help/payment-accounts).
 
 ---
 

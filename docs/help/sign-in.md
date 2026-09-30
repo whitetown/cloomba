@@ -1,6 +1,6 @@
 ---
 title: "How to sign in"
-meta_description: "Cloomba uses passwordless sign-in — magic links, Google, Apple, Facebook, and GitHub. No password required."
+meta_description: "Cloomba uses passwordless sign-in — magic links, Google, Apple, GitHub, and Telegram. No password required."
 section: "Getting started"
 section_position: 10
 position: 20
@@ -24,13 +24,15 @@ You can sign in with any of the following:
 
 **GitHub** — sign in with your GitHub account. A good fit if you are coming from the tech community.
 
+**Telegram** — sign in through our Telegram bot: it opens in Telegram, you press **Start**, and you are in.
+
 All methods create the same type of account. You can use whichever you prefer each time — as long as you use the same email address, you will always end up in the same account.
 
 ---
 
 ### First sign-in
 
-The first time you sign in, Cloomba creates your account automatically. If you use Google or Apple, your name and profile photo are imported from that service — you can change them afterwards in your profile settings.
+The first time you sign in, Cloomba creates your account automatically. If you use Google or Apple, your name is imported from that service — you can change it afterwards in your profile settings.
 
 ---
 

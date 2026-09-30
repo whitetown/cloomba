@@ -14,7 +14,7 @@ Cloomba uses **Stripe** to collect payments from attendees and transfer the proc
 
 ### Connecting Stripe
 
-The first time you set up a paid event, Cloomba prompts you to connect a Stripe account. You will be taken to Stripe's onboarding flow to enter your business details and bank account information. Once connected, the same Stripe account is used for all your future paid events.
+The first time you set up a paid event, Cloomba prompts you to connect a Stripe account. You will be taken to Stripe's onboarding flow to enter your business details and bank account information. Once connected, it becomes your default account, and every paid event you organize is paid into it — unless you choose another [payment account](/help/payment-accounts) for an event.
 
 ---
 

@@ -12,7 +12,7 @@ generated: from whitetown/cloomba-content — do not edit here, open an issue in
 
 To remove someone from your guest list, find them in the **Guests** tab and cancel their RSVP. They are removed from the confirmed list and will no longer receive event updates.
 
-For paid events, cancelling a RSVP does not automatically issue a refund — handle that separately from your Stripe dashboard if needed.
+For paid events, cancelling a RSVP does not automatically issue a refund — to give the money back, use **Refund** in the **Guests** tab. See [Issuing refunds](/help/refunds).
 
 ---
 

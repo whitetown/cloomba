@@ -23,7 +23,7 @@ When you sell tickets, the fee is deducted from your payout — attendees always
 
 ### Connecting Stripe
 
-To receive payouts you need to connect a Stripe account. You can do this from your event settings when you create your first paid ticket type.
+To receive payouts you connect a Stripe account under **Account › Payment accounts**. You can connect several — one per business or bank account — and choose which one each event is paid into. See [Payment accounts](/help/payment-accounts).
 
 ### Refunds
 
@@ -37,7 +37,11 @@ No. Running events on Cloomba does not require a paid plan, and free events cost
 
 ### What is the Pro plan?
 
-A **Pro** plan lifts those limits and adds full event analytics and API access, for communities and businesses running events at scale. Pro is not on sale yet and has no price: while we finish it, we enable it by hand for organizers we work with. [Get in touch](/info/contact) if you think you need it.
+A **Pro** plan lifts those limits and adds full event analytics and API access, for communities and businesses running events at scale. We set Pro up with each organizer — [get in touch](/info/contact) if you think you need it.
+
+### Is there custom pricing?
+
+Yes. If you sell a lot of tickets, we can agree a custom fee with you — a lower percentage, or a cap on the fee per order. [Get in touch](/info/contact).
 
 ### Questions about your setup?
 

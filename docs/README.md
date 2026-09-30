@@ -59,6 +59,7 @@ The same pages are published on [cloomba.com](https://cloomba.com).
 - [How Cloomba fees work](help/pricing-fees.md)
 - [Hosting free events](help/free-events.md)
 - [Getting paid — how payouts work](help/payouts.md)
+- [Payment accounts](help/payment-accounts.md)
 - [Issuing refunds to guests](help/refunds.md)
 - [Taxes and VAT for EU organizers](help/taxes-vat.md)
 

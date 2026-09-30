@@ -18,7 +18,7 @@ We collect only what's necessary to run Cloomba. Here's a plain-language breakdo
 |---|---|
 | Name | Shown on your profile and guest lists |
 | Email address | Sign-in via magic link, event notifications |
-| Phone number | Sign-in via SMS code (if you use this method) |
+| Telegram user ID and username | Sign-in with Telegram and Telegram notifications (if you use them) |
 | Profile photo | Shown on your profile and in comments |
 | Username | Used for direct invitations |
 | Bio | Optional; shown on your public profile |
@@ -33,7 +33,7 @@ We collect standard technical data to keep the platform running: IP address, bro
 
 ## Firebase Authentication
 
-Sign-in is handled by Firebase (Google). Firebase processes your authentication credentials — Cloomba receives only a verified user ID and basic profile info (name, email, photo) from your provider.
+Sign-in is handled by Firebase (Google). Firebase processes your authentication credentials — Cloomba receives only a verified user ID and basic profile info (name and email) from your provider.
 
 ## Third-party processors
 

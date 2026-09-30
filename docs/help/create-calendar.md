@@ -50,7 +50,7 @@ Open **Manage** on the calendar page, or the pencil on your Calendars page. The 
 - **Events** — every event on the calendar, with the submissions queue behind a button on the toolbar
 - **People** — everyone the calendar reaches: followers, guests of every event whose home is this calendar (whoever organized it), and contacts you import; tag them, export them, and manage memberships
 - **Newsletters** — write to those people; see [Calendar newsletters](/help/calendar-newsletters)
-- **Payments** — your Stripe account for membership dues, and the calendar's discount codes
+- **Payments** — the [payment account](/help/payment-accounts) membership dues go to, and the calendar's discount codes
 - **Settings** — everything above, plus the embed snippet and the **Danger zone**: **Leave calendar** for admins, **Transfer calendar** and **Delete** for the owner
 
 Deleting a calendar keeps its events — they only stop being listed on it. A calendar can't be deleted while any of its membership tiers has a price.

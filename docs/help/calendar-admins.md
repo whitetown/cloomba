@@ -20,8 +20,9 @@ Admins have the owner's trust. They can:
 - Review submissions from other organizers
 - See the **People** tab and write [newsletters](/help/calendar-newsletters)
 - Invite the calendar's people to its events — see [Inviting guests](/help/invite-guests)
+- Choose the calendar's payment account among the owner's accounts shared with them
 
-Only the owner can add or remove admins, transfer the calendar, and delete it. Newsletters an admin sends count against the owner's [email sending limits](/help/email-sending-limits), and membership payments go to the owner's Stripe account.
+Only the owner can add or remove admins, transfer the calendar, and delete it. Newsletters an admin sends count against the owner's [email sending limits](/help/email-sending-limits), and membership payments go to one of the owner's [payment accounts](/help/payment-accounts).
 
 ---
 
@@ -33,7 +34,7 @@ On the calendar's **Settings** tab, under **Admins**, select **Add** and enter t
 
 ### Admins and the calendar's events
 
-When an event is put on a calendar as its home, the calendar's owner and admins become admins of that event too: they can edit it and manage its guests, and their names appear under **Organized by**. See [Adding co-hosts and managers](/help/cohosts) for what an event admin can do.
+When an event is put on a calendar as its home, the calendar's owner and admins become admins of that event too: they can edit it and manage its guests, and their names appear under **Hosted by**. See [Adding co-hosts and managers](/help/cohosts) for what an event admin can do.
 
 This access comes with the calendar and ends with it — when the person stops being an admin of the calendar, when the event moves off the calendar, or when the calendar is deleted. Access someone was given by hand on the event itself stays.
 
@@ -73,7 +74,7 @@ A transfer moves the calendar, not its events — every event keeps its organize
 
 A transfer is not possible:
 
-- While any of the calendar's membership tiers has a price. Membership payments go to the owner's Stripe account, which cannot move with the calendar.
+- While any of the calendar's membership tiers has a price. Membership payments go to one of the owner's payment accounts, which cannot move with the calendar.
 - When the admin already owns as many calendars as their plan allows. See [Pricing & Fees](/help/pricing-fees).
 - When one of you has blocked the other.
 

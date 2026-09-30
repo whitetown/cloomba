@@ -16,7 +16,7 @@ Cloomba is operated by **WhiteTown s.r.o.**, Narcisova 38, 821 01 Bratislava, Sl
 
 ### 1. Data we collect
 
-**Account data** — when you sign in we collect your email address or phone number and, if you use Google or Apple sign-in, your display name and profile photo as provided by those services.
+**Account data** — when you sign in we collect your email address and, if you sign in with Google, Apple or GitHub, your display name as that service provides it. If you sign in with Telegram, we receive your Telegram user ID, username and name instead.
 
 **Profile data** — your chosen username, bio, and any links you add to your public profile.
 
@@ -59,11 +59,11 @@ We share data only where necessary to operate the service:
 - **Firebase (Google)** — authentication and push notification delivery. See [Google's privacy policy](https://policies.google.com/privacy).
 - **Cloudflare** — content delivery and DDoS protection for media files.
 - **Railway** — our server infrastructure, hosted in EU West (Amsterdam, Netherlands).
-- **Telegram (optional)** — only if you connect your Telegram account in Settings → Preferences. We then share your Telegram chat ID and the content of the notifications you have enabled for Telegram with Telegram FZ-LLC, which operates outside the EU. This is optional, based on your consent, and you can disconnect at any time.
+- **Telegram (optional)** — only if you sign in with Telegram or connect your Telegram account in Settings → Preferences. When you sign in with Telegram, Telegram FZ-LLC, which operates outside the EU, sends us your Telegram user ID, chat ID, username and name. When you connect it for notifications, we share your Telegram chat ID and the content of the notifications you have enabled for Telegram with Telegram FZ-LLC. This is optional, based on your consent, and you can disconnect notifications at any time.
 
 All processors are contractually bound to handle your data in accordance with GDPR.
 
-We do not transfer personal data outside the European Economic Area except where a valid transfer mechanism applies (e.g. Standard Contractual Clauses with Stripe and Google), or where you have explicitly chosen to receive notifications via Telegram, which we rely on your consent to do (Art. 49(1)(a) GDPR).
+We do not transfer personal data outside the European Economic Area except where a valid transfer mechanism applies (e.g. Standard Contractual Clauses with Stripe and Google), or where you have explicitly chosen to sign in with Telegram or receive notifications via Telegram, which we rely on your consent to do (Art. 49(1)(a) GDPR).
 
 ---
 
@@ -73,7 +73,7 @@ When you RSVP to an event, the organiser can see your name, profile photo, RSVP 
 
 **Your email address and phone number.** An organiser may switch on email or phone collection for their event. When they have, the RSVP form asks you for it and tells you, at that moment, that the organiser will receive it. If you provide it, it appears in that event’s guest list and CSV export.
 
-This is separate from the email address or phone number on your Cloomba account, which we do **not** give to organisers. We may email you on an organiser’s behalf — an invitation, or an announcement about an event you are attending — without disclosing your address to them. Every such email carries an unsubscribe link.
+This is separate from the email address on your Cloomba account, which we do **not** give to organisers. We may email you on an organiser’s behalf — an invitation, or an announcement about an event you are attending — without disclosing your address to them. Every such email carries an unsubscribe link.
 
 **Other attendees.** An organiser can choose to make the guest list visible to the people attending. Other attendees then see your name and profile photo — never your email address, phone number, registration answers, or what you paid.
 

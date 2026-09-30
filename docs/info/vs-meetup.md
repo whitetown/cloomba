@@ -23,15 +23,15 @@ Meetup invented the model of recurring local groups around shared interests. Two
 
 ## When Cloomba is the better fit
 
-**You don't want a monthly group subscription.** Meetup charges organizers a recurring fee per group (the price has crept up over the years, and varies by region). Cloomba [calendars](/help/about-calendars) — the equivalent of a Meetup group — are free. So are your events, as long as they're free to attend.
+**You don't want a monthly subscription.** Cloomba [calendars](/help/about-calendars) — the equivalent of a Meetup group — are free. So are your events, as long as they're free to attend.
 
-**You want to sell paid tickets cleanly.** Cloomba has full Stripe Connect support with EU SEPA + VAT, plus an [off-platform payment mode](/help/off-platform-payment). Meetup's paid-event support exists but feels grafted on; checkout flows route through different vendors and the organizer fee dynamics keep changing.
+**You want to sell paid tickets.** Cloomba has full Stripe Connect support, plus an [off-platform payment mode](/help/off-platform-payment). Every event can be paid into its own [payment account](/help/payment-accounts), so co-organizers on one calendar each keep their own money.
 
-**You'd rather skip the ads and upsells.** Meetup shows ads and keeps pushing its paid plans. Cloomba is free for free events, on the web and in the iOS and Android apps.
+**You want pages without ads.** Cloomba shows no ads, and it is free for free events, on the web and in the iOS and Android apps.
 
-**You want richer event pages.** Cloomba ships with a [media wall](/help/media-wall), [comments and reactions](/help/comments-and-reactions), [organizer updates](/help/event-updates), [waitlists](/help/waitlist), and [guest approval](/help/guest-approval). Meetup's per-event page is more bare.
+**You want richer event pages.** Cloomba ships with a [media wall](/help/media-wall), [comments and reactions](/help/comments-and-reactions), [organizer updates](/help/event-updates), [waitlists](/help/waitlist), and [guest approval](/help/guest-approval).
 
-**You want a CSV export of your attendees.** Cloomba's [export](/help/guest-list-export) is one click. Meetup has restricted member data export over the years for privacy reasons; what you can get out varies.
+**You want a CSV export of your attendees.** Cloomba's [export](/help/guest-list-export) is one click.
 
 **You're an EU organizer.** Cloomba's servers are in Amsterdam. Meetup is US-hosted (currently owned by Bending Spoons, an Italian company, but the infrastructure remains US-based).
 
@@ -45,13 +45,13 @@ Meetup invented the model of recurring local groups around shared interests. Two
 
 ---
 
-## Pricing snapshot (May 2026)
+## Pricing snapshot
 
 | | Cloomba | Meetup |
 |---|---|---|
-| Hosting your group / calendar | Free | Monthly subscription per group (rate varies by region, typically tens of USD/EUR per month) |
-| Free events | Free | Included with group subscription |
-| Paid events | 5% + standard payment processing | Group subscription + payment processing |
+| Hosting your group / calendar | Free | Monthly subscription (rate varies by region and plan) |
+| Free events | Free | Included with the subscription |
+| Paid events | 5% + standard payment processing | Subscription + fees + payment processing |
 | Member limits | None | Tiered by subscription |
 | Hosting | EU (Amsterdam) | US |
 

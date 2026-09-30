@@ -32,4 +32,4 @@ Your email address is tied to your sign-in method. If you signed in with Google 
 
 ## Changing your sign-in method
 
-Each sign-in method (Google, Apple, GitHub, magic link, phone) creates a separate account on Cloomba. You cannot merge accounts or switch providers on an existing account.
+Each sign-in method (Google, Apple, GitHub, magic link, Telegram) creates a separate account on Cloomba. You cannot merge accounts or switch providers on an existing account.
