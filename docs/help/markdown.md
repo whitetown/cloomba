@@ -24,6 +24,8 @@ Every one of those boxes has a **Preview** button. Use it — it renders exactly
 - The description under a guest question
 - Calendar newsletters
 
+A guest question's description takes text and links; images go in the other boxes on this list.
+
 Titles, names, and comments are plain text — markdown marks typed there show up as the characters you typed.
 
 ---

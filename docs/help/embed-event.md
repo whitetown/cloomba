@@ -24,12 +24,13 @@ Shows the event — cover, date, location, and an RSVP button — right on your 
   src="https://cloomba.com/embed/e/your-event"
   style="width: 100%; height: 300px; border: none"
   loading="lazy"
+  allow="payment"
   title="My event"
 ></iframe>
 <script src="https://cloomba.com/embed/embed.js" async></script>
 ```
 
-The `embed.js` script resizes the card to fit. Free events can be RSVP'd to right in the card (visitors sign in inside the widget); paid events open Cloomba to complete payment.
+The `embed.js` script resizes the card to fit. Visitors register and pay by card right in the card; in Safari, `allow="payment"` lets them pay with Apple Pay too.
 
 ---
 
@@ -79,5 +80,5 @@ The button comes with a default style. To use your **own** styling, remove the `
 ### Good to know
 
 - Only **public** and **unlisted** events can be embedded — private events don't render.
-- Registration needs a Cloomba account (no anonymous sign-ups), so visitors sign in inside the widget or pop-up. Paid tickets always complete on Cloomba.
+- Visitors sign in inside the widget or pop-up to register. Paid tickets can also be bought with just a name and email — the ticket arrives by email.
 - Add the `embed.js` / `button.js` script once per page, even with several embeds.

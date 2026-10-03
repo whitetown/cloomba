@@ -24,6 +24,7 @@ Paste this where you want the calendar to appear. Replace `your-calendar` with y
   src="https://cloomba.com/embed/c/your-calendar"
   style="width: 100%; height: 800px; border: none"
   loading="lazy"
+  allow="payment"
   title="My calendar"
 ></iframe>
 <script src="https://cloomba.com/embed/embed.js" async></script>
@@ -54,6 +55,7 @@ A dark Slovak calendar opening on the week view:
   src="https://cloomba.com/embed/c/your-calendar?locale=sk&view=week&theme=dark"
   style="width: 100%; height: 800px; border: none"
   loading="lazy"
+  allow="payment"
   title="My calendar"
 ></iframe>
 <script src="https://cloomba.com/embed/embed.js" async></script>
@@ -64,5 +66,5 @@ A dark Slovak calendar opening on the week view:
 ### Good to know
 
 - The widget only shows **public** events — private and unlisted events never appear.
-- Every event links out to its full page on Cloomba in a new tab; registration and sign-in happen there.
+- Clicking an event opens its details inside the widget, where visitors sign in, register and pay by card (in Safari, `allow="payment"` adds Apple Pay). Each event also links to its full page on Cloomba.
 - The starting `height` is only a fallback for the moment before the script loads — after that the widget sizes itself.

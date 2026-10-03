@@ -20,6 +20,12 @@ Guests see and answer the questions as part of the RSVP flow — before their re
 
 ---
 
+### Guest names
+
+Every guest gives their name — it's the first row of **Registration questions**, always on. By default that's their full name, the one on their profile. Choose **First and last name** and every guest types both, side by side, when they register for this event — handy for name badges, or when you need the name as it is on an ID rather than a nickname. The two parts appear in your guest list, at check-in and as separate columns in the CSV export. To fix a typo, open the guest's details in the guest list on cloomba.com.
+
+---
+
 ### Viewing answers
 
 Answers are visible in the guest list. Click on any guest to see their full profile and the answers they submitted. You can also export the full guest list including answers as a CSV.

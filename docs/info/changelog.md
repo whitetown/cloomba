@@ -14,6 +14,33 @@ A running log of significant updates and new features.
 
 ---
 
+### September 2026 — Memberships, payment accounts, and Telegram
+
+**Calendars**
+- **Memberships** — offer free or paid tiers on your calendar, paid once or renewing monthly or yearly, with member-only events and tickets; approve each member yourself, or let people with an email on your domain join right away
+- **Newsletters to groups** — send a [calendar newsletter](/help/calendar-newsletters) to everyone or only to a membership tier or a tag, then follow up with the people you missed
+- **Tags on people** — tag the people on your calendar's People tab and filter the list by tag
+- **Events from elsewhere** — paste the link to an event hosted on another site, and it appears on your calendar with a button to the original
+- **Handing over a calendar** — an admin can leave a calendar, and the owner can transfer it to one of its admins
+
+**Tickets & payments**
+- **Approve, then pay** — with [approval](/help/guest-approval) on a paid event, guests pay only after you approve them, within the time you set
+- **Several payment accounts** — connect more than one Stripe account, choose which one each event is paid into, and share one with a co-organizer; people who run events on one calendar each keep their own money ([how it works](/help/payment-accounts))
+- **Check-in staff** — let someone check in guests at the door during the hours you set, without access to manage the event
+
+**Events**
+- **Materials** — upload slides, recordings, and documents to an event or to one of its speakers; registered guests find them on the About tab
+- **Short links** — get a cloo.mba link for an event from its Share menu
+
+**Telegram**
+- **Sign in through @cloomba_bot** — press Start in the bot and you're signed in
+- **Telegram links** — share an event with a Telegram link from its Share menu, and it opens right inside Telegram
+
+**Apps**
+- **iOS and Android 2.6** — join and pay for memberships in the app, see the calendars you run, belong to, and follow on one Calendars screen, and get asked about notifications when you first need them — joining an event, sending a message — instead of at sign-in
+
+---
+
 ### August 2026 — Pricing options, calendars, and embeds
 
 - **Pay what you want** — set a minimum (or zero) and let people choose what they pay
