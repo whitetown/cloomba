@@ -22,7 +22,7 @@ Your spot is released immediately and the organizer is notified.
 
 ## Paid tickets
 
-If you paid for your ticket by card, cancelling refunds you automatically: the full amount goes back to your card, usually within 5–10 business days depending on your bank. If you paid the organizer directly — by bank transfer or in cash — [contact the organizer](/help/contact-organizer) to arrange your refund.
+Each paid event has a refund policy set by its organizer: refunds until the event starts, until a date they choose, or no refunds. If you paid for your ticket by card and cancel within the policy, you're refunded automatically: the full amount goes back to your card, usually within 5–10 business days depending on your bank. After that, you can still cancel to free your spot, without a refund. If you paid the organizer directly — by bank transfer or in cash — [contact the organizer](/help/contact-organizer) to arrange your refund.
 
 ## Events with a waitlist
 
@@ -30,4 +30,4 @@ If you cancel and the event has a waitlist, the next person on the list may be o
 
 ## After the event has started
 
-You won't be able to cancel your RSVP once the event is underway. If you have a question about attendance after the fact, contact the organizer directly.
+You won't be able to cancel your RSVP once the event is underway, or once you've checked in. If you have a question about attendance after the fact, contact the organizer directly.

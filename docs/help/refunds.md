@@ -26,7 +26,7 @@ The guest's status changes to **refunded** shortly after. Stripe returns the mon
 
 ### When a guest cancels
 
-A guest who cancels a ticket they paid for by card is refunded in full automatically, with Cloomba's fee returned as well.
+A guest who cancels a ticket they paid for by card within your refund policy is refunded in full automatically, with Cloomba's fee returned as well. After the policy's deadline, the guest can still cancel to free the spot, but no refund is issued. Your **Refund** button works whatever the policy says.
 
 ---
 
@@ -42,6 +42,12 @@ If you cancel a paid event, you are required to refund all attendees in full. Ca
 
 ---
 
-### Refund policy on your event page
+### Your refund policy
 
-State your refund policy clearly in the event description — for example whether guests can request a refund if they cancel before a certain date. Where no policy is stated, guests are entitled to a full refund up to the start time of the event.
+Set it under **Getting paid** in your event's registration settings, with card payments selected. Choose **Refunds**:
+
+- **Until the event starts**.
+- **Until a date** — a date and time you pick. It stays put if you move the event, so change it too when you change the date.
+- **No refunds** — the default.
+
+A new policy applies to tickets bought from then on. Guests who bought earlier keep the policy they bought under, or the new one if it gives them longer.
