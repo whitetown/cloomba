@@ -17,7 +17,7 @@ Use this checklist to make sure everything is in order before your event goes li
 - [ ] Title is clear and specific
 - [ ] Cover image uploaded (square, 1:1 ratio)
 - [ ] Date, time, and timezone are correct
-- [ ] Location is set — or "Online" with a meeting link in the description
+- [ ] Location is set — an address, or the meeting link for an online event
 - [ ] Description covers what, who it's for, and any practical details
 - [ ] Visibility is set correctly (public / unlisted / private)
 - [ ] Capacity is set if you have a limit — add a per-type limit only where one type needs its own cap

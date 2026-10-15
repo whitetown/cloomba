@@ -1,6 +1,6 @@
 ---
 title: "Cancelling Your RSVP"
-meta_description: "How to cancel your RSVP on Cloomba, what happens to your spot, and how paid ticket refunds work."
+meta_description: "How to cancel your RSVP on Cloomba, what happens to your spot, and how refunds for paid tickets work."
 section: "For attendees"
 section_position: 90
 position: 39
@@ -10,19 +10,19 @@ generated: from whitetown/cloomba-content — do not edit here, open an issue in
 
 ## Cancelling your RSVP
 
-Plans change. You can cancel your RSVP to a free event at any time before the event starts.
+Plans change. You can cancel your RSVP at any time before the event starts.
 
 ## How to cancel
 
 1. Open the event page
-2. Tap **Cancel RSVP**
+2. Tap **Cancel registration**
 3. Confirm your cancellation
 
 Your spot is released immediately and the organizer is notified.
 
 ## Paid tickets
 
-Each paid event has a refund policy set by its organizer: refunds until the event starts, until a date they choose, or no refunds. If you paid for your ticket by card and cancel within the policy, you're refunded automatically: the full amount goes back to your card, usually within 5–10 business days depending on your bank. After that, you can still cancel to free your spot, without a refund. If you paid the organizer directly — by bank transfer or in cash — [contact the organizer](/help/contact-organizer) to arrange your refund.
+Cancelling doesn't refund your payment — refunds are up to the organizer. Many organizers write their refund policy below the event's description; read it, or [contact the organizer](/help/contact-organizer) to ask for a refund. A refund for a card payment goes back to your card, usually within 5–10 business days depending on your bank. If you paid the organizer directly — by bank transfer or in cash — they refund you the same way.
 
 ## Events with a waitlist
 

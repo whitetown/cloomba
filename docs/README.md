@@ -25,7 +25,7 @@ The same pages are published on [cloomba.com](https://cloomba.com).
 
 ### Creating events
 - [Creating an event](help/create-event.md)
-- [Event types: in-person, online, and hybrid](help/event-types.md)
+- [Event types: in-person and online](help/event-types.md)
 - [Event visibility: public, unlisted, and private](help/event-visibility.md)
 - [Adding a cover image](help/event-cover-image.md)
 - [Writing your event description](help/event-description.md)
@@ -68,6 +68,7 @@ The same pages are published on [cloomba.com](https://cloomba.com).
 - [Creating a calendar](help/create-calendar.md)
 - [Calendar newsletters](help/calendar-newsletters.md)
 - [Calendar admins and ownership](help/calendar-admins.md)
+- [Moving an event to another calendar](help/move-event-to-calendar.md)
 - [Submitting an event to a calendar](help/submit-event-to-calendar.md)
 - [Following a calendar](help/calendar-subscriptions.md)
 

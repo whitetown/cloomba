@@ -12,7 +12,7 @@ generated: from whitetown/cloomba-content — do not edit here, open an issue in
 
 ### Is Cloomba really free?
 
-For free events, yes — at any scale, with no listing fee, no per-guest charge and no subscription. You only pay when you sell tickets: 5% plus card processing, taken out of your payout. Fair-use limits apply to photos, videos, monthly emails, team seats and calendars, set so a normal event never reaches them. See [Pricing & Fees](/info/pricing).
+For free events, yes — at any scale, with no listing fee, no per-guest charge and no subscription. You only pay when you sell tickets: 5% plus card processing, taken out of your payout. Fair-use limits apply to photos, videos and monthly emails, set so a normal event never reaches them. See [Pricing & Fees](/info/pricing).
 
 ### Do guests pay the fee on top of my ticket price?
 
@@ -78,7 +78,7 @@ Yes, any time — one click gives you a CSV with names, answers to your question
 
 ### Is there an API?
 
-Yes. The public API covers events, guests and check-in, authenticated with a key you generate yourself. Reads are free; writes need a Pro plan. Full reference and examples are at [cloomba.com/developers](/developers).
+Yes. The public API covers events, guests and check-in, authenticated with a key a calendar's owners make on its **Settings** tab; the key reaches that calendar's events. Reads are free; writes need the calendar on a Pro plan. Full reference and examples are at [cloomba.com/developers](/developers).
 
 ### Can I put my event or calendar on my own website?
 

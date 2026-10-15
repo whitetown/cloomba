@@ -16,9 +16,11 @@ If circumstances have changed but the event might still happen, consider updatin
 
 ### How to cancel
 
-1. Open your event.
-2. Go to the event settings or management menu.
-3. Select **Cancel event** and confirm.
+1. Open your event and choose **Manage**, then the **Advanced** tab.
+2. In the **Danger zone**, select **Cancel event**.
+3. Confirm in the dialog.
+
+In the app, open the event, go to the **More** tab and tap **Cancel event**.
 
 The event is marked as cancelled immediately. It is removed from discovery listings but the event page remains accessible so guests can see the cancellation notice.
 
@@ -32,7 +34,7 @@ When you cancel, every registered guest — including anyone on the waitlist —
 
 ### Refunds for paid events
 
-If your event had paid tickets, all attendees must be refunded in full. Cancelling does this for you: every ticket paid by card is refunded automatically. Refund anyone who paid you directly — by bank transfer or in cash — yourself.
+If your event had paid tickets, all attendees must be refunded in full. On an event that sells tickets by card, the cancel dialog has a **Refund** box, ticked: cancel with it ticked, and every ticket paid by card is refunded, and the cancellation email tells guests so. Untick it only if you will refund guests another way. Refund anyone who paid you directly — by bank transfer or in cash — yourself. See [Issuing refunds](/help/refunds).
 
 Cloomba refunds its 5% platform fee too, so refunding an attendee costs you nothing on our side. Stripe keeps its processing fee from the original payment — that's Stripe's rule for every refund.
 

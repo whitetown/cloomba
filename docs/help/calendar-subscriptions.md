@@ -16,7 +16,7 @@ Following a calendar keeps you up to date with everything an organizer or commun
 
 Open the calendar page and select **Follow**. If you are not signed in, a sign-in prompt opens right there and the follow completes as soon as you are in.
 
-You can also follow from an event page: the calendar the event belongs to is shown under **Presented by**, with a Follow button beside it. In the mobile apps, Follow is on the calendar page as well.
+You can also follow from an event page: when the event belongs to a team calendar, the calendar is shown under **Presented by**, with a Follow button beside it. In the mobile apps, Follow is on the calendar page as well.
 
 ---
 

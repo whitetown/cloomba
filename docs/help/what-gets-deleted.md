@@ -31,7 +31,7 @@ A companion to [Deleting your account](/help/delete-account) with the full break
 
 ### What stays
 
-- **Events you organized** are NOT auto-cancelled. **Cancel them yourself before deleting** so registered guests are notified and refunded (paid events).
+- **Events you organized** are NOT auto-cancelled. **Cancel them yourself before deleting** so registered guests are notified — and, on paid events, keep the **Refund** box ticked so they are refunded.
 - **RSVPs you made** to other people's events stay in those organizers' guest lists, with your user row now showing as a deleted account.
 - **Photos, videos, comments, and reactions** you posted stay in place. Request specific items via [contact us](/info/contact) if you need them removed.
 - **Username** is retained, so it can't be silently re-registered by someone else.
@@ -41,13 +41,7 @@ A companion to [Deleting your account](/help/delete-account) with the full break
 
 ### A clean exit checklist
 
-1. Cancel any upcoming events you organized — issue refunds for paid tickets via Stripe.
+1. Cancel any upcoming events you organized — with the **Refund** box ticked on paid events.
 2. Cancel your own RSVPs for upcoming events (optional but tidy).
 3. Delete any individual photos / videos / comments you want gone.
 4. Delete the account from **Account → Settings**.
-
----
-
-### Coming later
-
-Auto-cancellation of upcoming events on account deletion, and automated erasure of all uploaded content, are tracked as platform work. This page will be updated when they ship.

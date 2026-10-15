@@ -1,6 +1,6 @@
 ---
-title: "Event types: in-person, online, and hybrid"
-meta_description: "Cloomba supports in-person, online, and hybrid events. Here's what each type means and how to set it up."
+title: "Event types: in-person and online"
+meta_description: "Cloomba supports in-person and online events. Here's what each type means and how to set it up."
 section: "Creating events"
 section_position: 20
 position: 20
@@ -8,7 +8,7 @@ status: published
 generated: from whitetown/cloomba-content — do not edit here, open an issue instead
 ---
 
-When you create an event on Cloomba you choose how and where it takes place. There are three options.
+An event on Cloomba happens at a venue or online. You set which one in the **Location or link** field when you create the event: an address makes it in-person, a meeting link makes it online.
 
 ---
 
@@ -26,12 +26,6 @@ The event happens over a video call or live stream. Instead of an address, you e
 
 ---
 
-### Hybrid
-
-The event has both a physical location and an online component. You set an address and a meeting link. Attendees can join either way. Both the location and the link are shown to registered guests.
-
----
-
 ### Changing the type after publishing
 
-You can update the event type and its location or link at any time after publishing. If you make a significant change — switching from in-person to online, for example — it is good practice to send an event update to notify registered guests straight away.
+You can change the location or the link at any time after publishing: pasting a link makes the event online, picking a venue makes it in-person. If you make a significant change — switching from in-person to online, for example — it is good practice to send an event update to notify registered guests straight away.

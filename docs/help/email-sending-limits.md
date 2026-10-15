@@ -26,7 +26,7 @@ The limits below protect that shared trust. If you email people who want to hear
 
 ### The monthly allowance
 
-You can send up to **500 emails per calendar month**, counted per recipient — an update sent to 40 guests uses 40. Invitations, event updates, and newsletters all count; automatic emails never do. A calendar's newsletters count against its owner's limits, whoever on the team sends them.
+Each calendar can send up to **500 emails a month**, counted per recipient — an update sent to 40 guests uses 40. Invitations, event updates, and newsletters all count, towards the calendar the event or newsletter belongs to; automatic emails never do.
 
 A single CSV import is capped at 5,000 rows.
 
@@ -38,7 +38,7 @@ Someone belongs to **your audience** if they have RSVP'd to any of your events o
 
 Everyone else counts as **new to you**, and a second, smaller allowance applies to them. Having a Cloomba account is not the same as knowing you: an invitation to a stranger counts as new even if they already use Cloomba.
 
-**The new-people allowance grows with your track record.** You start with **100 emails to new people per 30 days**. Every event you have actually run — with a group of confirmed guests — adds another 100, up to **500 per 30 days**. Higher limits are available on request.
+**The new-people allowance belongs to the calendar and grows with its track record.** Each calendar starts with **100 emails to new people per 30 days**. Every event on it that actually happened — with a group of confirmed guests — adds another 50, up to **500 per 30 days**. A [verified](/help/calendar-newsletters) calendar has the full 500 from the day it is verified. Everyone who sends from the calendar shares it: its newsletters, and invitations to the events on it. Higher limits are available on request.
 
 ---
 
@@ -46,7 +46,7 @@ Everyone else counts as **new to you**, and a second, smaller allowance applies 
 
 The send is blocked **as a whole** — nothing goes out, and you see a message explaining which limit you hit. We never send half of your list and quietly drop the rest, so you always know exactly who has been emailed.
 
-If you hit a limit with a genuine audience waiting, [contact us](/info/contact) and tell us about your events. Raising a limit for a real organizer is free and quick — the limits exist to stop scraped address lists, not community builders.
+If you hit a limit with a genuine audience waiting, use **Request a higher limit** and tell us about your events. It appears under **Send** when invitations stop at a limit, and in the **Quota** card on the calendar's **Newsletters** tab. The request is for the calendar, so its owner or an admin sends it. Raising a limit for a real organizer is free and quick — the limits exist to stop scraped address lists, not community builders.
 
 ---
 

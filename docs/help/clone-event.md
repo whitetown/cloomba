@@ -20,7 +20,8 @@ Cloning copies an event into a new one: the fastest way to set up the next editi
 - Ticket types and prices, and how payment is collected
 - Registration questions
 - Reminder settings
-- The calendar the event is presented by, when you run that calendar
+- Its calendar, when you run that calendar — otherwise the new event goes on your personal calendar
+- The payment account it is paid into, when the new event stays on the same calendar
 
 You choose whether to copy two more things:
 

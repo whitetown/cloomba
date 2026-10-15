@@ -39,4 +39,4 @@ If you run a recurring series, keep the format consistent. Attendees who've been
 
 ## Don't leave the location blank
 
-Even for online events, fill in the location field — set it to "Online" and add the meeting link in the description. Guests shouldn't have to ask where to show up.
+Even for online events, fill in the location — paste the meeting link into the **Location or link** field. Guests shouldn't have to ask where to show up.

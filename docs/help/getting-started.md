@@ -24,7 +24,7 @@ From any page, click **Create event** (or find it in the navigation menu). Fill 
 
 - **Title** — what is your event called?
 - **Date and time** — when does it start and end?
-- **Location** — an address for in-person events, a link for online events, or both for hybrid.
+- **Location** — an address for an in-person event, or a meeting link for an online one.
 - **Description** — tell people what to expect. You can format this with headings, bullet points, and links.
 - **Cover image** — a good image makes a big difference. Use something that represents the event.
 

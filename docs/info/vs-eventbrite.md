@@ -29,7 +29,7 @@ Eventbrite is the established name in event ticketing — used by everyone from 
 
 **Your pricing is simple and predictable.** Cloomba is a flat 5% + standard payment processing on paid tickets, with no per-event surcharges. Eventbrite's pricing combines a percentage **and** a flat per-ticket fee. See [Pricing & Fees](/info/pricing).
 
-**You want the money in your own account.** Ticket payments go straight to your own Stripe account — you are the seller — and each event can be paid into a different [payment account](/help/payment-accounts). A refund returns Cloomba's fee too.
+**You want the money in your own account.** Ticket payments go straight to your own Stripe account, connected to your calendar — you are the seller — and each event on it can be paid into a different [payment account](/help/payment-accounts). A refund returns Cloomba's fee too.
 
 **You want a modern, fast UI.** Cloomba is built on TanStack Start with server-side rendering and real-time updates. Eventbrite's organizer tooling is feature-rich but generationally older.
 
@@ -51,7 +51,7 @@ Eventbrite is the established name in event ticketing — used by everyone from 
 | Free events | Free | Free |
 | Paid events | 5% + standard payment processing | % + flat per-ticket fee, varying by plan and country |
 | Subscription | Not required | Premium plan available |
-| Who collects ticket money | Your own Stripe account, chosen per event | Eventbrite, paid out to your bank account |
+| Who collects ticket money | Your own Stripe account on your calendar, chosen per event | Eventbrite, paid out to your bank account |
 | Hosting | EU (Amsterdam) | US (with international processing) |
 
 Eventbrite's exact rates depend on your plan and country and change periodically — check their current pricing page.

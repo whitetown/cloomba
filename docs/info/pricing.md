@@ -23,7 +23,7 @@ When you sell tickets, the fee is deducted from your payout — attendees always
 
 ### Connecting Stripe
 
-To receive payouts you connect a Stripe account under **Account › Payment accounts**. You can connect several — one per business or bank account — and choose which one each event is paid into. See [Payment accounts](/help/payment-accounts).
+To receive payouts you connect a Stripe account to a calendar, on its **Payments** tab — your personal calendar, or a team calendar. A calendar can have several — one per business or bank account — and each event on it is paid into the one you choose. See [Payment accounts](/help/payment-accounts).
 
 ### Refunds
 
@@ -33,11 +33,11 @@ If you issue a refund to an attendee, the ticket price is returned to them in fu
 
 ### Do I need a subscription?
 
-No. Running events on Cloomba does not require a paid plan, and free events cost nothing at any scale. The free plan does have fair-use limits — on photos and videos per event, emails per month, team seats, and calendars — set so that a normal event never reaches them.
+No. Running events on Cloomba does not require a paid plan, and free events cost nothing at any scale. The free plan does have fair-use limits — on photos and videos per event, and emails per month — set so that a normal event never reaches them.
 
 ### What is the Pro plan?
 
-A **Pro** plan lifts those limits and adds full event analytics and API access, for communities and businesses running events at scale. We set Pro up with each organizer — [get in touch](/info/contact) if you think you need it.
+A **Pro** plan lifts those limits and adds full event analytics and API access, for communities and businesses running events at scale. We set Pro up for each calendar — [get in touch](/info/contact) if you think you need it.
 
 ### Is there custom pricing?
 

@@ -32,7 +32,7 @@ Everything Cloomba does, in one list. Every item here is live. Free events are f
 
 - **Ticket types** — Several [tiers](/help/ticket-types) per event, each with its own price, quantity and sale window.
 - **Coupons** — Percentage or fixed-amount [discounts](/help/coupons), with a use limit.
-- **Paid on Stripe** — Guests pay by card, Apple Pay or Google Pay. The money goes to [your Stripe account](/help/payouts), not through ours.
+- **Paid on Stripe** — Guests pay by card, Apple Pay or Google Pay. The money goes to [the calendar's Stripe account](/help/payouts), not through ours.
 - **Off-platform payment** — Bank transfer, PayPal or cash — you [mark tickets as paid](/help/off-platform-payment) yourself.
 - **Refunds** — [Refund](/help/refunds) from the guest list. Our fee is refunded with it.
 - **Wallet passes** — Tickets go into Apple Wallet and Google Wallet, with the QR code ready at the door.
@@ -71,7 +71,7 @@ Everything Cloomba does, in one list. Every item here is live. Free events are f
 - **A calendar for your group** — All your events on one page people [follow](/help/calendar-subscriptions). See [calendars](/help/about-calendars).
 - **Recurring events** — Weekly, monthly or custom [series](/help/recurring-events); each occurrence has its own guest list.
 - **Submissions** — Other organizers [submit events](/help/submit-event-to-calendar) to your calendar; you approve.
-- **Members** — Add co-organizers to the calendar; they can do everything you can.
+- **Members** — Add owners and admins to a calendar; owners run it together, admins help.
 - **Newsletter** — Email everyone the calendar has reached — followers, past guests, and contacts you add. Every email carries an unsubscribe link. See [writing to your followers](/help/about-calendars).
 - **Calendar feeds** — An .ics feed for the calendar and for every event — [subscribe](/help/add-to-calendar) from Google Calendar, Apple Calendar or Outlook.
 - **Clone an event** — [Copy](/help/clone-event) last month's event and change the date.

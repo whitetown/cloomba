@@ -14,7 +14,7 @@ Cloomba works for any online event — video calls, webinars, live streams, or r
 
 ### Setting up the meeting link
 
-In the event editor, select **Online** as the event type and paste your meeting link. This can be any URL — Zoom, Google Meet, Microsoft Teams, YouTube Live, Twitch, or anything else.
+In the event editor, paste your meeting link into the **Location or link** field and choose **Online**. This can be any URL — Zoom, Google Meet, Microsoft Teams, YouTube Live, Twitch, or anything else.
 
 The link is kept private and shown only to people who have registered. It does not appear on the public event page.
 

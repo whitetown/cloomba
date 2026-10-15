@@ -39,7 +39,7 @@ An approved event is a listing: it stays on its own home calendar, and the calen
 
 ### If someone lists your event
 
-When another calendar lists your event, you are notified, and the calendar shows under **Also listed on** on your event's manage page. **Remove from calendar** ends the listing for good — that calendar cannot list the event again. Only picking it as the event's home calendar in the event form can bring it back.
+When another calendar lists your event, you are notified, and the calendar shows under **Also listed on** on your event's manage page. **Remove from calendar** ends the listing for good — that calendar cannot list the event again. Only moving the event onto it as its home calendar can bring it back.
 
 ---
 

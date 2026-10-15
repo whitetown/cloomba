@@ -25,7 +25,7 @@ Meetup invented the model of recurring local groups around shared interests. Two
 
 **You don't want a monthly subscription.** Cloomba [calendars](/help/about-calendars) — the equivalent of a Meetup group — are free. So are your events, as long as they're free to attend.
 
-**You want to sell paid tickets.** Cloomba has full Stripe Connect support, plus an [off-platform payment mode](/help/off-platform-payment). Every event can be paid into its own [payment account](/help/payment-accounts), so co-organizers on one calendar each keep their own money.
+**You want to sell paid tickets.** Cloomba has full Stripe Connect support, plus an [off-platform payment mode](/help/off-platform-payment). Every event can be paid into its own [payment account](/help/payment-accounts).
 
 **You want pages without ads.** Cloomba shows no ads, and it is free for free events, on the web and in the iOS and Android apps.
 

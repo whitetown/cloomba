@@ -37,9 +37,17 @@ Every calendar has its own public address on cloomba.com. The page shows:
 
 ### How events get on a calendar
 
-Every event has one home calendar. You pick it in the event form when you create or edit the event, or leave the event on your personal calendar. Beyond its home, an event can be **listed** on other calendars: a second calendar of your own, or someone else's calendar that collects events like yours. A listing only adds a place where the event shows up; the home calendar stays the one it belongs to.
+Every event has one home calendar. You pick it first when you create the event, or leave the event on your personal calendar. To change it later, select **Change calendar** on the **Calendar** card at the bottom of the event's **Overview** — see [Moving an event to another calendar](/help/move-event-to-calendar). Beyond its home, an event can be **listed** on other calendars: a second calendar of your own, or someone else's calendar that collects events like yours. A listing only adds a place where the event shows up; the home calendar stays the one it belongs to.
 
 Calendar owners and admins can also list events that happen outside Cloomba — a link, a date, and a place — so the calendar shows everything in one view.
+
+---
+
+### Your personal calendar
+
+Every Cloomba account has a personal calendar. It is private: it has no public page and no followers, and it holds only your own events. It is the first card under **Your calendars** on your **Calendars** page. Open it to see its events, the **People** who came to them, and its **Payments**.
+
+To give it a public page, followers, and owners and admins besides you, open its **Settings** tab and select **Convert to a team calendar**. This can't be undone.
 
 ---
 

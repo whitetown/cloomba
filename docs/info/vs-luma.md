@@ -41,7 +41,7 @@ If your needs map cleanly to "a polished, modern event tool", you'd be happy on 
 | Free events | Free, always | Free |
 | Paid events | 5% + standard payment processing | 5% + payment processing on the free plan |
 | Subscription | Not required | Luma Plus, billed per calendar |
-| Where ticket money goes | The payment account chosen for each event — several per organizer, shareable with co-organizers | The Stripe account connected to the calendar |
+| Where ticket money goes | An account of the event's calendar, chosen per event — several per calendar | The Stripe account connected to the calendar |
 
 > The Cloomba 5% is deducted from the organizer's Stripe payout. See [Pricing & Fees](/info/pricing) and [Payment accounts](/help/payment-accounts).
 

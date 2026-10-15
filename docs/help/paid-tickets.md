@@ -33,7 +33,7 @@ Once that works, there is more you can do with the ticket itself: several ticket
 
 The first time you set up a paid event, Cloomba will prompt you to connect a Stripe account. You will be taken to Stripe's onboarding flow where you enter your business details and bank account information.
 
-Once connected, it becomes your default account, and every paid event you organize uses it. You can connect more accounts and choose one per event — see [Payment accounts](/help/payment-accounts).
+Once connected, it becomes your personal calendar's default account, and your paid events on that calendar use it. A team calendar has its own accounts, on its **Payments** tab — see [Payment accounts](/help/payment-accounts).
 
 ---
 

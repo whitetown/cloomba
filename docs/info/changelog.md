@@ -14,6 +14,26 @@ A running log of significant updates and new features.
 
 ---
 
+### October 2026 — Personal and team calendars, payments, and refunds
+
+**Calendars**
+- **Your personal calendar** — every account has one: a private home for your own events, with their guests on its People tab and its own payment accounts. Convert it to a team calendar when it should have a public page ([what calendars are](/help/about-calendars))
+- **Several owners** — a calendar can have more than one owner, all equal; make an admin an owner to hand a calendar over ([owners and admins](/help/calendar-admins))
+- **Payment accounts on the calendar** — each calendar connects its own Stripe accounts, and every event is paid into one of its calendar's accounts ([how it works](/help/payment-accounts))
+- **Email allowances per calendar** — invitations, updates and newsletters count towards the calendar they belong to ([sending limits](/help/email-sending-limits))
+- **API keys and webhooks on the calendar** — made by its owners on its Settings tab, reaching the calendar's events
+- **Change calendar** — move an event to another calendar from its Overview, and see what changes before you confirm ([how it works](/help/move-event-to-calendar))
+
+**Tickets & payments**
+- **Cancelling and refunding are separate** — a guest's cancel frees their place and never refunds; you refund from the guest list, also after a cancel, and the cancel-event dialog has a **Refund** box ([issuing refunds](/help/refunds))
+- **Your refund policy** — write it once on the calendar's Payments tab, and it shows below the description of its paid events
+
+**Events**
+- **One field for the place** — type a venue, or paste a meeting link for an online event ([event location](/help/event-location))
+- **Register without an account** — on the website, guests join with their name and email ([registering](/help/rsvp-to-event))
+
+---
+
 ### September 2026 — Memberships, payment accounts, and Telegram
 
 **Calendars**
@@ -21,11 +41,11 @@ A running log of significant updates and new features.
 - **Newsletters to groups** — send a [calendar newsletter](/help/calendar-newsletters) to everyone or only to a membership tier or a tag, then follow up with the people you missed
 - **Tags on people** — tag the people on your calendar's People tab and filter the list by tag
 - **Events from elsewhere** — paste the link to an event hosted on another site, and it appears on your calendar with a button to the original
-- **Handing over a calendar** — an admin can leave a calendar, and the owner can transfer it to one of its admins
+- **Handing over a calendar** — an admin can leave a calendar, and the owner can hand it to one of its admins
 
 **Tickets & payments**
 - **Approve, then pay** — with [approval](/help/guest-approval) on a paid event, guests pay only after you approve them, within the time you set
-- **Several payment accounts** — connect more than one Stripe account, choose which one each event is paid into, and share one with a co-organizer; people who run events on one calendar each keep their own money ([how it works](/help/payment-accounts))
+- **Several payment accounts** — connect more than one Stripe account and choose which one each event is paid into ([how it works](/help/payment-accounts))
 - **Check-in staff** — let someone check in guests at the door during the hours you set, without access to manage the event
 
 **Events**

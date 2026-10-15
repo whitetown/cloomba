@@ -17,6 +17,7 @@ Cloomba's check-in feature lets you track attendance as guests arrive. Every reg
 Each registered guest receives a QR code in their RSVP confirmation. They can find it:
 
 - In their confirmation email
+- On their ticket page, opened from that email
 - On the event page when signed in to their Cloomba account
 - In the Cloomba mobile app
 

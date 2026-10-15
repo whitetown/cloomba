@@ -20,7 +20,7 @@ Deleting your Cloomba account is a serious step. Once erased under GDPR, your pr
 ## Before you delete
 
 - **Events you organize** — delete every event you organize, or [transfer it](/help/transfer-event) to someone else, first. An account that still organizes events can't be deleted. For an upcoming event with guests, [cancel it](/help/cancel-event) before you delete it, so they are told.
-- **Paid tickets** — cancelling an event refunds every ticket paid by card automatically. Refund anyone who paid you directly yourself.
+- **Paid tickets** — when you cancel an event, keep its **Refund** box ticked, and every ticket paid by card is refunded. Refund anyone who paid you directly yourself.
 - **Your RSVPs** — your future RSVPs no longer count once the account is deleted.
 
 ## How to delete your account

@@ -1,6 +1,6 @@
 ---
 title: "Issuing refunds to guests"
-meta_description: "How to refund a ticket on Cloomba — the Refund button in your guest list, automatic refunds when a guest or you cancel, and what happens to fees."
+meta_description: "How to refund a ticket on Cloomba — the Refund button in your guest list, refunds when you cancel an event, your refund policy text, and what happens to fees."
 section: "Tickets & payments"
 section_position: 40
 position: 50
@@ -8,7 +8,7 @@ status: published
 generated: from whitetown/cloomba-content — do not edit here, open an issue instead
 ---
 
-You refund a paid ticket from your event's guest list. The money goes back to the guest through **Stripe**, and Cloomba returns its fee too.
+You refund a paid ticket from your event's guest list. The money goes back to the guest through **Stripe**, and Cloomba returns its fee too. A refund is always your decision: nothing on Cloomba refunds a ticket on its own.
 
 ---
 
@@ -18,15 +18,17 @@ You refund a paid ticket from your event's guest list. The money goes back to th
 2. Find the guest and choose **Refund**.
 3. Confirm. The dialog shows the amount and the guest's name.
 
-The guest's status changes to **refunded** shortly after. Stripe returns the money to the guest's original payment method; it typically appears within 5–10 business days depending on the guest's bank.
+Shortly after, the guest's row shows a **Refunded** badge. Stripe returns the money to the guest's original payment method; it typically appears within 5–10 business days depending on the guest's bank.
 
-**Refund** is available for every guest who paid by card through Cloomba. Guests who paid you directly — by bank transfer or in cash — are refunded by you, the same way they paid.
+**Refund** is available for every ticket paid by card through Cloomba — while it is confirmed, and after it was cancelled — until it has been refunded once. The event's organizer issues refunds. Guests who paid you directly — by bank transfer or in cash — are refunded by you, the same way they paid.
 
 ---
 
-### When a guest cancels
+### A refund does not cancel the ticket
 
-A guest who cancels a ticket they paid for by card within your refund policy is refunded in full automatically, with Cloomba's fee returned as well. After the policy's deadline, the guest can still cancel to free the spot, but no refund is issued. Your **Refund** button works whatever the policy says.
+A refunded ticket stays as it was: a confirmed guest is still registered and keeps their place. To take the place back as well, cancel the guest's RSVP from the guest list — see [Managing RSVPs](/help/rsvp-management).
+
+The other way round, a guest who cancels keeps their payment until you refund it. Their row stays in the guest list as cancelled, with **Refund** still available.
 
 ---
 
@@ -36,18 +38,14 @@ The guest receives the full ticket price back, and **Cloomba refunds its 5% plat
 
 ---
 
-### When you must refund
+### When you cancel the event
 
-If you cancel a paid event, you are required to refund all attendees in full. Cancelling the event on Cloomba does this for you: every ticket paid by card is refunded automatically, and every guest gets a cancellation email. Refund anyone who paid you directly yourself.
+If you cancel a paid event, you are required to refund all attendees in full. The cancel dialog has a **Refund** box, ticked, on events that sell tickets by card: cancel with it ticked, and every ticket paid by card is refunded. Every guest gets a cancellation email either way. Refund anyone who paid you directly yourself. See [Cancelling an event](/help/cancel-event).
 
 ---
 
 ### Your refund policy
 
-Set it under **Getting paid** in your event's registration settings, with card payments selected. Choose **Refunds**:
+Tell guests your rules in your own words — when you refund, and how to ask. Open your calendar's **Manage** page, go to the **Payments** tab, and write them under **Refund policy**. The text supports [markdown](/help/markdown).
 
-- **Until the event starts**.
-- **Until a date** — a date and time you pick. It stays put if you move the event, so change it too when you change the date.
-- **No refunds** — the default.
-
-A new policy applies to tickets bought from then on. Guests who bought earlier keep the policy they bought under, or the new one if it gives them longer.
+It is shown below the description of every paid event whose home is that calendar. Free events don't show it.

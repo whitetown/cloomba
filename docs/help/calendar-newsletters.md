@@ -12,6 +12,12 @@ The owner and admins of a calendar can write to its people from the **Newsletter
 
 ---
 
+### Verifying the calendar
+
+A calendar sends newsletters once Cloomba has verified it. Until then, the **Newsletters** tab shows **Verify calendar**: answer a few questions about your events and how you built your contact list, and we reply by email. The tab shows the date your request went out. Verification belongs to the calendar, so once it is verified, its owner and every admin can send. A verified calendar also gets its full allowance for reaching new people at once — see [email sending limits](/help/email-sending-limits).
+
+---
+
 ### Who can receive it
 
 A newsletter goes to the calendar's people, as the **People** tab shows them:
@@ -40,7 +46,7 @@ Groups add up: the newsletter goes to everyone in any group you picked, and a pe
 - If some of them got another newsletter from this calendar in the last 7 days, a line says how many. It is there to help you space your emails out; it does not stop the send.
 - **Send test to me** sends you a copy first.
 - The message supports [markdown](/help/markdown).
-- The email shows the calendar's owner as the sender. Replies go to whoever wrote it.
+- The email shows the calendar's name as the sender. Replies go to whoever wrote it.
 
 A sent newsletter cannot be taken back.
 
@@ -65,4 +71,4 @@ The list shows each newsletter with how many were sent, how many bounced, how ma
 
 ### Limits and opt-outs
 
-Newsletters count against the calendar owner's [email sending limits](/help/email-sending-limits), whoever sends them. Every newsletter carries an unsubscribe link, and anyone can turn calendar newsletters off in their notification settings. People who have unsubscribed are skipped automatically.
+Newsletters count towards the calendar's email allowances, whoever sends them — see [email sending limits](/help/email-sending-limits). Every newsletter carries an unsubscribe link, and anyone can turn calendar newsletters off in their notification settings. People who have unsubscribed are skipped automatically.

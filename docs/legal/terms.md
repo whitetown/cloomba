@@ -64,7 +64,7 @@ Payouts are transferred to the organiser's connected bank account after the even
 
 If you cancel a paid event, you must refund all attendees in full. Cloomba will facilitate refunds through Stripe; Cloomba's platform fee is returned to you when you refund an attendee.
 
-Each paid event has a refund policy set by the organiser in the event's settings: no refunds (the default), refunds until the event starts, or refunds until a date the organiser chooses. An attendee who paid by card and cancels within the policy is refunded in full automatically. The policy that applies to a ticket is the one in force when it was bought, or a later one that gives the attendee longer.
+Refunds are the organiser's decision and the organiser's action: Cloomba never refunds a ticket on its own. An attendee may cancel their registration until the event starts; cancelling does not refund their payment. Organisers set out their refund policy in their own words, shown below the description of their paid events, and are responsible for applying it fairly and in accordance with applicable law.
 
 ---
 

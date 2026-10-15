@@ -14,6 +14,14 @@ Click **Create event** from the navigation menu. You will be taken to the event 
 
 ---
 
+### Calendar
+
+Every event belongs to a calendar. If you run a team calendar, pick the event's calendar above the title; new events start on your default calendar. Otherwise the event goes on your [personal calendar](/help/about-calendars). A paid event is paid into one of its calendar's [payment accounts](/help/payment-accounts).
+
+You can move the event to another calendar later — see [Moving an event to another calendar](/help/move-event-to-calendar).
+
+---
+
 ### Title and description
 
 **Title** — keep it clear and specific. "April Bratislava JS Meetup" beats "Monthly Meetup #12".
@@ -34,11 +42,13 @@ For online events where attendees join from multiple timezones, the event page s
 
 ### Location
 
-**In-person** — enter a street address. Cloomba will show a map on the event page and use the location for local discovery.
+The **Location or link** field takes either one.
 
-**Online** — enter the meeting link (Zoom, Google Meet, Teams, or any URL). The link is shown only to people who have registered.
+**In-person** — type the venue or street address and pick it from the suggestions. Cloomba will show a map on the event page and use the location for local discovery. Your recent locations are listed as soon as you open the field.
 
-**Hybrid** — set both a physical location and an online link.
+**Online** — paste the meeting link (Zoom, Google Meet, Teams, or any URL) and choose **Online**. The link is shown only to people who have registered.
+
+More on this in [Setting your event location](/help/event-location).
 
 For events at private venues, use **Unlisted** or **Private** visibility so only people you share the link with or invite directly can see the address.
 

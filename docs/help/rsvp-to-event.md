@@ -19,8 +19,8 @@ Open the event page — either from Discover, a link someone shared with you, or
 ## Registering
 
 1. Tap **Join** (or **Register**) on the event page
-2. If you're not signed in, you'll be asked to sign in first
-3. For free events, you're confirmed immediately — unless the event requires organizer approval
+2. On the website, you can register with your name and email without signing in. In the Cloomba app, you sign in first
+3. For free events, you're confirmed immediately — unless the event requires organizer approval. If you registered with your name and email, we first email you a link: open it to confirm, and your ticket follows. If the organizer invited you by email, open their invitation and keep that address — you're registered right away
 4. For paid events, you'll be taken to checkout to complete your ticket purchase
 
 If the event offers several ticket types, you pick one first. Some may be cheaper, limited in number, or only available with a code the organizer gave you.

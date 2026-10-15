@@ -10,7 +10,7 @@ generated: from whitetown/cloomba-content — do not edit here, open an issue in
 
 ## Add a Cloomba event to your calendar
 
-When you RSVP to a Cloomba event, you'll see an **Add to calendar** option on the event page. Use it to put the event into your personal calendar so you get reminders.
+When you RSVP to a Cloomba event, you'll see an **Add to calendar** option on the event page. Use it to put the event into your calendar app so you get reminders.
 
 ### Google Calendar
 

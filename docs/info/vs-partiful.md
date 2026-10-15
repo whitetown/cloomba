@@ -52,7 +52,7 @@ Partiful is the party-invite app of choice for a lot of US 20- and 30-somethings
 | Hosting | EU (Amsterdam) | US |
 | Free events | Free | Free |
 | Paid tickets | Every Stripe Connect country, or off-platform | US and UK hosts |
-| Where ticket money goes | Your own Stripe account, chosen per event | Paid out to you after the event |
+| Where ticket money goes | Your own Stripe account on your calendar, chosen per event | Paid out to you after the event |
 | Sign-in methods | Email link / Google / Apple / GitHub / Telegram | Text message code |
 | Photos after the event | Photo and video wall with comments and reactions | Photos and videos on the event page |
 
