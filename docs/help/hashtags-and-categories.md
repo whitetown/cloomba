@@ -1,6 +1,6 @@
 ---
 title: "Hashtags and categories on events"
-meta_description: "How to add categories (hashtags) to your Cloomba event — up to 3 lowercase tags, plus what makes a tag a \"promoted category\"."
+meta_description: "How a Cloomba event gets its categories — your own #hashtags in the description, plus up to 3 promoted categories Cloomba picks from a public event's text."
 section: null
 section_position: 0
 position: 65
@@ -12,23 +12,24 @@ Categories help people find your event when they're browsing Cloomba. They're bu
 
 ---
 
-### Adding categories to your event
+### How your event gets its categories
 
-In the event editor, find the **Categories** section. Start typing a tag — the autocomplete suggests existing ones from the global pool, and you can type a brand-new tag if nothing fits.
+**Your own:** write `#hashtags` in your event's description — `Jazz night in the old town #jazz #live_music`. Each one files the event under that tag, up to **3**.
 
-Rules:
+**Picked by Cloomba:** for a public event, Cloomba reads the title and description and adds up to **3** promoted categories that fit it. They follow the text when you change it.
 
-- Up to **3 categories per event**
-- Lowercase letters, digits, and `_` only; 2–32 characters; must start with a letter (e.g. `postgres`, `kids_friendly`, `ai_safety`)
-- Pick the most specific tag that still describes your event — `postgres` is more useful than `tech`
+Rules for a hashtag:
+
+- Letters in any alphabet, digits, and `_`; 2–32 characters; starts with a letter (e.g. `#postgres`, `#kids_friendly`, `#kultúra`, `#музика`)
+- Pick the most specific tag that still describes your event — `#postgres` is more useful than `#tech`
 
 ---
 
 ### Plain tags vs promoted categories
 
-Every tag you add becomes a clickable chip on your event page. Tapping the chip opens a page listing all events with that tag.
+Every tag has its own page listing the events filed under it, and anyone can follow it to hear about new ones.
 
-A small subset of tags are **promoted categories** — curated by the Cloomba team and given a friendly title, an icon, and a color. Promoted categories also appear in the **Browse by Category** block on Discover, get their own rich landing page, and are subscribable (people can follow them and be notified of new events).
+A small subset of tags are **promoted categories** — curated by the Cloomba team and given a friendly title, an icon, and a color. Promoted categories also appear in the **Browse by Category** block on Discover and get a rich landing page. They are the categories Cloomba picks from.
 
 You can't promote your own tag — promotion is editorial. Pick tags that genuinely describe your event, and the right ones get promoted as the platform grows.
 
@@ -36,7 +37,7 @@ You can't promote your own tag — promotion is editorial. Pick tags that genuin
 
 ### Comment hashtags
 
-If you write `#tag` in a comment, Cloomba turns it into a link and adds the tag to the global pool if it didn't exist yet. Same character rules apply.
+If you write `#tag` in a comment, Cloomba highlights it and adds the tag to the global pool if it didn't exist yet. Same character rules apply.
 
 ---
 

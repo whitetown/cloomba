@@ -22,13 +22,15 @@ If circumstances have changed but the event might still happen, consider updatin
 
 In the app, open the event, go to the **More** tab and tap **Cancel event**.
 
+You can cancel an event until it starts; a recurring series, while it still has sessions ahead.
+
 The event is marked as cancelled immediately. It is removed from discovery listings but the event page remains accessible so guests can see the cancellation notice.
 
 ---
 
 ### Notifying guests
 
-When you cancel, every registered guest — including anyone on the waitlist — gets a cancellation email in their own language, plus a notification in Cloomba. Write a **Message to guests** in the cancel dialog to explain what happened; it is added to that email. Guests who registered will still receive updates you post after cancellation.
+When you cancel, every registered guest — including anyone on the waitlist or waiting for your approval — gets a cancellation email in their own language, plus a notification in Cloomba. Write a **Message to guests** in the cancel dialog to explain what happened; it is added to that email. Guests who registered will still receive updates you post after cancellation.
 
 ---
 
@@ -43,3 +45,5 @@ Cloomba refunds its 5% platform fee too, so refunding an attendee costs you noth
 ### Deleting vs cancelling
 
 Cancelling marks the event as cancelled and keeps the page visible. Deleting removes the event entirely. For events where people have already registered — especially paid events — cancelling is the right choice so guests have a record of what happened.
+
+An event with registered guests can be deleted once it is cancelled or has ended.

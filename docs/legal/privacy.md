@@ -59,11 +59,12 @@ We share data only where necessary to operate the service:
 - **Firebase (Google)** — authentication and push notification delivery. See [Google's privacy policy](https://policies.google.com/privacy).
 - **Cloudflare** — content delivery and DDoS protection for media files.
 - **Railway** — our server infrastructure, hosted in EU West (Amsterdam, Netherlands).
+- **Anthropic** — reads the title, description and venue city and country of public events to pick their categories and languages, and to translate them for visitors. Anthropic processes this text on our instructions, outside the EEA.
 - **Telegram (optional)** — only if you sign in with Telegram or connect your Telegram account in Settings → Preferences. When you sign in with Telegram, Telegram FZ-LLC, which operates outside the EU, sends us your Telegram user ID, chat ID, username and name. When you connect it for notifications, we share your Telegram chat ID and the content of the notifications you have enabled for Telegram with Telegram FZ-LLC. This is optional, based on your consent, and you can disconnect notifications at any time.
 
 All processors are contractually bound to handle your data in accordance with GDPR.
 
-We do not transfer personal data outside the European Economic Area except where a valid transfer mechanism applies (e.g. Standard Contractual Clauses with Stripe and Google), or where you have explicitly chosen to sign in with Telegram or receive notifications via Telegram, which we rely on your consent to do (Art. 49(1)(a) GDPR).
+We do not transfer personal data outside the European Economic Area except where a valid transfer mechanism applies (e.g. Standard Contractual Clauses with Stripe, Google and Anthropic), or where you have explicitly chosen to sign in with Telegram or receive notifications via Telegram, which we rely on your consent to do (Art. 49(1)(a) GDPR).
 
 ---
 

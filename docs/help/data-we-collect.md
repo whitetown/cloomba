@@ -43,6 +43,7 @@ Sign-in is handled by Firebase (Google). Firebase processes your authentication 
 | Stripe | Payment processing |
 | Cloudflare | Image/media CDN |
 | Railway | Server hosting (EU West) |
+| Anthropic | Picks the categories and languages of public events from their title, description and venue city and country |
 
 None of these processors receive more data than necessary for their function.
 

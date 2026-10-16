@@ -14,7 +14,7 @@ Cloomba is built and hosted in Europe, with GDPR compliance as a baseline — no
 
 ## Where your data lives
 
-Cloomba runs on **Railway**, with servers in **EU West (Amsterdam, Netherlands)**. Your data never leaves the European Union as part of normal platform operations.
+Cloomba runs on **Railway**, with servers in **EU West (Amsterdam, Netherlands)**. Your data stays in the European Union as part of normal platform operations, with one exception: the title, description and venue city and country of a public event go to **Anthropic**, which picks the event's categories and languages.
 
 Images and media are stored on **Cloudflare R2** with CDN delivery — also with EU data residency.
 

@@ -38,7 +38,7 @@ This page is a plain-language summary of the implications. It is **not** a subst
 ### What Cloomba does
 
 - Stores the data in the EU (Railway, Amsterdam).
-- Uses sub-processors limited to those needed to run the service (Stripe, Cloudflare, Firebase / Google for auth + push). See [Privacy Policy](/legal/privacy).
+- Uses sub-processors limited to those needed to run the service (Stripe, Cloudflare, Firebase / Google for auth + push, Anthropic for the categories and languages of public events). See [Privacy Policy](/legal/privacy).
 - Notifies you and the supervisory authority promptly in the event of a personal-data breach affecting your data.
 - Lets you delete an event (which removes the guest list) at any time.
 

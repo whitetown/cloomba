@@ -20,18 +20,18 @@ The **Browse by Category** block on Discover shows the promoted categories with 
 
 ### What's a promoted category?
 
-Any organizer can [tag their event](/help/hashtags-and-categories) with one of three lowercase tags. The Cloomba team **promotes** a small set of tags to category status — these get a friendly title, an icon, a color, the Discover slot, and a Follow button. Unpromoted tags still work as filters, just without the rich treatment.
+An event's categories are its organizer's own [#hashtags](/help/hashtags-and-categories) plus the promoted categories Cloomba picks from its text. The Cloomba team **promotes** a small set of tags to category status — these get a friendly title, an icon, a color, and the Discover slot. Unpromoted tags have their own page too, just without the rich treatment.
 
-We can't promote every tag, so we focus on the ones that genuinely group lots of events. Pick the tag that best describes your event — the right ones get promoted as the platform grows.
+We can't promote every tag, so we focus on the ones that genuinely group lots of events. Write the hashtag that best describes your event — the right ones get promoted as the platform grows.
 
 ---
 
 ### Following a category
 
-On any promoted category page, tap **Follow** to subscribe. You'll be notified when new events are added under that category.
+On any category page, tap **Follow** to subscribe. You'll be notified when new events are added under that category.
 
 ---
 
 ### Combining with city browsing
 
-A category page lists events from all cities. To narrow by location, use the city page instead — see [Browse events by city](/help/browse-by-city). Cross-filter UIs are coming.
+A category page lists events from all cities. To narrow by location, use the city page instead — see [Browse events by city](/help/browse-by-city).
