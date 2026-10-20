@@ -41,7 +41,7 @@ Everything Cloomba does, in one list. Every item here is live. Free events are f
 
 - **Scan the QR code** — Every ticket has a QR code; [scan it](/help/check-in) and the guest is in.
 - **By name** — No code? Search the list and check the guest in by hand.
-- **Hosts and moderators** — Share the door and the event with [co-hosts](/help/cohosts); moderators look after the wall and the chat.
+- **Hosts and moderators** — Share the door and the event with [co-hosts](/help/cohosts); moderators look after the photos and the chat.
 - **Live count** — Checked in versus expected, updating as people arrive.
 
 ## Reaching your guests
@@ -55,16 +55,16 @@ Everything Cloomba does, in one list. Every item here is live. Free events are f
 
 - **Event chat** — Guests and organizers in [one thread](/help/event-chat), before, during and after the event.
 - **Polls** — Ask the room; results update live.
-- **Photos in chat** — Share a picture in the thread without posting it to the wall.
+- **Photos in chat** — Share a picture in the thread without adding it to the event's photos.
 - **Reactions** — React to a message instead of writing "+1".
 - **Direct messages** — [Message](/help/messaging) a guest or an organizer one to one.
 
-## Photo wall
+## Photos
 
-- **Photos and videos** — Guests [upload](/help/upload-photos) from their phone; everyone at the event sees the [wall](/help/media-wall) fill up.
+- **Photos and videos** — Guests [upload](/help/upload-photos) from their phone; everyone at the event sees the [photos](/help/media-wall) fill up.
 - **Reactions and comments** — [Comments and reactions](/help/comments-and-reactions) on every photo, updating live.
-- **Consent** — Uploaders [confirm consent](/help/media-consent); you decide whether the wall is [public](/help/open-media-wall) or for guests only.
-- **Moderation** — Remove anything, [block a guest](/help/blocking-guests), [report abuse](/help/reporting-abuse).
+- **Consent** — Uploaders [confirm consent](/help/media-consent); you decide whether the photos are [public](/help/open-media-wall) or for guests only.
+- **Moderation** — Delete anything, [remove a guest](/help/blocking-guests), [report abuse](/help/reporting-abuse).
 
 ## Calendars and recurring events
 

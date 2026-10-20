@@ -33,6 +33,20 @@ If a coupon should reach only specific people, send it privately and keep the us
 
 ---
 
+### Putting the code in a link
+
+Add `?coupon=` and the code to your event link, and the code is applied for the guest when they open checkout:
+
+```
+https://cloomba.com/e/your-event?coupon=EARLYBIRD
+```
+
+The guest sees the new total right away and can remove the code. A code that has expired or is used up shows the usual message, and the guest can still buy at the regular price. A code linked to a ticket type that requires one unlocks that ticket, as a typed code does.
+
+On an embedded event, put `coupon=` in the `src` URL or `data-cloomba-coupon` on the button — see [Embed an event on your website](/help/embed-event).
+
+---
+
 ### Attendee experience
 
 On the RSVP screen, attendees see a **Have a code?** field. Entering a valid code shows the new total before they pay. Invalid, expired, or used-up codes are rejected with a clear message.

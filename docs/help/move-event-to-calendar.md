@@ -14,12 +14,12 @@ Every event has one home calendar. Moving the event changes that home: the event
 
 ### How to move an event
 
-1. Open the event, choose **Manage**, and find the **Calendar** card at the bottom of the **Overview**.
+1. Open the event, choose **Manage › Overview**, and find the **Calendar** card. The calendar row at the top of the Manage menu jumps to it.
 2. Select **Change calendar**.
 3. Pick the new calendar. Before you confirm, the dialog lists what the move changes.
 4. Select **Move**.
 
-In the app, **Change calendar** is on the event's **More** tab.
+In the app, open the event, tap **Manage**, and use **Change calendar** in the calendar card.
 
 The button is there when you have another calendar to move the event to. Picking **Personal calendar** puts the event on its organizer's personal calendar.
 

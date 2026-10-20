@@ -24,7 +24,7 @@ We collect only what's needed to run the platform: your name, email or phone num
 
 ## Authentication
 
-Cloomba uses **Firebase Authentication** (Google) for sign-in. We never store passwords. Sign-in is handled via one-time codes (email magic link or SMS) or trusted OAuth providers (Google, Apple, GitHub).
+Cloomba uses **Firebase Authentication** (Google) for sign-in. We never store passwords. Sign-in is handled with an email link, or with Google, Apple, GitHub or Telegram.
 
 ## Your rights
 

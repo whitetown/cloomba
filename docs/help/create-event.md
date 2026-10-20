@@ -78,7 +78,7 @@ Leave it blank for unlimited capacity.
 
 ### Guest approval
 
-Turn on **Require approval** if you want to review each registration before confirming it. Guests submit their RSVP and you approve or decline them manually from the guest list.
+Turn on **Require approval to join** if you want to review each registration before confirming it. Guests submit their RSVP and you approve or decline them manually from **Manage › Guests**.
 
 ---
 
@@ -93,6 +93,6 @@ If you are not ready to go live yet, save the event as a **draft** and come back
 ### After publishing
 
 - Share the event URL anywhere
-- Send direct invitations from the guest list
+- Send direct invitations with **Invite** or from **Manage › Invitations**
 - Add co-hosts or managers to help you run it
 - Post updates to keep registered guests informed

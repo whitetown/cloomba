@@ -22,7 +22,7 @@ If any of your data is inaccurate or incomplete, you can correct it yourself in 
 
 ## Right to erasure (Article 17)
 
-You have the right to have your personal data deleted. You can delete your account directly from **Account → Settings → Delete account**, or contact us to request deletion of specific data.
+You have the right to have your personal data deleted. You can delete your account directly with **Delete account** at the foot of your **Profile** on the web, or on the Account screen in the app, or contact us to request deletion of specific data.
 
 ## Right to data portability (Article 20)
 

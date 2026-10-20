@@ -24,10 +24,10 @@ If you're running paid events regularly or at any real scale, **Stripe checkout*
 
 ### How it works
 
-When you switch the event to **Paid → Off-platform**, you fill in two fields:
+In **Manage › Registration**, switch the event to **Paid**; under **Getting paid**, choose **Off-platform (bank transfer, cash)** and fill in two fields:
 
-- **Payment URL** — optional. A link attendees should follow to pay you (e.g. a PayPal.me link or a hosted invoice page).
-- **Payment instructions** — free text explaining what to do. Bank account number, payment reference, deadline, anything attendees need.
+- **Payment link (optional)**. A link attendees should follow to pay you (e.g. a PayPal.me link or a hosted invoice page).
+- **Payment instructions (optional)** — free text explaining what to do. Bank account number, payment reference, deadline, anything attendees need.
 
 A new RSVP lands in **Pending payment** instead of being confirmed. The attendee sees your payment instructions on the RSVP screen and pays you outside Cloomba.
 

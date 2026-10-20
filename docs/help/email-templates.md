@@ -14,7 +14,7 @@ Cloomba emails your guests on your behalf, each in the guest's own language. You
 
 ### Where to find it
 
-Open your event's management page, go to the **Advanced** tab, and scroll to **Email notes**.
+Open your event, choose **Manage › Advanced**, and scroll to **Email notes**.
 
 ---
 

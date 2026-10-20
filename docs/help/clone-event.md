@@ -38,12 +38,12 @@ Ticket sales windows are cleared, so set new ones if the next edition needs them
 
 On the web:
 
-1. Open the event, choose **Manage**, then the **Advanced** tab.
+1. Open the event, choose **Manage › Advanced**.
 2. Select **Clone event**.
 
 On a desktop, you can also start from **Create event**: the **Clone past event** list under the cover shows your most recent past events — pick one.
 
-In the app, open the event, go to the **More** tab and tap **Clone event**.
+In the app, open the event, tap **Manage**, then **Clone event**.
 
 Then:
 

@@ -26,7 +26,7 @@ Your export will contain:
 - **Events** — events you created and events you attended
 - **RSVPs** — your RSVP history and ticket purchases
 - **Media** — a list of photos and videos you uploaded
-- **Comments and reactions** — your activity on event media walls
+- **Comments and reactions** — your activity on event photos
 
 ## What's not included
 

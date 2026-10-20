@@ -10,15 +10,15 @@ generated: from whitetown/cloomba-content — do not edit here, open an issue in
 
 ## Add a Cloomba event to your calendar
 
-When you RSVP to a Cloomba event, you'll see an **Add to calendar** option on the event page. Use it to put the event into your calendar app so you get reminders.
+When you RSVP to a Cloomba event, you'll see an **Add to Calendar** option on the event page. Use it to put the event into your calendar app so you get reminders.
 
 ### Google Calendar
 
-Click **Add to Google Calendar**. A new tab opens with the event pre-filled — title, date, time, location, and a link back to the event page. Press **Save** to add it to your account.
+Choose **Add to Calendar**, then **Google Calendar**. A new tab opens with the event pre-filled — title, date, time, location, and a link back to the event page. Press **Save** to add it to your account.
 
 ### Apple Calendar (iPhone, Mac)
 
-Click **Download .ics** (or use the **Add to Apple Calendar** option on iOS). The file opens in Apple Calendar — confirm the calendar you want to add it to and tap **Add**.
+Choose **Add to Calendar**, then **Apple Calendar (.ics)**. The file opens in Apple Calendar — confirm the calendar you want to add it to and tap **Add**.
 
 ### Outlook and other apps
 

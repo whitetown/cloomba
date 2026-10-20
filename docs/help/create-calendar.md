@@ -49,6 +49,7 @@ Open **Manage** on the calendar page, or the pencil on your Calendars page. The 
 - **People** — everyone the calendar reaches: followers, guests of every event whose home is this calendar (whoever organized it), and contacts you import; tag them, export them, and manage memberships
 - **Newsletters** — write to those people; see [Calendar newsletters](/help/calendar-newsletters)
 - **Payments** — the calendar's [payment accounts](/help/payment-accounts) and its discount codes
+- **Reports** — traffic and guests of the calendar's events, summed
 - **Settings** — everything above, plus the embed snippet and the **Danger zone**: **Leave calendar** for admins (and for an owner while another owner stays), **Delete** for owners
 
 Deleting a calendar keeps its events: an event whose home it was moves to its organizer's personal calendar, and an event that was only listed on it stops being listed. A calendar can't be deleted while any of its membership tiers has a price, or while an upcoming event on it has members-only tickets. See [Calendar admins and ownership](/help/calendar-admins).

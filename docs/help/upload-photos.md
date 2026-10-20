@@ -1,6 +1,6 @@
 ---
 title: "Uploading photos to an event"
-meta_description: "How to upload photos to a Cloomba event media wall — formats, limits, and tips for sharing great event memories."
+meta_description: "How to upload photos to a Cloomba event — formats, captions, and when you can add them."
 section: "Media & content"
 section_position: 60
 position: 20
@@ -10,32 +10,28 @@ generated: from whitetown/cloomba-content — do not edit here, open an issue in
 
 ### How to upload
 
-Open the event page and go to the media wall. Tap or click the upload button and select one or more photos from your device. You can add a caption before posting.
+Open the event page and find the **Photos** section. Tap or click **Add photos** in its header and select one or more photos from your device. Each photo is added on its own, straight away.
 
-Supported formats: JPEG, PNG, WebP. HEIC files from iPhones are converted automatically.
+Supported formats: JPEG, PNG, WebP and GIF. HEIC files from iPhones are converted automatically.
 
----
-
-### Multiple photos in one post
-
-You can upload up to four photos as a single post. They are displayed together as a gallery. Use this for a set of related shots — a speaker, a group photo, a moment from the event.
+If you don't see **Add photos**, the organizer has limited uploads to staff, or you have not joined the event yet. See [Event photos](/help/media-wall).
 
 ---
 
 ### Captions
 
-Each post can have an optional caption. Keep it short — a sentence or two is enough. Captions appear below the photos in the wall and in any notifications sent to attendees.
+Open a photo you uploaded to add a caption or change it — the field reads **Add a caption**. Keep it short; a sentence or two is enough.
 
 ---
 
-### Editing and deleting
+### Deleting
 
-You can edit the caption of your post at any time. You can also delete your own posts from the media wall at any time.
-
-Organizers, admins, and moderators can delete any post on the wall.
+You can delete your own photos at any time. Organizers, admins, and moderators can delete any photo.
 
 ---
 
 ### When you can upload
 
-The media wall is open before, during, and after the event. There is no time limit — you can add photos days after the event has ended.
+You can add photos before, during, and after the event. There is no time limit — you can add photos days after the event has ended.
+
+Each event can hold a set number of photos and videos, depending on the organizer's plan. You'll see a notice when an event is close to its limit.

@@ -18,9 +18,8 @@ When you first use Cloomba, your browser may ask for permission to send notifica
 
 If you dismissed the prompt, you can enable notifications manually:
 
-1. Open your account settings.
-2. Go to **Notifications**.
-3. Click **Enable push notifications** and allow the browser permission when prompted.
+1. Open the account menu and choose **Preferences**.
+2. In the **Push notifications** card, click **Enable push notifications** and allow the browser permission when prompted.
 
 Push notifications on the web work only when you have Cloomba open in a browser tab, or when the browser is running in the background. For more reliable delivery, use the mobile app.
 
@@ -28,7 +27,7 @@ Push notifications on the web work only when you have Cloomba open in a browser 
 
 ### Enabling on mobile
 
-Open the Cloomba app and go to your account settings. Tap **Notifications** and enable push notifications. Your device may ask for permission — tap **Allow**.
+Open the Cloomba app's notification preferences and enable push notifications. Your device may ask for permission — tap **Allow**.
 
 ---
 
@@ -45,4 +44,4 @@ If you have checked all of the above and notifications are still not working, co
 
 ### Turning off push notifications
 
-Go to your account settings, open **Notifications**, and disable push notifications. You can also revoke permission directly from your browser or device settings at any time.
+On the web, turn push notifications off in your browser's site settings for cloomba.com. In the apps, use the per-category switches in the app's notification preferences, or revoke permission in your device settings at any time.

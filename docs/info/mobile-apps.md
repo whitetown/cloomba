@@ -1,6 +1,6 @@
 ---
 title: "Cloomba on iOS and Android"
-meta_description: "Cloomba has native iOS and Android apps — discover events, RSVP, manage your own events, chat, and post to the media wall."
+meta_description: "Cloomba has native iOS and Android apps — discover events, RSVP, manage your own events, chat, and share event photos."
 section: "Product"
 section_position: 0
 position: 35
@@ -10,7 +10,7 @@ generated: from whitetown/cloomba-content — do not edit here, open an issue in
 
 ## Cloomba on iOS and Android
 
-Cloomba is now live on the **App Store** and **Google Play**. The apps cover everything you can do on the website — discover events, RSVP, manage your own events, chat with organizers, and post to the event media wall — in a faster, mobile-first interface.
+Cloomba is now live on the **App Store** and **Google Play**. The apps cover everything you can do on the website — discover events, RSVP, manage your own events, chat with organizers, and share photos from events — in a faster, mobile-first interface.
 
 ### What's in the apps
 
@@ -18,12 +18,12 @@ Cloomba is now live on the **App Store** and **Google Play**. The apps cover eve
 - **Your events** — create and manage events from your phone, including check-in at the door.
 - **Tickets** — your QR codes are always available, even without signal.
 - **Push notifications** — fast, native, with do-not-disturb support.
-- **Media wall** — upload photos and videos straight from your camera roll.
-- **Messages** — full 1:1 chat with text and photos.
+- **Photos** — add photos and videos to an event straight from your camera roll.
+- **Chat** — full 1:1 chat with text and photos.
 
 ### Cross-device sync
 
-You don't need to choose between mobile and web — sign in with the same account on any device and everything stays in sync in real time: messages, RSVPs, notifications, your media wall posts.
+You don't need to choose between mobile and web — sign in with the same account on any device and everything stays in sync in real time: messages, RSVPs, notifications, your event photos.
 
 ### Privacy and data
 

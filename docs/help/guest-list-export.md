@@ -29,7 +29,7 @@ The CSV contains one row per guest with:
 
 ### How to export
 
-Open the **Guests** tab on your event page and choose **Export** — CSV, Excel (.xlsx), or Print view (HTML). The print view is the door list: print it, or save it as a PDF.
+Open **Manage › Guests** and choose **Export** — CSV, Excel (.xlsx), or Print view (HTML). The print view is the door list: print it, or save it as a PDF.
 
 ---
 

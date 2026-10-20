@@ -25,7 +25,7 @@ Each registered guest receives a QR code in their RSVP confirmation. They can fi
 
 ### Scanning QR codes
 
-Open the **Check-in** tab on your event page from your phone or tablet. Tap the scan button to activate the camera and scan a guest's QR code. If the code is valid, the guest is marked as checked in instantly.
+From your phone or tablet, open the event and choose **Check in** — it appears an hour before the start — or open **Manage › Check in**. Tap the scan button to activate the camera and scan a guest's QR code. If the code is valid, the guest is marked as checked in instantly.
 
 The check-in view shows a running count of how many guests have arrived versus the total expected.
 

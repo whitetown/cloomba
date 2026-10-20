@@ -8,7 +8,7 @@ status: published
 generated: from whitetown/cloomba-content — do not edit here, open an issue instead
 ---
 
-Every registration on your event is tracked in the guest list. You can access it from the **Guests** tab on your event page.
+Every registration on your event is tracked in the guest list. You can access it from **Manage › Guests** (the **Guests** button on the event page opens it).
 
 ---
 
@@ -32,7 +32,7 @@ The guest list shows all registrations in real time. You can search by name and 
 
 ### Approving and declining guests
 
-If your event has **Require approval** enabled, new registrations land in the pending list. Review each one and approve or decline. Approved guests receive a confirmation. Declined guests are notified and their spot is released.
+If your event has **Require approval to join** enabled, new registrations land in the pending list. Review each one and approve or reject it. Approved guests receive a confirmation. Rejected guests are notified and their spot is released.
 
 See [Manual guest approval](/help/guest-approval) for more detail.
 

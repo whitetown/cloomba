@@ -25,10 +25,9 @@ Deleting your Cloomba account is a serious step. Once erased under GDPR, your pr
 
 ## How to delete your account
 
-1. Open **Account** from the navigation
-2. Go to **Settings**
-3. Scroll to the bottom and tap **Delete account**
-4. Confirm your decision
+1. On the web, open the account menu and choose **Profile**. In the app, open the Account screen
+2. Scroll to the bottom and tap **Delete account**
+3. Confirm your decision
 
 You'll be signed out on all devices.
 

@@ -14,6 +14,24 @@ A running log of significant updates and new features.
 
 ---
 
+### October 2026 — One event page, and Manage in one menu
+
+On the website:
+
+**Event page**
+- **One page** — the description, then the Program (or the dates of a series), Speakers, Photos and Sponsors, each with a link to the full list ([program and speakers](/help/agenda-and-speakers))
+- **Photos** — guests add photos and videos with **Add photos**, right on the event page ([event photos](/help/media-wall))
+- **Chat** — the event's chat opens from a button in the corner of the page ([event chat](/help/event-chat))
+- **Staff buttons** — **Post**, **Guests**, **Invite** and **Manage** right under the date; from an hour before the start, **Check in** takes Invite's place ([check-in](/help/check-in))
+- **Ended** and **Cancelled** badges on the date
+
+**Manage**
+- **One menu** — Overview, Registration, Guests, Invitations, Check in, Program, Speakers, Sponsors, Polls, Reports and Advanced, beside the page on a wide screen and in a dropdown on a phone
+- **Invitations and Check in** sit in Manage, next to the guest list ([inviting guests](/help/invite-guests))
+- **Organizer guides** — every guide, one click away in the menu
+
+---
+
 ### October 2026 — Personal and team calendars, payments, and refunds
 
 **Calendars**

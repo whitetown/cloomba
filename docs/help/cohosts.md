@@ -14,15 +14,15 @@ If you are running an event with a team, you can give other Cloomba users access
 
 ### Roles
 
-**Admin** — broad management access. Can edit the event, manage the guest list, approve or decline RSVPs, send invitations, post updates, manage ticket types, choose the event's [payment account](/help/payment-accounts) when they also manage its calendar, handle bans, run check-in, and delete media or comments. Cannot cancel or delete the event, issue refunds, or manage the staff roster — those actions are reserved for the organizer.
+**Admin** — broad management access. Can edit the event, manage the guest list, approve or reject registrations, send invitations, post updates, manage ticket types, choose the event's [payment account](/help/payment-accounts) when they also manage its calendar, run check-in, and delete media or comments. Cannot cancel or delete the event, issue refunds, or manage the staff roster — those actions are reserved for the organizer.
 
-**Moderator** — focused on day-of moderation. Can run check-in, manage bans, and delete inappropriate media or comments. Cannot edit event details, manage the guest list, approve RSVPs, send invitations, or post updates.
+**Moderator** — focused on day-of moderation. Sees **Guests** and **Check in** in Manage, can run check-in, and delete inappropriate media or comments. Cannot edit event details, approve or cancel registrations, send invitations, or post updates.
 
 ---
 
 ### Adding someone
 
-1. Open your event and go to the **Staff** section.
+1. Open your event and go to **Manage › Advanced** → **Event staff**.
 2. Search for the person by their Cloomba username.
 3. Choose their role — admin or moderator.
 4. Confirm. They immediately have access.
@@ -33,7 +33,7 @@ The person must already have a Cloomba account to be added.
 
 ### Removing access
 
-You can remove a staff member at any time from the Staff section. Their access is revoked immediately.
+You can remove a staff member at any time from **Event staff** in **Manage › Advanced**. Their access is revoked immediately.
 
 ---
 

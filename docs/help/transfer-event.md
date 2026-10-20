@@ -18,7 +18,7 @@ You can hand over an event to another Cloomba user. This is useful when:
 
 ### How to start a transfer
 
-1. Open the event you want to transfer and choose **Manage**, then the **Advanced** tab.
+1. Open the event you want to transfer and choose **Manage › Advanced**.
 2. In the **Danger zone**, select **Transfer event**.
 3. Enter the username of the new owner.
 4. Send the request.

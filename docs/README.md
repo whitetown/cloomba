@@ -9,14 +9,13 @@ The same pages are published on [cloomba.com](https://cloomba.com).
 - [Your notifications inbox](help/notifications-inbox.md)
 - [Off-platform payment for paid events](help/off-platform-payment.md)
 - [What happens when you delete your account](help/what-gets-deleted.md)
-- [Opening the media wall to non-attendees](help/open-media-wall.md)
+- [Making event photos public](help/open-media-wall.md)
 - [Discount coupons for paid events](help/coupons.md)
 - [Adding an agenda and speakers to your event](help/agenda-and-speakers.md)
 - [Adding your note to guest emails](help/email-templates.md)
 - [Hashtags and categories on events](help/hashtags-and-categories.md)
 - [Browse events by city](help/browse-by-city.md)
 - [Browse events by category](help/browse-by-category.md)
-- [Setting your home city](help/home-city-setting.md)
 - [Language and locale settings](help/language-and-locale.md)
 
 ### Getting started
@@ -51,7 +50,7 @@ The same pages are published on [cloomba.com](https://cloomba.com).
 - [Adding co-hosts and managers](help/cohosts.md)
 - [Collecting info from guests](help/guest-questions.md)
 - [Exporting your guest list](help/guest-list-export.md)
-- [Removing or blocking a guest](help/blocking-guests.md)
+- [Removing a guest](help/blocking-guests.md)
 
 ### Tickets & payments
 - [Setting up paid tickets](help/paid-tickets.md)
@@ -73,7 +72,7 @@ The same pages are published on [cloomba.com](https://cloomba.com).
 - [Following a calendar](help/calendar-subscriptions.md)
 
 ### Media & content
-- [The event media wall](help/media-wall.md)
+- [Event photos](help/media-wall.md)
 - [Uploading photos to an event](help/upload-photos.md)
 - [Uploading videos to an event](help/upload-videos.md)
 - [Media consent and permissions](help/media-consent.md)
@@ -127,6 +126,7 @@ The same pages are published on [cloomba.com](https://cloomba.com).
 - [Organizer Checklist Before the Event](help/event-checklist.md)
 - [After the Event: Follow-Up Tips](help/post-event-tips.md)
 - [Building a Community with Calendars](help/community-building.md)
+- [Tracking links](help/tracking-links.md)
 
 ## Info
 

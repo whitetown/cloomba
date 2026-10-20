@@ -21,8 +21,8 @@ If your needs map cleanly to "a polished, modern event tool", you'd be happy on 
 
 ## When Cloomba is the better fit
 
-- **A real shared photo wall** — Every event ships a full [media wall](/help/media-wall) — photo and video uploads, captions, [comments and reactions](/help/comments-and-reactions), real-time updates, and an [optional public-wall mode](/help/open-media-wall) with explicit consent. It's part of every event.
-- **EU data, GDPR by design** — Cloomba's servers run in Amsterdam (EU-West) — all event content, RSVPs, photos, and messages stay in the EU, while Luma is US-hosted. The privacy policy is short because the product collects less: no advertising profiles, no behavioral tracking, and the [media-wall consent](/help/media-consent) is asked every upload.
+- **A real shared photo wall** — Every event ships [shared photos](/help/media-wall) — photo and video uploads, captions, [comments and reactions](/help/comments-and-reactions), real-time updates, and an [option to make them public](/help/open-media-wall) with explicit consent. It's part of every event.
+- **EU data, GDPR by design** — Cloomba's servers run in Amsterdam (EU-West) — all event content, RSVPs, photos, and messages stay in the EU, while Luma is US-hosted. The privacy policy is short because the product collects less: no advertising profiles, no behavioral tracking, and [photo consent](/help/media-consent) is asked before anyone's first upload to an event.
 - **Not English-first** — Cloomba's interface and the emails it sends are fully localized, and each person sees them in the language they picked, not the one you organize in. See [Language and locale settings](/help/language-and-locale).
 - **Off-platform payment** — Cloomba supports Stripe **or** an [off-platform payment mode](/help/off-platform-payment) (bank transfer, PayPal, cash) where Cloomba stores no money. Useful for organizers who already have a club account, or who run free-with-donation events.
 - **Built for developer communities** — GitHub sign-in is a first-class option on [Cloomba's sign-in page](/help/sign-in).

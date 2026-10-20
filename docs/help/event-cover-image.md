@@ -14,7 +14,7 @@ A cover image is the first thing people see when they find your event. It appear
 
 ### How to add one
 
-In the event editor, click the cover image area and upload a photo from your device. Cloomba accepts JPEG, PNG, and WebP files. HEIC files (from iPhones) are converted automatically.
+In **Manage › Overview**, click the cover image area and upload a photo from your device. Cloomba accepts JPEG, PNG, and WebP files. HEIC files (from iPhones) are converted automatically.
 
 ---
 
@@ -40,4 +40,4 @@ When someone shares your event link on social media or in a messaging app, Cloom
 
 ### Changing the image
 
-You can replace the cover image at any time from the event editor. The new image takes effect immediately.
+You can replace the cover image at any time from **Manage › Overview**. The new image takes effect immediately.

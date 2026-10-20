@@ -21,17 +21,19 @@ Your Cloomba profile is how other users and event organizers recognize you. Sett
 
 ## How to update your profile
 
-1. Sign in and open **Account** from the navigation
-2. Go to **Profile**
-3. Edit your display name, username, bio, or photo
+1. Sign in and open the account menu
+2. Choose **Profile**
+3. Edit your display name, bio, or photo
 4. Tap **Save**
+
+Your username has its own **Save** next to it.
 
 Changes take effect immediately across all events you've attended or organized.
 
 ## Choosing a username
 
-Your username must be unique. You can use letters, numbers, and underscores. Once set, you can change it — but if someone else claims your old username in the meantime, you won't be able to get it back.
+Your username must be unique: 5–64 characters, lowercase letters, digits and underscores. You can change it once every 30 days — but if someone else claims your old username in the meantime, you won't be able to get it back.
 
 ## Profile photo
 
-You can upload a photo from your camera roll. If you signed in with Google or Apple, Cloomba may import your profile photo automatically.
+You can upload a photo from your camera roll.

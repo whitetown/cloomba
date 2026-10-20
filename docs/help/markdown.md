@@ -18,7 +18,7 @@ Every one of those boxes has a **Preview** button. Use it — it renders exactly
 
 - Your event description
 - Event updates
-- Agenda sessions and speaker bios
+- Program sessions and speaker bios
 - **How to get there** — parking, transit, and doorbell notes
 - Payment instructions, when you collect money off Cloomba
 - The description under a guest question

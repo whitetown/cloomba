@@ -26,7 +26,7 @@ Cloomba sends notifications to keep you informed about events you care about —
 - Someone RSVPs to your event
 - A guest requests approval (if Require approval is on)
 - A submission arrives for your calendar
-- Someone uploads to your event media wall
+- Someone uploads to your event's photos
 
 **As a calendar follower:**
 - A new event is added to a calendar you follow

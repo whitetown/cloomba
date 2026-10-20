@@ -14,7 +14,7 @@ A companion to [Deleting your account](/help/delete-account) with the full break
 
 ### Two deletion modes
 
-**Soft delete** (the default from the settings button): your account is deactivated, you're signed out, and a 30-day grace window starts. Sign back in within those 30 days and the account reactivates exactly as you left it. After 30 days, it's permanently erased.
+**Soft delete** (the default when you choose **Delete account**): your account is deactivated, you're signed out, and a 30-day grace window starts. Sign back in within those 30 days and the account reactivates exactly as you left it. After 30 days, it's permanently erased.
 
 **GDPR erasure**: immediate permanent anonymisation under your Article 17 right. Available on request via [contact us](/info/contact). Requires recent sign-in for security.
 
@@ -44,4 +44,4 @@ A companion to [Deleting your account](/help/delete-account) with the full break
 1. Cancel any upcoming events you organized — with the **Refund** box ticked on paid events.
 2. Cancel your own RSVPs for upcoming events (optional but tidy).
 3. Delete any individual photos / videos / comments you want gone.
-4. Delete the account from **Account → Settings**.
+4. Delete the account with **Delete account** at the foot of your **Profile** on the web, or on the Account screen in the app.

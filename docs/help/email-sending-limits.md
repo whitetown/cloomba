@@ -26,7 +26,7 @@ The limits below protect that shared trust. If you email people who want to hear
 
 ### The monthly allowance
 
-Each calendar can send up to **500 emails a month**, counted per recipient — an update sent to 40 guests uses 40. Invitations, event updates, and newsletters all count, towards the calendar the event or newsletter belongs to; automatic emails never do.
+Each calendar has a monthly allowance that depends on its plan; the **Quota** card on the calendar's **Newsletters** tab shows it. It is counted per recipient — an update sent to 40 guests uses 40. Invitations, event updates, and newsletters all count, towards the calendar the event or newsletter belongs to; automatic emails never do.
 
 A single CSV import is capped at 5,000 rows.
 

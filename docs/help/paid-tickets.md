@@ -18,7 +18,7 @@ Cloomba currently supports paid events in countries where Stripe Connect is avai
 
 ### Setting a ticket price
 
-1. Open your event in the editor.
+1. Open your event and choose **Manage › Registration**.
 2. Switch the event to **Paid**.
 3. Connect your Stripe account if prompted.
 4. Set your **price** and **currency**.
@@ -41,7 +41,7 @@ Once connected, it becomes your personal calendar's default account, and your pa
 
 Cloomba charges **5% of the ticket price** plus standard payment processing (the exact rate depends on the card type and country). These fees are deducted from your payout — attendees pay exactly the price you set.
 
-The exact net payout is shown in the editor before you publish, so there are no surprises. For more detail see [How Cloomba fees work](/help/pricing-fees).
+The exact net payout is shown in **Manage › Registration** before you publish, so there are no surprises. For more detail see [How Cloomba fees work](/help/pricing-fees).
 
 ---
 

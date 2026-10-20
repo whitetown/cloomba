@@ -14,16 +14,16 @@ Require approval gives you control over who gets into your event. Instead of con
 
 ### Enabling it
 
-In the event editor, turn on **Require approval**. From that point on, any new registration goes into a pending state until you act on it.
+Open **Manage › Registration** and turn on **Require approval to join**. From that point on, any new registration goes into a pending state until you act on it.
 
 ---
 
 ### Reviewing requests
 
-Open the **Guests** tab on your event page. Pending requests appear at the top of the list. For each request you can see the guest's name and profile, and choose to **Approve** or **Decline**.
+Open **Manage › Guests** and choose the **Requests** filter, which shows while there are any. For each request you can see the guest's name and profile, and choose to **Approve** or **Reject**.
 
 - **Approve** — the guest receives a confirmation and their spot is secured.
-- **Decline** — the guest is notified that their request was not accepted. Their spot is released back to the pool.
+- **Reject** — the guest is notified that their request was not accepted. Their spot is released back to the pool.
 
 ---
 
@@ -35,4 +35,4 @@ Approval works with paid events too. When enabled, guests request a spot first �
 
 ### Turning it off mid-event
 
-You can disable Require approval at any time. Guests who are already pending will remain pending until you act on them — disabling the setting does not auto-approve them.
+You can turn off **Require approval to join** at any time. Guests who are already pending will remain pending until you act on them — disabling the setting does not auto-approve them.

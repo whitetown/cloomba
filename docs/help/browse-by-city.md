@@ -1,6 +1,6 @@
 ---
 title: "Browse events by city"
-meta_description: "How Cloomba's Explore Local feature works — city pages, the Popular Nearby block, and setting your home city."
+meta_description: "How Cloomba's Explore Local feature works — city pages, events near you, and following a city."
 section: null
 section_position: 0
 position: 75
@@ -26,13 +26,9 @@ On the [Discover page](/help/find-events), the **Explore Local** block shows cit
 
 ---
 
-### Popular nearby
+### Events near you
 
-If you set a **home city** in your profile settings, Cloomba shows a **Popular nearby** block above the rest of Discover — upcoming events in your city, surfaced first.
-
-To set your home city: **Account → Settings → Home city**.
-
-If you don't set a home city, Cloomba falls back to no personalization; you can still browse any city manually.
+Discover shows upcoming events in the country you're browsing from — **Events in Slovakia**, for example. Events in the cities you follow are listed first, so following a city brings its events to the top.
 
 ---
 

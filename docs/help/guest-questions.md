@@ -14,15 +14,9 @@ Registration questions let you collect information from guests when they RSVP. U
 
 ### Adding questions
 
-In the event editor, open the **Registration questions** section and add your questions. Each question has a text prompt and can be set as required or optional.
+Open **Manage › Registration**, go to **Registration questions** and add your questions. Each question has a text prompt and can be set as required or optional.
 
 Guests see and answer the questions as part of the RSVP flow — before their registration is confirmed.
-
----
-
-### Guest names
-
-Every guest gives their name — it's the first row of **Registration questions**, always on. By default that's their full name, the one on their profile. Choose **First and last name** and every guest types both, side by side, when they register for this event — handy for name badges, or when you need the name as it is on an ID rather than a nickname. The two parts appear in your guest list, at check-in and as separate columns in the CSV export. To fix a typo, open the guest's details in the guest list on cloomba.com.
 
 ---
 
@@ -36,4 +30,4 @@ Answers are visible in the guest list. Click on any guest to see their full prof
 
 - **Keep it short** — every extra required question reduces conversions. Only ask what you genuinely need.
 - **Mark optional clearly** — guests appreciate knowing which questions they can skip.
-- **Use it for logistics** — questions work well for practical things like meal choices or accessibility needs, not for gatekeeping attendance (use Require approval for that).
+- **Use it for logistics** — questions work well for practical things like meal choices or accessibility needs, not for gatekeeping attendance (use **Require approval to join** for that).

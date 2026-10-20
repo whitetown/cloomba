@@ -1,6 +1,6 @@
 ---
 title: "Issues with RSVPs"
-meta_description: "Fix common RSVP problems on Cloomba — missing RSVP button, pending status, declined requests, and cancellation issues."
+meta_description: "Fix common RSVP problems on Cloomba — missing Join or Register button, pending status, declined requests, and cancellation issues."
 section: "Troubleshooting"
 section_position: 110
 position: 47
@@ -12,9 +12,9 @@ generated: from whitetown/cloomba-content — do not edit here, open an issue in
 
 Here are solutions to the most common RSVP problems.
 
-## RSVP button isn't showing
+## Join or Register button isn't showing
 
-- **You may not be signed in** — the RSVP button requires an account. Sign in and try again.
+- **The page may be out of date** — free and paid registration work signed out on the website. Reload the page, or sign in and try again.
 - **The event may be full** — if capacity is reached, you'll see a waitlist option instead.
 - **The event may have ended** — RSVPs close when the event starts.
 - **The event is private** — you need a direct invitation from the organizer to RSVP.

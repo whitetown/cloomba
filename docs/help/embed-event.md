@@ -60,6 +60,8 @@ The button comes with a default style. To use your **own** styling, remove the `
 | `theme` | `light`, `dark` | Force light or dark (default: follows the visitor) |
 | `accent` | `%23rrggbb` | Override the accent color (write `#` as `%23`) |
 | `bg` | `transparent`, `%23rrggbb` | Card background — `transparent` blends into your page |
+| `coupon` | a coupon code | Applies the code when the guest opens checkout — see [Discount coupons](/help/coupons) |
+| `utm_source` | a label, e.g. `partner-site` | Counts the visits and registrations from this embed under that label — see [Tracking links](/help/tracking-links) |
 
 `locale` sets the language the card opens in, not the only one it can show: every card carries a language picker in its footer, so a visitor can switch to their own language. Leave `locale` out and the card opens in the visitor's browser language.
 
@@ -74,6 +76,20 @@ The button comes with a default style. To use your **own** styling, remove the `
 >Register</a>
 <script src="https://cloomba.com/embed/button.js" async></script>
 ```
+
+The coupon and the label are `data-cloomba-coupon` and `data-cloomba-utm-source`:
+
+```html
+<a
+  class="cloomba-checkout--button"
+  data-cloomba-event="your-event"
+  data-cloomba-coupon="EARLYBIRD"
+  data-cloomba-utm-source="partner-site"
+>Register</a>
+<script src="https://cloomba.com/embed/button.js" async></script>
+```
+
+Links from the card to your event page on Cloomba carry the coupon and the label with them.
 
 ---
 

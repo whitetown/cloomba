@@ -29,7 +29,7 @@ Meetup invented the model of recurring local groups around shared interests. Two
 
 **You want pages without ads.** Cloomba shows no ads, and it is free for free events, on the web and in the iOS and Android apps.
 
-**You want richer event pages.** Cloomba ships with a [media wall](/help/media-wall), [comments and reactions](/help/comments-and-reactions), [organizer updates](/help/event-updates), [waitlists](/help/waitlist), and [guest approval](/help/guest-approval).
+**You want richer event pages.** Cloomba ships with [shared event photos](/help/media-wall), [comments and reactions](/help/comments-and-reactions), [organizer updates](/help/event-updates), [waitlists](/help/waitlist), and [guest approval](/help/guest-approval).
 
 **You want a CSV export of your attendees.** Cloomba's [export](/help/guest-list-export) is one click.
 

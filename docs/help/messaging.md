@@ -12,8 +12,8 @@ Cloomba has built-in 1:1 messaging — chat with organizers, co-hosts, or anyone
 
 ### Where to find it
 
-- **Web**: the **Messages** icon in the top navigation.
-- **iOS and Android**: the **Messages** tab at the bottom of the app.
+- **Web**: the chats icon in the top bar.
+- **iOS and Android**: the **Chat** tab at the bottom of the app.
 
 To start a new conversation, open someone's profile and tap **Connect**. See [Connecting with people](/help/connecting-with-people) for all the ways to reach someone.
 

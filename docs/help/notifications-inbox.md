@@ -8,7 +8,7 @@ status: published
 generated: from whitetown/cloomba-content — do not edit here, open an issue instead
 ---
 
-The bell icon in the navigation bar is your notifications inbox. A red badge on the bell tells you how many unread notifications you have across everything — RSVPs, event updates, invitations, calendar follows, media-wall activity.
+The bell icon in the navigation bar is your notifications inbox. A red badge on the bell tells you how many unread notifications you have across everything — RSVPs, event updates, invitations, calendar follows, photo activity.
 
 ---
 
@@ -26,7 +26,7 @@ Each notification:
 
 ### Marking things read
 
-Opening the inbox marks visible notifications as read. The badge count updates instantly.
+A notification is marked read when you open it. **Mark all read** clears the rest. The badge count updates instantly.
 
 ---
 

@@ -18,7 +18,7 @@ For **public** events this is the primary way to spread the word.
 
 ### Personal invitations
 
-For **unlisted** and **private** events — and any time you want to invite someone directly — open your event's **Invitations** tab and choose **Invite by email**.
+For **unlisted** and **private** events — and any time you want to invite someone directly — open **Manage › Invitations** (or choose **Invite** on the event page) and choose **Invite by email**.
 
 Add everyone you want to invite to one list. You can build that list four ways, and mix them freely:
 
@@ -46,7 +46,7 @@ Invitation emails count towards your [email sending limits](/help/email-sending-
 
 ### Open invite links
 
-Sometimes you want to invite people without knowing who they are. **Create short link** on the Invitations tab mints an **open link** — a reusable invitation anyone can open and RSVP from.
+Sometimes you want to invite people without knowing who they are. **Create invite link** in **Manage › Invitations** mints an **open link** — a reusable invitation anyone can open and RSVP from.
 
 Give each link a name — "Facebook", "Newsletter", "Front desk" — and you can see which channel your guests actually came through. Create as many as you like.
 
@@ -54,17 +54,9 @@ Give each link a name — "Facebook", "Newsletter", "Front desk" — and you can
 
 ### Managing invitations
 
-The Invitations tab lists everything you have sent: who it went to, its status (pending, accepted, declined, expired, revoked), and when it expires.
+**Manage › Invitations** lists everything you have sent: who it went to, its status (pending, accepted, declined, expired, revoked), and when it expires.
 
 You can **revoke** any invitation at any time — the link stops working immediately — and set an expiry date when you create one.
-
----
-
-### Unlisted events — the PIN link
-
-Unlisted events also support an **access PIN**. Set one on the Edit tab and you get a shareable link that opens the event for anyone who has it, with no individual invitation involved.
-
-Use it when you want to share the event with a trusted group but do not want to track individual responses. Leave the PIN empty and the event can only be opened through personal invitations.
 
 ---
 

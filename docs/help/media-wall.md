@@ -1,6 +1,6 @@
 ---
-title: "The event media wall"
-meta_description: "How the Cloomba media wall works — a shared space for attendees to upload photos and videos from your event."
+title: "Event photos"
+meta_description: "How event photos work on Cloomba — a shared set of photos and videos on your event page that guests can add to before, during and after the event."
 section: "Media & content"
 section_position: 60
 position: 10
@@ -8,37 +8,41 @@ status: published
 generated: from whitetown/cloomba-content — do not edit here, open an issue instead
 ---
 
-The media wall is a shared photo and video feed on your event page. Attendees can upload content before, during, and after the event — building a collective memory of what happened.
+Every event page has a **Photos** section: a shared set of photos and videos that guests and staff add to before, during, and after the event — a collective memory of what happened. **See all** opens the full set.
 
 ---
 
 ### Who can upload
 
-By default, confirmed attendees can upload photos to the media wall. Organizers and admins can also upload. You can control this in your event settings:
+By default, confirmed guests can upload photos, and staff (organizers, admins and moderators) can always upload photos and videos. You control the rest in **Manage › Overview**, in the **Options** card:
 
-- **Allow attendee uploads** — on by default. Turn it off if you want only organizers to post.
-- **Allow attendee video uploads** — off by default. Turn it on to let attendees upload videos too.
+- **Let guests upload photos** — on by default. Turn it off if you want only staff to post.
+- **Let guests upload videos** — off by default. Turn it on to let guests upload videos too.
+
+In the app, the same switches are on the event's **Manage** screen.
+
+Anyone who may upload sees **Add photos** in the section's header — even before the first photo arrives. See [Uploading photos](/help/upload-photos) and [Uploading videos](/help/upload-videos).
 
 ---
 
-### Who can see the wall
+### Who can see the photos
 
-By default, the media wall is visible to confirmed attendees and staff only. You can open it to all visitors who can see the event page by enabling **Open media wall** in your event settings — useful for public events where you want to showcase content to people who did not attend.
+By default, the photos are visible to confirmed guests and staff only. Turn on **Make photos public** in the same **Options** card to show them to everyone who can see the event page — useful for public events where you want to showcase the event to people who did not attend. See [Making event photos public](/help/open-media-wall).
 
 ---
 
 ### Reactions and comments
 
-Attendees can react to media and leave comments on individual posts. You can disable reactions in your event settings if you prefer a quieter wall.
+Guests can react to a photo and comment on it. Turn on **Disable reactions** in the **Options** card if you prefer a quieter event.
 
 ---
 
 ### Removing content
 
-Organizers, admins, and moderators can delete any media post or comment from the wall. Use this to remove anything that violates your event's standards or Cloomba's [Acceptable Use Policy](/legal/acceptable-use).
+Uploaders can delete their own photos and videos at any time. Organizers, admins, and moderators can delete any photo, video or comment. Use this to remove anything that violates your event's standards or Cloomba's [Acceptable Use Policy](/legal/acceptable-use).
 
 ---
 
 ### Media consent
 
-When an attendee uploads content, Cloomba asks them to confirm that they have the right to share it and that any people visible in the content have consented to being photographed. See [Media consent and permissions](/help/media-consent) for more.
+Before a guest's first upload to an event, Cloomba asks them to confirm who will be able to see what they share. See [Media consent and permissions](/help/media-consent) for more.

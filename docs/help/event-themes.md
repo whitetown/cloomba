@@ -32,12 +32,12 @@ See [Event cover image](/help/event-cover-image) for what makes a good cover.
 
 ### Previewing the palette
 
-Open your event, go to **Edit**, and find the **Appearance** card. It shows the colors Cloomba pulled from your current cover. Swap the cover and the swatches update.
+Open your event, go to **Manage › Overview**, and find **Appearance**. It shows the colors Cloomba pulled from your current cover. Swap the cover and the swatches update.
 
 ---
 
 ### Turning it off
 
-If the cover colors are not what you want for a particular event, switch on **Use default app colors** in the Appearance card. The event is then shown in Cloomba's standard light and dark theme, and the cover palette is ignored — on the web and in the mobile apps.
+If the cover colors are not what you want for a particular event, switch on **Default colors** in **Appearance**. The event is then shown in Cloomba's standard light and dark theme, and the cover palette is ignored — on the web and in the mobile apps.
 
 Your palette is kept, so you can switch back at any time without re-uploading anything.

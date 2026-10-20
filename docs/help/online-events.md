@@ -14,7 +14,7 @@ Cloomba works for any online event — video calls, webinars, live streams, or r
 
 ### Setting up the meeting link
 
-In the event editor, paste your meeting link into the **Location or link** field and choose **Online**. This can be any URL — Zoom, Google Meet, Microsoft Teams, YouTube Live, Twitch, or anything else.
+In **Manage › Overview**, paste your meeting link into the **Location or link** field and choose **Online**. This can be any URL — Zoom, Google Meet, Microsoft Teams, YouTube Live, Twitch, or anything else.
 
 The link is kept private and shown only to people who have registered. It does not appear on the public event page.
 
@@ -24,7 +24,7 @@ The link is kept private and shown only to people who have registered. It does n
 
 For online events, attendees may be joining from different timezones. Cloomba displays your event time in each visitor's local timezone automatically, so there is no confusion about when to show up.
 
-When setting up the event, make sure the timezone shown in the editor matches where you are — Cloomba detects it from your browser but you can change it if needed.
+When setting up the event, make sure the timezone shown in **Manage › Overview** matches where you are — Cloomba detects it from your browser but you can change it if needed.
 
 ---
 

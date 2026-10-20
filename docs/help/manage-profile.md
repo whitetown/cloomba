@@ -10,7 +10,7 @@ generated: from whitetown/cloomba-content — do not edit here, open an issue in
 
 ## Editing your profile
 
-You can update your Cloomba profile at any time from your account settings.
+You can update your Cloomba profile at any time from your **Profile** page.
 
 ## What you can change
 
@@ -21,15 +21,14 @@ You can update your Cloomba profile at any time from your account settings.
 
 ## How to edit
 
-1. Open **Account** from the navigation
-2. Tap **Profile**
-3. Make your changes
-4. Tap **Save**
+1. Open the account menu and choose **Profile**
+2. Make your changes
+3. Tap **Save** — the username has its own **Save**
 
-## Changing your email address
+## Signing in with another email address
 
-Your email address is tied to your sign-in method. If you signed in with Google or Apple, the email is managed by that provider. To use a different email, sign out and sign back in with magic link using the new address — a new account will be created.
+If you signed in with Google or Apple, that email address is managed by the provider. To sign in with a different address, add it under **Sign-in methods** on your **Profile** page: select **Link** next to **Email**. An address you have not added signs you in to a new account.
 
-## Changing your sign-in method
+## Changing your sign-in methods
 
-Each sign-in method (Google, Apple, GitHub, magic link, Telegram) creates a separate account on Cloomba. You cannot merge accounts or switch providers on an existing account.
+Under **Sign-in methods** you can add Google, Apple, GitHub, an email address or Telegram to your account, and **Unlink** one you no longer use. You can't remove your only sign-in method. In the app, **Sign-in methods** is in your account.

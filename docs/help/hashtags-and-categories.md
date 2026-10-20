@@ -29,7 +29,7 @@ Rules for a hashtag:
 
 Every tag has its own page listing the events filed under it, and anyone can follow it to hear about new ones.
 
-A small subset of tags are **promoted categories** — curated by the Cloomba team and given a friendly title, an icon, and a color. Promoted categories also appear in the **Browse by Category** block on Discover and get a rich landing page. They are the categories Cloomba picks from.
+A small subset of tags are **promoted categories** — curated by the Cloomba team and given a friendly title, an icon, and a color. Promoted categories also appear in the **Browse by category** block on Discover and get a rich landing page. They are the categories Cloomba picks from.
 
 You can't promote your own tag — promotion is editorial. Pick tags that genuinely describe your event, and the right ones get promoted as the platform grows.
 

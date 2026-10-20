@@ -24,7 +24,7 @@ Use public visibility for open community events, meetups, conferences, or anythi
 
 Your event is not listed anywhere on Cloomba. It will not appear in search or discovery. But anyone who has the link can view it and RSVP.
 
-Use unlisted for events you want to share selectively — within a team, a mailing list, or a specific community — without making them fully public. You can also send personal invitations and generate a PIN link from the Invitations tab.
+Use unlisted for events you want to share selectively — within a team, a mailing list, or a specific community — without making them fully public. You can also send personal invitations from **Manage › Invitations**; the event link itself opens an unlisted event.
 
 ---
 

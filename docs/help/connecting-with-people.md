@@ -16,7 +16,7 @@ Cloomba has no search box for finding people. You connect with people you actual
 
 **From a profile.** Every profile at `cloomba.com/u/username` has a **Connect** button. Once you already have a conversation, the same button reads **Chat** and takes you straight to it.
 
-**By scanning their code.** When you're together in person, open your profile QR code — from your profile or **Messages** — and have the other person scan it with a phone camera. You're connected instantly, with no request to accept. One code can be scanned by several people, so it works for a whole table at once.
+**By scanning their code.** When you're together in person, open your profile QR code from your profile and have the other person scan it with a phone camera. You're connected instantly, with no request to accept. One code can be scanned by several people, so it works for a whole table at once.
 
 > You can display your own code on any device, including desktop web, but scanning someone else's needs a phone camera — there's no scanner built into the app.
 

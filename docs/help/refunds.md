@@ -14,7 +14,7 @@ You refund a paid ticket from your event's guest list. The money goes back to th
 
 ### How to issue a refund
 
-1. Open your event and go to the **Guests** tab.
+1. Open your event and go to **Manage › Guests**.
 2. Find the guest and choose **Refund**.
 3. Confirm. The dialog shows the amount and the guest's name.
 

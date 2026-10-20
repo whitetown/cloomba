@@ -10,7 +10,7 @@ generated: from whitetown/cloomba-content — do not edit here, open an issue in
 
 You can embed any of your Cloomba calendars on your own website. Visitors see your upcoming events in a clean, self-updating widget — no account needed to browse.
 
-Grab the ready-made snippet from your calendar's **Manage → Embed** section, or build it yourself from the examples below.
+Grab the ready-made snippet from your calendar's **Settings** tab, in the Embed section, or build it yourself from the examples below.
 
 ---
 
@@ -46,6 +46,7 @@ Add options to the `src` URL as query parameters — for example `…/embed/c/yo
 | `theme` | `light`, `dark` | Force light or dark (default: follows the visitor) |
 | `accent` | `%23rrggbb` | Override the accent color (write `#` as `%23`) |
 | `bg` | `transparent`, `%23rrggbb` | Card background — `transparent` blends into your page |
+| `utm_source` | a label, e.g. `partner-site` | Counts the visits and registrations from this calendar under that label, on the events visitors open from it too — see [Tracking links](/help/tracking-links) |
 
 A dark Slovak calendar opening on the week view:
 

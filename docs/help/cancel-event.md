@@ -16,11 +16,11 @@ If circumstances have changed but the event might still happen, consider updatin
 
 ### How to cancel
 
-1. Open your event and choose **Manage**, then the **Advanced** tab.
+1. Open your event and choose **Manage › Advanced**.
 2. In the **Danger zone**, select **Cancel event**.
 3. Confirm in the dialog.
 
-In the app, open the event, go to the **More** tab and tap **Cancel event**.
+In the app, open the event, tap **Manage**, then **Cancel event**.
 
 You can cancel an event until it starts; a recurring series, while it still has sessions ahead.
 

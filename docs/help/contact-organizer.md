@@ -22,7 +22,7 @@ Your first message arrives as a request the organizer accepts. See [Direct messa
 
 ## In the event chat
 
-If you're registered, the event's **Chat** tab reaches the organizer, the co-hosts, and everyone going — a good place for questions other guests may have too. See [The event chat](/help/event-chat).
+If you're registered, the event's **Chat** reaches the organizer, the co-hosts, and everyone going — a good place for questions other guests may have too. See [The event chat](/help/event-chat).
 
 ## On the organizer's profile
 

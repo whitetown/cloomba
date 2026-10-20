@@ -15,13 +15,13 @@ Cloomba is built for real communities. If you encounter content or behavior that
 ## What you can report
 
 - **Inappropriate event content** — offensive descriptions, misleading information, or content that violates our policies
-- **Harmful media** — photos or videos on the event media wall that are abusive, explicit, or non-consensual
+- **Harmful media** — photos or videos on an event that are abusive, explicit, or non-consensual
 - **User behavior** — harassment, impersonation, or spam from another user
 - **Fake or scam events** — events designed to deceive attendees
 
 ## How to report
 
-Reports are handled via email. Send a message to [contact us](/info/contact) with:
+Use the **Report** actions: **Report this event** on an event, **Report this photo** on a photo, **Report this message** on a chat message, and **Report sender** on an invitation. You can also [contact us](/info/contact) with:
 
 - A link to the content or event in question
 - A brief description of the issue

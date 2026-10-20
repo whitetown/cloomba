@@ -1,6 +1,6 @@
 ---
-title: "Opening the media wall to non-attendees"
-meta_description: "How to make a Cloomba event's media wall visible to anyone who can see the event, and the consent rules attendees see before uploading."
+title: "Making event photos public"
+meta_description: "How to make a Cloomba event's photos visible to anyone who can see the event, and the consent guests give before uploading."
 section: null
 section_position: 0
 position: 45
@@ -8,51 +8,51 @@ status: published
 generated: from whitetown/cloomba-content — do not edit here, open an issue instead
 ---
 
-By default, the event media wall is visible to confirmed attendees only. You can flip a single setting to make it visible to everyone who can already see the event — useful when you want photos from a public event to spread, or when an unlisted album should be visible to friends who didn't make it.
+By default, an event's photos are visible to confirmed guests and staff only. You can flip a single setting to show them to everyone who can already see the event — useful when you want photos from a public event to spread, or when an unlisted album should be visible to friends who didn't make it.
 
 ---
 
-### The "Open media wall" toggle
+### The "Make photos public" setting
 
-In your event settings, turn on **Open media wall**. From that moment, anyone who can see the event page can see what's on the wall — automatically bounded by the event's visibility:
+In **Manage › Overview**, in the **Options** card, turn on **Make photos public** (in the app, the same switch is on the event's **Manage** screen). From that moment, anyone who can see the event page can see its photos — automatically bounded by the event's visibility:
 
-| Event visibility | Open wall makes the wall visible to |
+| Event visibility | Public photos are visible to |
 |---|---|
-| Public | Anyone on Cloomba (and unauthenticated visitors) |
+| Public | Anyone on Cloomba (and signed-out visitors) |
 | Unlisted | Anyone with the event link |
-| Private | Only invited people (no change vs default) |
+| Private | Only invited people |
 
-Comments on individual posts stay attendee-only regardless of the wall setting.
-
----
-
-### Consent always asked
-
-When an attendee uploads to the wall, Cloomba asks them to confirm consent — every time, on every event. The consent wording **describes the actual audience** the photos will reach, including a warning that the organizer can later widen that audience:
-
-- **Attendees-only wall:** "Only the organizer and attendees can see what you upload now — but the organizer can later open this album to everyone who can see the event. They may also share or reuse it."
-- **Open wall:** "Everyone who can open this event can see what you upload. The organizer may also share or reuse it."
-
-The consent is recorded per user per event. If you change the wall setting later, attendees get the new wording at their next upload.
+Comments on individual photos stay visible to guests and staff only, whatever this setting says.
 
 ---
 
-### Flipping back to attendees-only
+### Consent before uploading
 
-You can switch the wall from open back to attendees-only at any time. The wall hides again immediately; nothing is deleted.
+Before a guest's first upload to an event, Cloomba asks them to confirm consent. The wording **describes the actual audience** the photos will reach:
+
+- **Photos for guests only:** only the organizer and other guests can see what they upload — and the organizer may later make the photos public, or share and reuse them.
+- **Public photos:** anyone who can see the event can view what they upload, and the organizer may share or reuse it.
+
+The consent is recorded per person per event. If you change the setting later, guests are asked again, with the new wording, before their next upload.
 
 ---
 
-### Uploaders can always delete their own posts
+### Switching back to guests only
 
-Whatever the wall visibility, attendees can delete photos and videos they uploaded — the GDPR-style escape hatch. Organizers, admins, and moderators can also delete any post.
+You can turn **Make photos public** off at any time. The photos are hidden from non-guests immediately; nothing is deleted.
 
 ---
 
-### When to open the wall
+### Uploaders can always delete their own photos
+
+Whatever the setting, guests can delete the photos and videos they uploaded. Organizers, admins, and moderators can also delete any photo or video.
+
+---
+
+### When to make photos public
 
 - Post-event nudge for a public event: "Album's open — thanks everyone for sharing your photos."
 - Birthday-style unlisted events where the album is for friends who couldn't be there
-- Conferences where the speaker/sponsor wants the wall as a showcase
+- Conferences where speakers and sponsors want the photos as a showcase
 
-When NOT to open it: private gatherings where attendees would reasonably expect photos to stay among the people who were there.
+When NOT to make them public: private gatherings where guests would reasonably expect photos to stay among the people who were there.

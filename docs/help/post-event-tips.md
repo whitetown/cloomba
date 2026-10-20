@@ -18,7 +18,7 @@ Post an event update thanking attendees for coming. It takes two minutes and lea
 
 ## Share photos and videos
 
-Upload photos from the event to the media wall. Attendees love seeing themselves and reliving the moment. It also gives you social content to share and shows potential attendees what future events look like.
+Upload photos from the event to the event's **Photos**. Attendees love seeing themselves and reliving the moment. It also gives you social content to share and shows potential attendees what future events look like.
 
 ## Ask for feedback
 

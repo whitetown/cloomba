@@ -8,33 +8,33 @@ status: published
 generated: from whitetown/cloomba-content — do not edit here, open an issue instead
 ---
 
-For conferences, workshops, and longer events, Cloomba supports a structured **Agenda** with timed sessions, and a **Speakers** panel with bios linked to specific sessions.
+For conferences, workshops, and longer events, Cloomba supports a structured **Program** with timed sessions, and **Speakers** with bios linked to specific sessions.
 
 ---
 
-### The Agenda tab
+### The Program
 
-In the event editor, open the **Agenda** panel. Add sessions one by one:
+Open **Manage › Program** and choose **Add session**. Add sessions one by one:
 
 - **Title** — the talk or activity
 - **Starts at / ends at** — exact times in the event's timezone
 - **Description** — optional details
-- **Speaker** — optional, linked from the Speakers panel
+- **Speaker** — optional, linked from your speakers
 
-Sessions are automatically grouped by day and shown on the public event's **Agenda** tab, in chronological order.
+Sessions are automatically grouped by day and shown in the **Program** section of the event page, in chronological order. An "All N" link next to the section opens the full list.
 
 ---
 
-### The Speakers panel
+### Speakers
 
-Add speakers (one row per person) with:
+Open **Manage › Speakers**. Add speakers (one row per person) with:
 
 - **Name and photo**
 - **Bio**
 - **Optional links** — website, social handles
 - **Linked sessions** — pick which sessions this person is speaking at
 
-Speakers appear in their own tab on the event page, with chips linking to the sessions they're presenting.
+Speakers appear in the **Speakers** section of the event page, with chips linking to the sessions they're presenting.
 
 ---
 
@@ -44,6 +44,6 @@ The event organizer and admins can add, edit, and remove sessions and speakers. 
 
 ---
 
-### When NOT to use the Agenda
+### When NOT to use the Program
 
-For a single-talk meetup or a casual gathering, the event description and timing fields are enough — the Agenda is overkill. Reach for it once you have **two or more sessions** worth listing separately.
+For a single-talk meetup or a casual gathering, the event description and timing fields are enough — the Program is overkill. Reach for it once you have **two or more sessions** worth listing separately.
