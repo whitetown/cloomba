@@ -31,7 +31,7 @@ The recipient sees a notification and gets an email with a review link. They hav
 - You stay attached as an **admin** — you keep edit access but ownership has moved.
 - All RSVPs, tickets, media, and comments stay where they are. Nothing is lost or duplicated.
 - The event slug and URL don't change.
-- An event on your personal calendar moves to the new owner's personal calendar. An event on a team calendar stays on it.
+- An event on your personal calendar moves to the new owner's personal calendar. An event in a community stays in it.
 
 ### What happens when declined or cancelled
 

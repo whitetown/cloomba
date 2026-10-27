@@ -62,14 +62,14 @@ The same pages are published on [cloomba.com](https://cloomba.com).
 - [Issuing refunds to guests](help/refunds.md)
 - [Taxes and VAT for EU organizers](help/taxes-vat.md)
 
-### Calendars
-- [What are calendars on Cloomba?](help/about-calendars.md)
-- [Creating a calendar](help/create-calendar.md)
-- [Calendar newsletters](help/calendar-newsletters.md)
-- [Calendar admins and ownership](help/calendar-admins.md)
-- [Moving an event to another calendar](help/move-event-to-calendar.md)
-- [Submitting an event to a calendar](help/submit-event-to-calendar.md)
-- [Following a calendar](help/calendar-subscriptions.md)
+### Communities
+- [What are communities on Cloomba?](help/about-communities.md)
+- [Creating a community](help/create-community.md)
+- [Community newsletters](help/community-newsletters.md)
+- [Community admins and ownership](help/community-admins.md)
+- [Moving an event to another community](help/move-event-to-community.md)
+- [Submitting an event to a community](help/submit-event-to-community.md)
+- [Following a community](help/follow-community.md)
 
 ### Media & content
 - [Event photos](help/media-wall.md)
@@ -79,7 +79,7 @@ The same pages are published on [cloomba.com](https://cloomba.com).
 - [Comments and reactions on media](help/comments-and-reactions.md)
 
 ### Embedding
-- [Embed your calendar on your website](help/embed-calendar.md)
+- [Embed your community calendar on your website](help/embed-calendar.md)
 - [Embed an event on your website](help/embed-event.md)
 
 ### Messaging & chat
@@ -125,7 +125,7 @@ The same pages are published on [cloomba.com](https://cloomba.com).
 - [Tips for a Standout Event Page](help/great-event-page.md)
 - [Organizer Checklist Before the Event](help/event-checklist.md)
 - [After the Event: Follow-Up Tips](help/post-event-tips.md)
-- [Building a Community with Calendars](help/community-building.md)
+- [Building a community](help/community-building.md)
 - [Tracking links](help/tracking-links.md)
 
 ## Info

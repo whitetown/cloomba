@@ -1,6 +1,6 @@
 ---
 title: "Features"
-meta_description: "Everything Cloomba does for an event organizer — registration, tickets, check-in, calendars, chat, photo wall, agenda, apps, and your data — in one list."
+meta_description: "Everything Cloomba does for an event organizer — registration, tickets, check-in, communities, chat, photo wall, agenda, apps, and your data — in one list."
 section: "Product"
 section_position: 0
 position: 25
@@ -32,7 +32,7 @@ Everything Cloomba does, in one list. Every item here is live. Free events are f
 
 - **Ticket types** — Several [tiers](/help/ticket-types) per event, each with its own price, quantity and sale window.
 - **Coupons** — Percentage or fixed-amount [discounts](/help/coupons), with a use limit.
-- **Paid on Stripe** — Guests pay by card, Apple Pay or Google Pay. The money goes to [the calendar's Stripe account](/help/payouts), not through ours.
+- **Paid on Stripe** — Guests pay by card, Apple Pay or Google Pay. The money goes to [your Stripe account](/help/payouts), not through ours.
 - **Off-platform payment** — Bank transfer, PayPal or cash — you [mark tickets as paid](/help/off-platform-payment) yourself.
 - **Refunds** — [Refund](/help/refunds) from the guest list. Our fee is refunded with it.
 - **Wallet passes** — Tickets go into Apple Wallet and Google Wallet, with the QR code ready at the door.
@@ -66,14 +66,14 @@ Everything Cloomba does, in one list. Every item here is live. Free events are f
 - **Consent** — Uploaders [confirm consent](/help/media-consent); you decide whether the photos are [public](/help/open-media-wall) or for guests only.
 - **Moderation** — Delete anything, [remove a guest](/help/blocking-guests), [report abuse](/help/reporting-abuse).
 
-## Calendars and recurring events
+## Communities and recurring events
 
-- **A calendar for your group** — All your events on one page people [follow](/help/calendar-subscriptions). See [calendars](/help/about-calendars).
+- **A community for your group** — All your events on one page people [follow](/help/follow-community). See [communities](/help/about-communities).
 - **Recurring events** — Weekly, monthly or custom [series](/help/recurring-events); each occurrence has its own guest list.
-- **Submissions** — Other organizers [submit events](/help/submit-event-to-calendar) to your calendar; you approve.
-- **Members** — Add owners and admins to a calendar; owners run it together, admins help.
-- **Newsletter** — Email everyone the calendar has reached — followers, past guests, and contacts you add. Every email carries an unsubscribe link. See [writing to your followers](/help/about-calendars).
-- **Calendar feeds** — An .ics feed for the calendar and for every event — [subscribe](/help/add-to-calendar) from Google Calendar, Apple Calendar or Outlook.
+- **Submissions** — Other organizers [submit events](/help/submit-event-to-community) to your community; you approve.
+- **Members** — Add owners and admins to a community; owners run it together, admins help.
+- **Newsletter** — Email everyone the community has reached — followers, past guests, and contacts you add. Every email carries an unsubscribe link. See [writing to your followers](/help/about-communities).
+- **Calendar feeds** — An .ics feed for each community and for every event — [subscribe](/help/add-to-calendar) from Google Calendar, Apple Calendar or Outlook.
 - **Clone an event** — [Copy](/help/clone-event) last month's event and change the date.
 
 ## Agenda and speakers
@@ -87,9 +87,9 @@ Everything Cloomba does, in one list. Every item here is live. Free events are f
 
 - **iOS and Android apps** — The whole product on the phone, for guests and organizers, with push notifications. See [mobile apps](/info/mobile-apps).
 - **Telegram bot** — @cloomba_bot: sign in, register and get reminders without leaving Telegram.
-- **Embed** — Put an [event](/help/embed-event) or a [calendar](/help/embed-calendar) on your own site with one snippet.
+- **Embed** — Put an [event](/help/embed-event) or a [community calendar](/help/embed-calendar) on your own site with one snippet.
 - **Short links and QR codes** — Every event gets a short link and a QR code for posters and slides.
-- **API** — A public API for your events and calendars.
+- **API** — A public API for your events and communities.
 
 ## Your data
 

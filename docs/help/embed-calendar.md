@@ -1,6 +1,6 @@
 ---
-title: "Embed your calendar on your website"
-meta_description: "Drop your Cloomba calendar onto your own site with a single snippet — it auto-resizes and stays in sync with your events."
+title: "Embed your community calendar on your website"
+meta_description: "Drop your Cloomba community's calendar onto your own site with a single snippet — it auto-resizes and stays in sync with your events."
 section: "Embedding"
 section_position: 65
 position: 10
@@ -8,20 +8,20 @@ status: published
 generated: from whitetown/cloomba-content — do not edit here, open an issue instead
 ---
 
-You can embed any of your Cloomba calendars on your own website. Visitors see your upcoming events in a clean, self-updating widget — no account needed to browse.
+You can embed the calendar of any of your Cloomba communities on your own website. Visitors see your upcoming events in a clean, self-updating widget — no account needed to browse.
 
-Grab the ready-made snippet from your calendar's **Settings** tab, in the Embed section, or build it yourself from the examples below.
+Grab the ready-made snippet from your community's **Settings** tab, in the Embed section, or build it yourself from the examples below.
 
 ---
 
 ### The snippet
 
-Paste this where you want the calendar to appear. Replace `your-calendar` with your calendar's address (the part after `/c/` in its URL).
+Paste this where you want the calendar to appear. Replace `your-community` with your community's address (the part after `/c/` in its URL).
 
 ```html
 <iframe
   class="cloomba-embed"
-  src="https://cloomba.com/embed/c/your-calendar"
+  src="https://cloomba.com/embed/c/your-community"
   style="width: 100%; height: 800px; border: none"
   loading="lazy"
   allow="payment"
@@ -36,7 +36,7 @@ The `embed.js` script makes the calendar **resize itself** to fit its content, s
 
 ### Customizing the calendar
 
-Add options to the `src` URL as query parameters — for example `…/embed/c/your-calendar?view=week&theme=dark`.
+Add options to the `src` URL as query parameters — for example `…/embed/c/your-community?view=week&theme=dark`.
 
 | Parameter | Values | What it does |
 | --- | --- | --- |
@@ -53,7 +53,7 @@ A dark Slovak calendar opening on the week view:
 ```html
 <iframe
   class="cloomba-embed"
-  src="https://cloomba.com/embed/c/your-calendar?locale=sk&view=week&theme=dark"
+  src="https://cloomba.com/embed/c/your-community?locale=sk&view=week&theme=dark"
   style="width: 100%; height: 800px; border: none"
   loading="lazy"
   allow="payment"

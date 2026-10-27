@@ -28,7 +28,7 @@ Use this checklist to make sure everything is in order before your event goes li
 ## 1–2 weeks before
 
 - [ ] Share the event link in relevant communities and channels
-- [ ] Post to your Cloomba calendar if you have one
+- [ ] Post to your Cloomba community if you have one
 - [ ] Announce to your mailing list or social following
 
 ## Day before

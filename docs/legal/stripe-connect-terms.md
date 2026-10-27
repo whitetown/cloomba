@@ -16,7 +16,7 @@ This page summarises what that means in practice. The authoritative documents ar
 
 ### Who's who
 
-- **You (the holder of the payment account)** — the seller of the ticket. The merchant of record. Every payment account belongs to a calendar, and each event is paid into one of its calendar's accounts.
+- **You (the holder of the payment account)** — the seller of the ticket. The merchant of record. Every payment account belongs to a community or to a personal calendar, and each event is paid into one of the accounts of the community or personal calendar it belongs to.
 - **Stripe** — the payment processor. Holds funds, runs card networks, transfers payouts to your bank account.
 - **Cloomba (WhiteTown s.r.o.)** — the platform you use to run the event and the storefront for the ticket. Charges a 5% platform fee. NOT the merchant of record.
 
@@ -56,7 +56,7 @@ If you later refund the ticket, Cloomba **refunds this fee too** — a full refu
 
 ### Choosing an account
 
-Each event is paid into the payment account chosen for it, and it can be switched to another of its calendar's accounts at any time. A calendar's default account can change while no membership subscriptions run on it. Payments already made stay on the account that took them, and so do their refunds and payouts. See [Payment accounts](/help/payment-accounts).
+Each event is paid into the payment account chosen for it, and it can be switched to another account of the same community or personal calendar at any time. A community's default account can change while no membership subscriptions run on it. Payments already made stay on the account that took them, and so do their refunds and payouts. See [Payment accounts](/help/payment-accounts).
 
 ---
 

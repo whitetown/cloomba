@@ -41,6 +41,6 @@ If you write `#tag` in a comment, Cloomba highlights it and adds the tag to the 
 
 ---
 
-### Categories vs calendars
+### Categories vs communities
 
-Categories filter events by topic, across all organizers. **Calendars** are curated channels run by a specific organizer. They complement each other — see [What are calendars on Cloomba?](/help/about-calendars).
+Categories filter events by topic, across all organizers. **Communities** are curated channels run by a specific organizer. They complement each other — see [What are communities on Cloomba?](/help/about-communities).

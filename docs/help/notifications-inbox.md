@@ -8,7 +8,7 @@ status: published
 generated: from whitetown/cloomba-content — do not edit here, open an issue instead
 ---
 
-The bell icon in the navigation bar is your notifications inbox. A red badge on the bell tells you how many unread notifications you have across everything — RSVPs, event updates, invitations, calendar follows, photo activity.
+The bell icon in the navigation bar is your notifications inbox. A red badge on the bell tells you how many unread notifications you have across everything — RSVPs, event updates, invitations, community follows, photo activity.
 
 ---
 
@@ -18,7 +18,7 @@ Tap the bell to see the list. The most recent notifications are at the top.
 
 Each notification:
 
-- Shows what happened and which event or calendar it's about
+- Shows what happened and which event or community it's about
 - Has an icon hinting at the kind (calendar, person, photo, etc.)
 - Is a deep link — tap it to land on the right page
 
@@ -50,4 +50,4 @@ Some kinds of notification — RSVP confirmations, event updates, invitations �
 
 ### Choosing where notifications reach you
 
-The inbox lists every notification. To choose which kinds also reach you by email, push, or Telegram, open **Preferences** in your account on the web, or **Settings → Notifications** in the app. Each kind — event reminders, organizer announcements, registrations, comments and mentions, invitations, chat requests, calendar newsletters, and the daily digest — has its own switch for each channel. Account and payment alerts always arrive.
+The inbox lists every notification. To choose which kinds also reach you by email, push, or Telegram, open **Preferences** in your account on the web, or **Settings → Notifications** in the app. Each kind — event reminders, organizer announcements, registrations, comments and mentions, invitations, chat requests, community newsletters, and the daily digest — has its own switch for each channel. Account and payment alerts always arrive.

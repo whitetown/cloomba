@@ -46,6 +46,6 @@ If you cancel a paid event, you are required to refund all attendees in full. Th
 
 ### Your refund policy
 
-Tell guests your rules in your own words — when you refund, and how to ask. Open your calendar's **Manage** page, go to the **Payments** tab, and write them under **Refund policy**. The text supports [markdown](/help/markdown).
+Tell guests your rules in your own words — when you refund, and how to ask. Open the **Manage** page of your community or personal calendar, go to the **Payments** tab, and write them under **Refund policy**. The text supports [markdown](/help/markdown).
 
-It is shown below the description of every paid event whose home is that calendar. Free events don't show it.
+It is shown below the description of each of its paid events. Free events don't show it.

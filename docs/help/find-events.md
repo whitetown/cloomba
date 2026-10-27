@@ -1,6 +1,6 @@
 ---
 title: "How to Discover Events Near You"
-meta_description: "How to find events on Cloomba — browse by location, category, or calendar, search by keyword, and follow communities."
+meta_description: "How to find events on Cloomba — browse by location, category, or community, search by keyword, and follow communities."
 section: "For attendees"
 section_position: 90
 position: 37
@@ -18,15 +18,15 @@ Open **Discover** from the navigation. You'll see a curated feed of public event
 
 - **Location** — events near a city or place
 - **Category** — filter by topic (music, tech, sport, food, etc.)
-- **Calendars** — collections of events from communities or organizers you follow
+- **Communities** — collections of events from organizers you follow
 
 ## Searching for events
 
 Use the search bar at the top of Discover to find events by name, organizer, or keyword.
 
-## Following calendars
+## Following communities
 
-Calendars are curated collections of events run by organizers or communities. Follow a calendar to see its events in your feed regularly. Open any calendar page and tap **Follow**.
+Communities are curated collections of events run by organizers. Follow a community to see its events in your feed regularly. Open any community page and tap **Follow**.
 
 ## Private and unlisted events
 

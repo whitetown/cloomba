@@ -71,7 +71,7 @@ Check-in is **per session**. Open a session and you get its own roster — mark 
 
 A recurring event is right when the sessions are **the same event, meeting repeatedly** — same format, same audience, one shared guest list.
 
-If each edition is really its own event, with its own guest list, its own cover and its own turnout to measure, keep them separate and [clone](/help/clone-event) the previous one to make the next. Group them with a [calendar](/help/about-calendars) so followers get notified each time you add one.
+If each edition is really its own event, with its own guest list, its own cover and its own turnout to measure, keep them separate and [clone](/help/clone-event) the previous one to make the next. Group them with a [community](/help/about-communities) so followers get notified each time you add one.
 
 ---
 

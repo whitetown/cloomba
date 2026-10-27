@@ -78,11 +78,11 @@ Yes, any time — one click gives you a CSV with names, answers to your question
 
 ### Is there an API?
 
-Yes. The public API covers events, guests and check-in, authenticated with a key a calendar's owners make on its **Settings** tab; the key reaches that calendar's events. Reads are free; writes need the calendar on a Pro plan. Full reference and examples are at [cloomba.com/developers](/developers).
+Yes. The public API covers events, guests and check-in, authenticated with a key made on the **Settings** tab of a community or of your personal calendar; the key reaches its events. Reads are free; writes need it on a Pro plan. Full reference and examples are at [cloomba.com/developers](/developers).
 
-### Can I put my event or calendar on my own website?
+### Can I put my event or my community's calendar on my own website?
 
-Yes — both embed as an iframe you paste into your site, and they stay in sync on their own. See [Embed an event](/help/embed-event) and [Embed your calendar](/help/embed-calendar).
+Yes — both embed as an iframe you paste into your site, and they stay in sync on their own. See [Embed an event](/help/embed-event) and [Embed your community calendar](/help/embed-calendar).
 
 ### Where is my data stored?
 

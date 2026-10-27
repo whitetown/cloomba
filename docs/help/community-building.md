@@ -1,6 +1,6 @@
 ---
-title: "Building a Community with Calendars"
-meta_description: "How to use Cloomba calendars to turn one-off events into a recurring community — consistency, followers, and long-term growth."
+title: "Building a community"
+meta_description: "How to use Cloomba to turn one-off events into a recurring community — consistency, followers, and long-term growth."
 section: "Tips & tricks"
 section_position: 120
 position: 55
@@ -8,13 +8,13 @@ status: published
 generated: from whitetown/cloomba-content — do not edit here, open an issue instead
 ---
 
-## Building a community with calendars
+## Building a community
 
-Running events regularly is how communities form. Cloomba calendars give you the infrastructure to turn a one-off event into an ongoing following.
+Running events regularly is how communities form. A Cloomba community gives you the infrastructure to turn a one-off event into an ongoing following.
 
-## What a calendar does for you
+## What a community does for you
 
-A calendar is a persistent home for your events. Followers subscribe once and get notified every time you publish something new — you don't have to find them again for each event. And when there is something to say between events, write to them from the calendar's **Newsletters** tab. The people who actually attend land in your guest lists, which you can export at any time — what you build here is yours to keep.
+A community is a persistent home for your events. Followers subscribe once and get notified every time you publish something new — you don't have to find them again for each event. And when there is something to say between events, write to them from the community's **Newsletters** tab. The people who actually attend land in your guest lists, which you can export at any time — what you build here is yours to keep.
 
 Think of it as your own channel: people follow it because your last event was worth their evening, and you earn that trust event by event.
 
@@ -24,11 +24,11 @@ The strongest communities form around a predictable format: same day of the mont
 
 ## Make it easy to follow
 
-Link to your calendar in every event description, in your profile bio, and anywhere you promote your events. The more followers your calendar has, the less effort each new event requires to fill up.
+Link to your community in every event description, in your profile bio, and anywhere you promote your events. The more followers your community has, the less effort each new event requires to fill up.
 
-## Name your calendar clearly
+## Name your community clearly
 
-A good calendar name describes who it's for and what it covers. "Bratislava Tech Meetups" or "Vegan Supper Club — Bratislava" is more followable than "My Events".
+A good community name describes who it's for and what it covers. "Bratislava Tech Meetups" or "Vegan Supper Club — Bratislava" is more followable than "My Events".
 
 ## Engage between events
 

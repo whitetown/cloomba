@@ -20,8 +20,8 @@ Cloning copies an event into a new one: the fastest way to set up the next editi
 - Ticket types and prices, and how payment is collected
 - Registration questions
 - Reminder settings
-- Its calendar, when you run that calendar — otherwise the new event goes on your personal calendar
-- The payment account it is paid into, when the new event stays on the same calendar
+- Its community, when you run that community — otherwise the new event goes on your personal calendar
+- The payment account it is paid into, when the new event keeps the same home
 
 You choose whether to copy two more things:
 
@@ -64,4 +64,4 @@ For a recurring series, **Clone event** opens a new event with the series' detai
 
 The original event is untouched. The two events are independent — changes to one do not affect the other.
 
-A draft stays out of Cloomba's listings, and nobody is notified about it, until you publish it. Once a public event is published, people who follow you, its calendar, its city or its hashtags hear about it, as with any new event — about an hour after your last edit, so there is time to update the title and date first.
+A draft stays out of Cloomba's listings, and nobody is notified about it, until you publish it. Once a public event is published, people who follow you, its community, its city or its hashtags hear about it, as with any new event — about an hour after your last edit, so there is time to update the title and date first.

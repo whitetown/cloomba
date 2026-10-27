@@ -26,7 +26,7 @@ Add everyone you want to invite to one list. You can build that list four ways, 
 
 **Drop in a CSV.** Under **Import from CSV**, drop a file or click to choose one. Cloomba pulls out the email addresses and adds each one to your list once.
 
-**Add your calendar's people.** If the event's home calendar is yours — as its owner or an admin — it appears on the invite page under its own name. Pick **Everyone**, or narrow it to groups from the People tab: **Followers**, **Guests**, **Manual**, a membership tier, or a tag. Groups add up, and anyone in two of them is invited once. Only the home calendar is offered, never a calendar the event is just listed on.
+**Add your community's people.** If the event's home community is yours — as its owner or an admin — it appears on the invite page under its own name. Pick **Everyone**, or narrow it to groups from the People tab: **Followers**, **Guests**, **Manual**, a membership tier, or a tag. Groups add up, and anyone in two of them is invited once. Only the home community is offered, never a community the event is just listed on.
 
 **Pick from a past event.** Under **Past events**, find one of your previous events and choose who to bring across: **Guests**, **Checked in**, **Waitlist**, or **Invited** — people you invited who never registered. This is the fastest way to invite a returning audience.
 

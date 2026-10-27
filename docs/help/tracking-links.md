@@ -36,7 +36,7 @@ On an embedded event or calendar, the label goes on the embed:
 - **Inline card or calendar** — `utm_source=` in the `src` URL, e.g. `…/embed/e/your-event?utm_source=partner-site`
 - **Registration button** — the `data-cloomba-utm-source="partner-site"` attribute
 
-The snippets and the other options are in [Embed an event on your website](/help/embed-event) and [Embed your calendar on your website](/help/embed-calendar).
+The snippets and the other options are in [Embed an event on your website](/help/embed-event) and [Embed your community calendar on your website](/help/embed-calendar).
 
 ---
 
@@ -49,6 +49,6 @@ Open your event's **Manage → Reports**. Two cards show your labels:
 
 A registration counts under the label of the link the guest arrived through; if they opened several labelled links on the way, the last one counts. The period you pick at the top of Reports, from **Past 24 hours** to **Lifetime**, applies to both cards.
 
-A calendar's **Manage → Reports** shows the same two cards for all the events that have it as their home calendar. The calendar's owner and admins can open it.
+The **Manage → Reports** of a community or personal calendar shows the same two cards for all the events whose home it is. Its owners and admins can open it.
 
 Both cards are part of the [Pro plan](/info/pricing).

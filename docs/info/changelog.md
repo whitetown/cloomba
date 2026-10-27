@@ -14,6 +14,16 @@ A running log of significant updates and new features.
 
 ---
 
+### October 2026 — Calendars are now communities
+
+On the website:
+
+- **Communities** — what was called a calendar is now a community: the same page, followers, members, newsletters and payments, at the same address ([what are communities?](/help/about-communities))
+- **Personal** — your own events, private, first under **Your communities**
+- **Calendar** means your calendar app: **Add to Calendar** and the feeds you subscribe to
+
+---
+
 ### October 2026 — One event page, and Manage in one menu
 
 On the website:
@@ -35,12 +45,12 @@ On the website:
 ### October 2026 — Personal and team calendars, payments, and refunds
 
 **Calendars**
-- **Your personal calendar** — every account has one: a private home for your own events, with their guests on its People tab and its own payment accounts. Convert it to a team calendar when it should have a public page ([what calendars are](/help/about-calendars))
-- **Several owners** — a calendar can have more than one owner, all equal; make an admin an owner to hand a calendar over ([owners and admins](/help/calendar-admins))
+- **Your personal calendar** — every account has one: a private home for your own events, with their guests on its People tab and its own payment accounts. Convert it to a team calendar when it should have a public page ([what calendars are](/help/about-communities))
+- **Several owners** — a calendar can have more than one owner, all equal; make an admin an owner to hand a calendar over ([owners and admins](/help/community-admins))
 - **Payment accounts on the calendar** — each calendar connects its own Stripe accounts, and every event is paid into one of its calendar's accounts ([how it works](/help/payment-accounts))
 - **Email allowances per calendar** — invitations, updates and newsletters count towards the calendar they belong to ([sending limits](/help/email-sending-limits))
 - **API keys and webhooks on the calendar** — made by its owners on its Settings tab, reaching the calendar's events
-- **Change calendar** — move an event to another calendar from its Overview, and see what changes before you confirm ([how it works](/help/move-event-to-calendar))
+- **Change calendar** — move an event to another calendar from its Overview, and see what changes before you confirm ([how it works](/help/move-event-to-community))
 
 **Tickets & payments**
 - **Cancelling and refunding are separate** — a guest's cancel frees their place and never refunds; you refund from the guest list, also after a cancel, and the cancel-event dialog has a **Refund** box ([issuing refunds](/help/refunds))
@@ -56,7 +66,7 @@ On the website:
 
 **Calendars**
 - **Memberships** — offer free or paid tiers on your calendar, paid once or renewing monthly or yearly, with member-only events and tickets; approve each member yourself, or let people with an email on your domain join right away
-- **Newsletters to groups** — send a [calendar newsletter](/help/calendar-newsletters) to everyone or only to a membership tier or a tag, then follow up with the people you missed
+- **Newsletters to groups** — send a [calendar newsletter](/help/community-newsletters) to everyone or only to a membership tier or a tag, then follow up with the people you missed
 - **Tags on people** — tag the people on your calendar's People tab and filter the list by tag
 - **Events from elsewhere** — paste the link to an event hosted on another site, and it appears on your calendar with a button to the original
 - **Handing over a calendar** — an admin can leave a calendar, and the owner can hand it to one of its admins

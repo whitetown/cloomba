@@ -12,7 +12,7 @@ Cloomba sends two kinds of email, and only one of them is limited.
 
 **Automatic emails** — ticket confirmations, RSVP confirmations, reminders, cancellation notices — go out on their own when something happens. They are never limited and never count towards any allowance. Your guests always get their tickets.
 
-**Emails you choose to send** — [invitations](/help/invite-guests), [event updates](/help/event-updates), and calendar newsletters — go out because you pressed Send. Those are the ones with limits, and this page explains how they work.
+**Emails you choose to send** — [invitations](/help/invite-guests), [event updates](/help/event-updates), and community newsletters — go out because you pressed Send. Those are the ones with limits, and this page explains how they work.
 
 ---
 
@@ -26,7 +26,7 @@ The limits below protect that shared trust. If you email people who want to hear
 
 ### The monthly allowance
 
-Each calendar has a monthly allowance that depends on its plan; the **Quota** card on the calendar's **Newsletters** tab shows it. It is counted per recipient — an update sent to 40 guests uses 40. Invitations, event updates, and newsletters all count, towards the calendar the event or newsletter belongs to; automatic emails never do.
+Each community, and your personal calendar, has a monthly allowance that depends on its plan; the **Quota** card on its **Newsletters** tab shows it. It is counted per recipient — an update sent to 40 guests uses 40. Invitations, event updates, and newsletters all count, towards the community or personal calendar the event or newsletter belongs to; automatic emails never do.
 
 A single CSV import is capped at 5,000 rows.
 
@@ -34,11 +34,11 @@ A single CSV import is capped at 5,000 rows.
 
 ### Reaching people who don't know you yet
 
-Someone belongs to **your audience** if they have RSVP'd to any of your events or follow you on Cloomba. For a calendar's newsletters, and for invitations to any event whose home is that calendar, the calendar's followers and the guests of all those events count too. Emailing your audience only draws on the monthly allowance above — inviting the sixty people who came last time never touches any other limit. Event updates go only to registered guests, so they are always in this category.
+Someone belongs to **your audience** if they have RSVP'd to any of your events or follow you on Cloomba. For a community's newsletters, and for invitations to any event whose home is that community, the community's followers and the guests of all those events count too. Emailing your audience only draws on the monthly allowance above — inviting the sixty people who came last time never touches any other limit. Event updates go only to registered guests, so they are always in this category.
 
 Everyone else counts as **new to you**, and a second, smaller allowance applies to them. Having a Cloomba account is not the same as knowing you: an invitation to a stranger counts as new even if they already use Cloomba.
 
-**The new-people allowance belongs to the calendar and grows with its track record.** Each calendar starts with **100 emails to new people per 30 days**. Every event on it that actually happened — with a group of confirmed guests — adds another 50, up to **500 per 30 days**. A [verified](/help/calendar-newsletters) calendar has the full 500 from the day it is verified. Everyone who sends from the calendar shares it: its newsletters, and invitations to the events on it. Higher limits are available on request.
+**The new-people allowance belongs to the community or personal calendar and grows with its track record.** Each one starts with **100 emails to new people per 30 days**. Every event in it that actually happened — with a group of confirmed guests — adds another 50, up to **500 per 30 days**. A [verified](/help/community-newsletters) community has the full 500 from the day it is verified. Everyone who sends from the community shares it: its newsletters, and invitations to the events in it. Higher limits are available on request.
 
 ---
 
@@ -46,7 +46,7 @@ Everyone else counts as **new to you**, and a second, smaller allowance applies 
 
 The send is blocked **as a whole** — nothing goes out, and you see a message explaining which limit you hit. We never send half of your list and quietly drop the rest, so you always know exactly who has been emailed.
 
-If you hit a limit with a genuine audience waiting, use **Request a higher limit** and tell us about your events. It appears under **Send** when invitations stop at a limit, and in the **Quota** card on the calendar's **Newsletters** tab. The request is for the calendar, so its owner or an admin sends it. Raising a limit for a real organizer is free and quick — the limits exist to stop scraped address lists, not community builders.
+If you hit a limit with a genuine audience waiting, use **Request a higher limit** and tell us about your events. It appears under **Send** when invitations stop at a limit, and in the **Quota** card on the community's **Newsletters** tab. The request is for the community, so its owner or an admin sends it. Raising a limit for a real organizer is free and quick — the limits exist to stop scraped address lists, not community builders.
 
 ---
 

@@ -14,11 +14,11 @@ Click **Create event** from the navigation menu. You will be taken to the event 
 
 ---
 
-### Calendar
+### Community
 
-Every event belongs to a calendar. If you run a team calendar, pick the event's calendar above the title; new events start on your default calendar. Otherwise the event goes on your [personal calendar](/help/about-calendars). A paid event is paid into one of its calendar's [payment accounts](/help/payment-accounts).
+Every event belongs to a community or your personal calendar. If you run a community, pick the event's community above the title; new events start in your default community. Otherwise the event goes on your [personal calendar](/help/about-communities). A paid event is paid into one of the [payment accounts](/help/payment-accounts) of its community or personal calendar.
 
-You can move the event to another calendar later — see [Moving an event to another calendar](/help/move-event-to-calendar).
+You can move the event to another community later — see [Moving an event to another community](/help/move-event-to-community).
 
 ---
 

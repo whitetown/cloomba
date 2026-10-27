@@ -20,7 +20,7 @@ In **Manage › Overview**, click the cover image area and upload a photo from y
 
 ### Recommended size
 
-A **square image (1:1 ratio)** works best — Cloomba displays event covers as squares everywhere (event pages, calendars, Discover). A minimum width of **1200 px** keeps it sharp on all screens.
+A **square image (1:1 ratio)** works best — Cloomba displays event covers as squares everywhere (event pages, communities, Discover). A minimum width of **1200 px** keeps it sharp on all screens.
 
 ---
 

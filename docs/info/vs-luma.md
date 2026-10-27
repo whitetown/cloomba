@@ -14,7 +14,7 @@ Luma is the platform Cloomba is most often compared to — and the one we respec
 
 - Clean event pages with cover, description, RSVP, waitlist
 - Free events, free; paid events through Stripe Connect
-- Calendars / channels that group an organizer's events
+- Communities (Luma: calendars) that group an organizer's events
 - Mobile-friendly web; passwordless sign-in
 
 If your needs map cleanly to "a polished, modern event tool", you'd be happy on either.
@@ -41,7 +41,7 @@ If your needs map cleanly to "a polished, modern event tool", you'd be happy on 
 | Free events | Free, always | Free |
 | Paid events | 5% + standard payment processing | 5% + payment processing on the free plan |
 | Subscription | Not required | Luma Plus, billed per calendar |
-| Where ticket money goes | An account of the event's calendar, chosen per event — several per calendar | The Stripe account connected to the calendar |
+| Where ticket money goes | An account of the event's community or personal calendar, chosen per event — several in each | The Stripe account connected to the calendar |
 
 > The Cloomba 5% is deducted from the organizer's Stripe payout. See [Pricing & Fees](/info/pricing) and [Payment accounts](/help/payment-accounts).
 

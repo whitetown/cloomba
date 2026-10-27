@@ -1,6 +1,6 @@
 ---
 title: "How to Promote Your Event"
-meta_description: "Practical tips for getting more RSVPs on Cloomba — sharing links, posting in communities, using calendars, and timing your announcements."
+meta_description: "Practical tips for getting more RSVPs on Cloomba — sharing links, posting in communities, using your own community, and timing your announcements."
 section: "Tips & tricks"
 section_position: 120
 position: 51
@@ -20,13 +20,13 @@ The fastest way to fill an event is to share it with people who already know you
 
 Think about where your target audience spends time — Slack groups, Discord servers, Facebook groups, subreddits, LinkedIn groups, or local community boards. One well-placed post in the right community beats ten posts in random places.
 
-## Use your calendar
+## Use your community
 
-If you've created a [Cloomba calendar](/help/about-calendars), publish the event to it. Followers of your calendar get notified automatically — this is the most scalable way to build a recurring audience. Each event adds to it: the people you drew last time hear about the next one without another announcement.
+If you've created a [Cloomba community](/help/about-communities), publish the event to it. Followers of your community get notified automatically — this is the most scalable way to build a recurring audience. Each event adds to it: the people you drew last time hear about the next one without another announcement.
 
 ## Leverage your existing audience
 
-If you have a newsletter, social media following, or mailing list, announce the event there. Your calendar has one built in: its **Newsletters** tab reaches everyone who follows it or came before. Link directly to your Cloomba event page so RSVPs stay in one place.
+If you have a newsletter, social media following, or mailing list, announce the event there. Your community has one built in: its **Newsletters** tab reaches everyone who follows it or came before. Link directly to your Cloomba event page so RSVPs stay in one place.
 
 ## Post early and remind closer to the date
 

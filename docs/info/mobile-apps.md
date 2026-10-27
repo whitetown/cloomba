@@ -14,7 +14,7 @@ Cloomba is now live on the **App Store** and **Google Play**. The apps cover eve
 
 ### What's in the apps
 
-- **Discover** — browse events by location, category, and calendar.
+- **Discover** — browse events by location, category, and community.
 - **Your events** — create and manage events from your phone, including check-in at the door.
 - **Tickets** — your QR codes are always available, even without signal.
 - **Push notifications** — fast, native, with do-not-disturb support.

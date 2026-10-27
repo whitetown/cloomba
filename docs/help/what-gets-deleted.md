@@ -1,6 +1,6 @@
 ---
 title: "What happens when you delete your account"
-meta_description: "What's actually removed when you delete a Cloomba account — soft delete vs GDPR erasure, what to do beforehand, and what stays."
+meta_description: "What Cloomba removes when you delete your account, what comes back if you return within 30 days, and what stays."
 section: null
 section_position: 0
 position: 36
@@ -12,28 +12,38 @@ A companion to [Deleting your account](/help/delete-account) with the full break
 
 ---
 
-### Two deletion modes
+### When you delete
 
-**Soft delete** (the default when you choose **Delete account**): your account is deactivated, you're signed out, and a 30-day grace window starts. Sign back in within those 30 days and the account reactivates exactly as you left it. After 30 days, it's permanently erased.
+Your account is deactivated and you're signed out. At the same moment:
 
-**GDPR erasure**: immediate permanent anonymisation under your Article 17 right. Available on request via [contact us](/info/contact). Requires recent sign-in for security.
+- **Events you organize** — past, upcoming, drafts and cancelled ones — are hidden.
+- **Communities you're the only owner of**, and your personal calendar, are hidden.
+- **Payment accounts** you connected are hidden. Your Stripe account itself stays yours.
+- **Your registrations for upcoming events** are cancelled, and the seat goes to the next guest. Paid tickets are not refunded.
+- **Memberships you pay for** by subscription end with the current period.
+
+Sign back in within 30 days and everything hidden comes back as you left it. Cancelled registrations stay cancelled — register again if there's room.
 
 ---
 
-### What's removed in GDPR erasure
+### After 30 days
 
-- Email and phone number on your `users` row — cleared
-- Display name and bio — cleared
-- Push notification tokens — invalidated
-- Firebase Auth credentials — deleted
+Your account is permanently erased:
+
+- Name, email, phone, bio and profile photos — removed
+- Your contact details on registrations, registration answers and invitations — removed
+- Your sign-in — deleted
+- Your events and communities — deleted for good
+- Your roles on other people's communities, events and organizations — ended
+
+**GDPR erasure** does all of this at once, under your Article 17 right. Available on request via [contact us](/info/contact).
 
 ---
 
 ### What stays
 
-- **Events you organized** are NOT auto-cancelled. **Cancel them yourself before deleting** so registered guests are notified — and, on paid events, keep the **Refund** box ticked so they are refunded.
-- **RSVPs you made** to other people's events stay in those organizers' guest lists, with your user row now showing as a deleted account.
 - **Photos, videos, comments, and reactions** you posted stay in place. Request specific items via [contact us](/info/contact) if you need them removed.
+- **Registrations for past events** stay, without your contact details.
 - **Username** is retained, so it can't be silently re-registered by someone else.
 - **Payment records** are kept for the 10-year legal accounting period (see [Privacy Policy](/legal/privacy)).
 
@@ -41,7 +51,7 @@ A companion to [Deleting your account](/help/delete-account) with the full break
 
 ### A clean exit checklist
 
-1. Cancel any upcoming events you organized — with the **Refund** box ticked on paid events.
-2. Cancel your own RSVPs for upcoming events (optional but tidy).
+1. Cancel or transfer your upcoming events with guests — with the **Refund** box ticked on paid events.
+2. Hand over any organization you own, or ask us to delete it.
 3. Delete any individual photos / videos / comments you want gone.
 4. Delete the account with **Delete account** at the foot of your **Profile** on the web, or on the Account screen in the app.

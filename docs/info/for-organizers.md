@@ -24,7 +24,7 @@ For paid events, a flat **5% platform fee + standard payment processing** — bo
 
 ### Everything you actually need
 
-Registration with waitlists and approval, paid tickets, check-in at the door, calendars and recurring events, updates, chat, a photo wall, and your guest list as a CSV whenever you want it.
+Registration with waitlists and approval, paid tickets, check-in at the door, communities and recurring events, updates, chat, a photo wall, and your guest list as a CSV whenever you want it.
 
 The full list, section by section: [Features](/info/features).
 

@@ -1,6 +1,6 @@
 ---
 title: "Cloomba vs Partiful"
-meta_description: "How Cloomba compares to Partiful — EU-hosted vs US-hosted, paid ticketing, calendars, and longer-lived communities vs Partiful's party-by-party focus."
+meta_description: "How Cloomba compares to Partiful — EU-hosted vs US-hosted, paid ticketing, communities, and longer-lived groups vs Partiful's party-by-party focus."
 section: null
 section_position: 0
 position: 61
@@ -25,7 +25,7 @@ Partiful is the party-invite app of choice for a lot of US 20- and 30-somethings
 
 **You want to charge for tickets.** Cloomba sells tickets in every country Stripe Connect supports, paid into your own Stripe account, with an [off-platform payment mode](/help/off-platform-payment) for bank transfer, PayPal or cash.
 
-**You run a recurring series, not one-off parties.** Cloomba [calendars](/help/about-calendars) are a persistent channel followers subscribe to; every new event you add reaches the calendar's audience automatically.
+**You run a recurring series, not one-off parties.** Cloomba [communities](/help/about-communities) are a persistent channel followers subscribe to; every new event you add reaches the community's audience automatically.
 
 **You want moderation controls.** Cloomba has [manual guest approval](/help/guest-approval), [waitlists](/help/waitlist), [registration questions](/help/guest-questions), [admin and moderator roles](/help/cohosts), [check-in](/help/check-in), and full attendee export.
 
@@ -52,7 +52,7 @@ Partiful is the party-invite app of choice for a lot of US 20- and 30-somethings
 | Hosting | EU (Amsterdam) | US |
 | Free events | Free | Free |
 | Paid tickets | Every Stripe Connect country, or off-platform | US and UK hosts |
-| Where ticket money goes | Your own Stripe account on your calendar, chosen per event | Paid out to you after the event |
+| Where ticket money goes | Your own Stripe account on your community, chosen per event | Paid out to you after the event |
 | Sign-in methods | Email link / Google / Apple / GitHub / Telegram | Text message code |
 | Photos after the event | Photo and video wall with comments and reactions | Photos and videos on the event page |
 

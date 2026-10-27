@@ -22,7 +22,7 @@ Every one of those boxes has a **Preview** button. Use it — it renders exactly
 - **How to get there** — parking, transit, and doorbell notes
 - Payment instructions, when you collect money off Cloomba
 - The description under a guest question
-- Calendar newsletters
+- Community newsletters
 
 A guest question's description takes text and links; images go in the other boxes on this list.
 

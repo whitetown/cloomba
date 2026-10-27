@@ -26,7 +26,7 @@ If you want honest feedback, ask directly. A short message to attendees — "Wha
 
 ## Announce the next event
 
-The best time to get someone to RSVP to your next event is right after a good one. If you know when it is, post it. If you don't, let attendees know to follow your [calendar](/help/about-calendars) to be notified when you publish.
+The best time to get someone to RSVP to your next event is right after a good one. If you know when it is, post it. If you don't, let attendees know to follow your [community](/help/about-communities) to be notified when you publish.
 
 ## Review your guest numbers
 

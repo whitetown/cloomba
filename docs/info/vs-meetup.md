@@ -1,6 +1,6 @@
 ---
 title: "Cloomba vs Meetup"
-meta_description: "How Cloomba compares to Meetup — free calendars for your group, paid ticketing through Stripe, web and mobile apps, and EU hosting."
+meta_description: "How Cloomba compares to Meetup — free communities for your group, paid ticketing through Stripe, web and mobile apps, and EU hosting."
 section: null
 section_position: 0
 position: 63
@@ -23,7 +23,7 @@ Meetup invented the model of recurring local groups around shared interests. Two
 
 ## When Cloomba is the better fit
 
-**You don't want a monthly subscription.** Cloomba [calendars](/help/about-calendars) — the equivalent of a Meetup group — are free. So are your events, as long as they're free to attend.
+**You don't want a monthly subscription.** Cloomba [communities](/help/about-communities) — the equivalent of a Meetup group — are free. So are your events, as long as they're free to attend.
 
 **You want to sell paid tickets.** Cloomba has full Stripe Connect support, plus an [off-platform payment mode](/help/off-platform-payment). Every event can be paid into its own [payment account](/help/payment-accounts).
 
@@ -49,7 +49,7 @@ Meetup invented the model of recurring local groups around shared interests. Two
 
 | | Cloomba | Meetup |
 |---|---|---|
-| Hosting your group / calendar | Free | Monthly subscription (rate varies by region and plan) |
+| Hosting your group / community | Free | Monthly subscription (rate varies by region and plan) |
 | Free events | Free | Included with the subscription |
 | Paid events | 5% + standard payment processing | Subscription + fees + payment processing |
 | Member limits | None | Tiered by subscription |

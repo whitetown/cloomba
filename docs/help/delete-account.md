@@ -1,6 +1,6 @@
 ---
 title: "Deleting Your Account"
-meta_description: "How to permanently delete your Cloomba account, what happens to your events and data, and what to do before you delete."
+meta_description: "How to delete your Cloomba account, what happens to your events, communities and registrations, and how to come back within 30 days."
 section: "Your account"
 section_position: 80
 position: 34
@@ -10,18 +10,24 @@ generated: from whitetown/cloomba-content — do not edit here, open an issue in
 
 ## Deleting your account
 
-Deleting your Cloomba account is a serious step. Once erased under GDPR, your profile and personal data are removed and cannot be recovered.
-
-## Two deletion modes
-
-- **Soft delete** — your account is deactivated and you're signed out. You have a **30-day grace window** to sign back in and reactivate it. After that, the account is permanently erased.
-- **GDPR erasure** — immediate permanent anonymisation. Used when you ask for the right to erasure under Article 17. Requires a recent sign-in for security.
+When you delete your account, it's deactivated and you're signed out. What you own disappears at once: your events, your communities and your payment accounts. Sign back in within **30 days** and all of it comes back. After that, your account is permanently erased.
 
 ## Before you delete
 
-- **Events you organize** — delete every event you organize, or [transfer it](/help/transfer-event) to someone else, first. An account that still organizes events can't be deleted. For an upcoming event with guests, [cancel it](/help/cancel-event) before you delete it, so they are told.
-- **Paid tickets** — when you cancel an event, keep its **Refund** box ticked, and every ticket paid by card is refunded. Refund anyone who paid you directly yourself.
-- **Your RSVPs** — your future RSVPs no longer count once the account is deleted.
+A few things only you can settle, so they come first:
+
+- **Upcoming events with guests** — [cancel them](/help/cancel-event), so your guests are told, or [transfer them](/help/transfer-event) to someone else. When you cancel a paid event, keep its **Refund** box ticked, and every ticket paid by card is refunded. Refund anyone who paid you directly yourself.
+- **An organization you own** — hand it over to one of its admins, or [ask us](/info/contact) to delete it.
+- **A community with paid membership tiers** — make the tiers free or delete them.
+
+Past events, events without guests, drafts and cancelled events go with your account.
+
+## What happens when you delete
+
+- **Your events and communities** are hidden right away.
+- **Your payment accounts** are hidden too. Your Stripe account itself stays yours.
+- **Your registrations for upcoming events** are cancelled for good, so the seat goes to someone else. Paid tickets are not refunded.
+- **A membership you pay for** by subscription ends at the end of the current period.
 
 ## How to delete your account
 
@@ -31,11 +37,15 @@ Deleting your Cloomba account is a serious step. Once erased under GDPR, your pr
 
 You'll be signed out on all devices.
 
-## After deletion
+## Changed your mind?
 
-- Your public profile and username become unavailable
-- Emails sent to your address will no longer reach a Cloomba account
-- You can create a new account with the same email at any time — it starts completely fresh
+Sign in again within 30 days. Your account comes back with your events, communities and payment accounts. Cancelled registrations stay cancelled — register again if there's room.
+
+## After 30 days
+
+Your account is permanently erased: your name, email, phone and profile photos are removed, and your sign-in is deleted. You can create a new account with the same email at any time — it starts completely fresh. [What happens when you delete your account](/help/what-gets-deleted) has the full breakdown.
+
+To have your account erased right away under your Article 17 right, [contact us](/info/contact).
 
 ## Need help instead?
 

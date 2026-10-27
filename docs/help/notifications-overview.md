@@ -25,11 +25,11 @@ Cloomba sends notifications to keep you informed about events you care about —
 **As an organizer:**
 - Someone RSVPs to your event
 - A guest requests approval (if Require approval is on)
-- A submission arrives for your calendar
+- A submission arrives for your community
 - Someone uploads to your event's photos
 
-**As a calendar follower:**
-- A new event is added to a calendar you follow
+**As a community follower:**
+- A new event is added to a community you follow
 
 ---
 

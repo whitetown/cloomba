@@ -18,7 +18,7 @@ Since launch we've added the most-requested organizer and attendee features:
 
 - **Multiple ticket types per event** — early-bird, standard, VIP, and group tiers, each with its own price and limit
 - **Granular notification preferences** — choose exactly which updates reach you by email, push, and Telegram
-- **Follow organizers and topics** — follow an organizer, calendar, category, or city and get notified about new events
+- **Follow organizers and topics** — follow an organizer, community, category, or city and get notified about new events
 - **Organizer analytics** — attendance trends, conversion funnels, and revenue summaries for each event
 - **Import events from other platforms** — bring an existing event over in a few clicks
 - **Sign in with Telegram** — plus @cloomba_bot for one-tap walk-in RSVPs at the door

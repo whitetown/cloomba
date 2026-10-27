@@ -14,7 +14,7 @@ RSVPing on Cloomba lets the organizer know you're coming and, for paid events, s
 
 ## Finding an event
 
-Open the event page — either from Discover, a link someone shared with you, or a calendar you follow.
+Open the event page — either from Discover, a link someone shared with you, or a community you follow.
 
 ## Registering
 
