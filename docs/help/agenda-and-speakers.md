@@ -21,7 +21,7 @@ Open **Manage › Program** and choose **Add session**. Add sessions one by one:
 - **Description** — optional details
 - **Speaker** — optional, linked from your speakers
 
-Sessions are automatically grouped by day and shown in the **Program** section of the event page, in chronological order. An "All N" link next to the section opens the full list.
+Sessions are automatically grouped by day and shown in the **Program** section of the event page, in chronological order. The section's title opens the full list.
 
 ---
 

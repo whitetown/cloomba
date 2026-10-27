@@ -25,7 +25,7 @@ Eventbrite is the established name in event ticketing — used by everyone from 
 
 **You want free events to stay free.** Cloomba's free events cost the organizer nothing — no listing fee, no per-RSVP charge — and that is a standing commitment: [free events are always free](/help/free-events).
 
-**You're running a community, not a transaction.** Cloomba ships with [shared event photos](/help/media-wall), [comments and reactions](/help/comments-and-reactions), [organizer updates](/help/event-updates), and [communities](/help/about-communities) — built for the conversation around an event, not just the moment of buying a ticket.
+**You're running a community, not a transaction.** Cloomba ships with [shared event photos](/help/event-photos), [comments and reactions](/help/comments-and-reactions), [organizer updates](/help/event-updates), and [communities](/help/about-communities) — built for the conversation around an event, not just the moment of buying a ticket.
 
 **Your pricing is simple and predictable.** Cloomba is a flat 5% + standard payment processing on paid tickets, with no per-event surcharges. Eventbrite's pricing combines a percentage **and** a flat per-ticket fee. See [Pricing & Fees](/info/pricing).
 

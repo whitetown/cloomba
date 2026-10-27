@@ -24,7 +24,7 @@ Cloomba is operated by **WhiteTown s.r.o.**, Narcisova 38, 821 01 Bratislava, Sl
 
 **Attendance data** — RSVP status, ticket type, check-in records, and any answers you provide to organiser registration questions.
 
-**Media** — photos and videos you upload to event media walls, together with any captions you add.
+**Media** — photos and videos you upload to events, together with any captions you add.
 
 **Communications** — messages sent via event updates, and your notification preferences.
 

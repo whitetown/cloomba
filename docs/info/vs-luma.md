@@ -21,7 +21,7 @@ If your needs map cleanly to "a polished, modern event tool", you'd be happy on 
 
 ## When Cloomba is the better fit
 
-- **A real shared photo wall** — Every event ships [shared photos](/help/media-wall) — photo and video uploads, captions, [comments and reactions](/help/comments-and-reactions), real-time updates, and an [option to make them public](/help/open-media-wall) with explicit consent. It's part of every event.
+- **Everyone's photos, in one place** — Every event ships [shared photos](/help/event-photos) — photo and video uploads, captions, [comments and reactions](/help/comments-and-reactions), real-time updates, and an [option to make them public](/help/make-photos-public) with explicit consent. It's part of every event.
 - **EU data, GDPR by design** — Cloomba's servers run in Amsterdam (EU-West) — all event content, RSVPs, photos, and messages stay in the EU, while Luma is US-hosted. The privacy policy is short because the product collects less: no advertising profiles, no behavioral tracking, and [photo consent](/help/media-consent) is asked before anyone's first upload to an event.
 - **Not English-first** — Cloomba's interface and the emails it sends are fully localized, and each person sees them in the language they picked, not the one you organize in. See [Language and locale settings](/help/language-and-locale).
 - **Off-platform payment** — Cloomba supports Stripe **or** an [off-platform payment mode](/help/off-platform-payment) (bank transfer, PayPal, cash) where Cloomba stores no money. Useful for organizers who already have a club account, or who run free-with-donation events.
@@ -47,7 +47,7 @@ If your needs map cleanly to "a polished, modern event tool", you'd be happy on 
 
 ## Honest bottom line
 
-If you're an EU-based community organizer, especially in CEE, and you care about where attendee data lives — Cloomba is the better fit. The shared photo wall after the event is a genuine reason on its own. If your events depend on Luma's audience, stay on Luma.
+If you're an EU-based community organizer, especially in CEE, and you care about where attendee data lives — Cloomba is the better fit. The shared photos after the event are a genuine reason on its own. If your events depend on Luma's audience, stay on Luma.
 
 [Run your first event on Cloomba →](/switch/luma)
 

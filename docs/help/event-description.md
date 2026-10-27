@@ -30,7 +30,7 @@ The description is your main pitch to potential attendees. A good one answers ev
 
 The description box accepts [markdown](/help/markdown) — bold, headings, bullet lists, links, tables, and images. The **Preview** button next to the box shows exactly what your readers will see.
 
-Use formatting to break up long descriptions — a wall of text loses people quickly.
+Use formatting to break up long descriptions — a solid block of text loses people quickly.
 
 If your guests read different languages, you can [write one description covering several languages](/help/multilingual-descriptions) rather than choosing one.
 

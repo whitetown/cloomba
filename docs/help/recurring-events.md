@@ -27,7 +27,7 @@ The dates appear underneath as you set the pattern, so you can check them before
 
 ### The schedule
 
-Once published, your event page has a **Schedule** section listing the sessions, and an "All N" link opens every one. View it as a week, a month, a day, or a plain list.
+Once published, your event page has a **Schedule** section listing the sessions, and its title opens every one. View it as a week, a month, a day, or a plain list.
 
 Open any session to make changes to that session alone:
 

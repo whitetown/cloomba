@@ -1,6 +1,6 @@
 ---
 title: "Features"
-meta_description: "Everything Cloomba does for an event organizer — registration, tickets, check-in, communities, chat, photo wall, agenda, apps, and your data — in one list."
+meta_description: "Everything Cloomba does for an event organizer — registration, tickets, check-in, communities, chat, shared photos, agenda, apps, and your data — in one list."
 section: "Product"
 section_position: 0
 position: 25
@@ -61,9 +61,9 @@ Everything Cloomba does, in one list. Every item here is live. Free events are f
 
 ## Photos
 
-- **Photos and videos** — Guests [upload](/help/upload-photos) from their phone; everyone at the event sees the [photos](/help/media-wall) fill up.
+- **Photos and videos** — Guests [upload](/help/upload-photos) from their phone; everyone at the event sees the [photos](/help/event-photos) fill up.
 - **Reactions and comments** — [Comments and reactions](/help/comments-and-reactions) on every photo, updating live.
-- **Consent** — Uploaders [confirm consent](/help/media-consent); you decide whether the photos are [public](/help/open-media-wall) or for guests only.
+- **Consent** — Uploaders [confirm consent](/help/media-consent); you decide whether the photos are [public](/help/make-photos-public) or for guests only.
 - **Moderation** — Delete anything, [remove a guest](/help/blocking-guests), [report abuse](/help/reporting-abuse).
 
 ## Communities and recurring events

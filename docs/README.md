@@ -9,7 +9,7 @@ The same pages are published on [cloomba.com](https://cloomba.com).
 - [Your notifications inbox](help/notifications-inbox.md)
 - [Off-platform payment for paid events](help/off-platform-payment.md)
 - [What happens when you delete your account](help/what-gets-deleted.md)
-- [Making event photos public](help/open-media-wall.md)
+- [Making event photos public](help/make-photos-public.md)
 - [Discount coupons for paid events](help/coupons.md)
 - [Adding an agenda and speakers to your event](help/agenda-and-speakers.md)
 - [Adding your note to guest emails](help/email-templates.md)
@@ -72,7 +72,7 @@ The same pages are published on [cloomba.com](https://cloomba.com).
 - [Following a community](help/follow-community.md)
 
 ### Media & content
-- [Event photos](help/media-wall.md)
+- [Event photos](help/event-photos.md)
 - [Uploading photos to an event](help/upload-photos.md)
 - [Uploading videos to an event](help/upload-videos.md)
 - [Media consent and permissions](help/media-consent.md)

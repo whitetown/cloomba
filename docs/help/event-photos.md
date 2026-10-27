@@ -8,7 +8,7 @@ status: published
 generated: from whitetown/cloomba-content — do not edit here, open an issue instead
 ---
 
-Every event page has a **Photos** section: a shared set of photos and videos that guests and staff add to before, during, and after the event — a collective memory of what happened. **See all** opens the full set.
+Every event page has a **Photos** section: a shared set of photos and videos that guests and staff add to before, during, and after the event — a collective memory of what happened. The section's title opens the full set.
 
 ---
 
@@ -27,7 +27,7 @@ Anyone who may upload sees **Add photos** in the section's header — even befor
 
 ### Who can see the photos
 
-By default, the photos are visible to confirmed guests and staff only. Turn on **Make photos public** in the same **Options** card to show them to everyone who can see the event page — useful for public events where you want to showcase the event to people who did not attend. See [Making event photos public](/help/open-media-wall).
+By default, the photos are visible to confirmed guests and staff only. Turn on **Make photos public** in the same **Options** card to show them to everyone who can see the event page — useful for public events where you want to showcase the event to people who did not attend. See [Making event photos public](/help/make-photos-public).
 
 ---
 

@@ -30,7 +30,7 @@ On the website:
 
 **Event page**
 - **One page** — the description, then the Program (or the dates of a series), Speakers, Photos and Sponsors, each with a link to the full list ([program and speakers](/help/agenda-and-speakers))
-- **Photos** — guests add photos and videos with **Add photos**, right on the event page ([event photos](/help/media-wall))
+- **Photos** — guests add photos and videos with **Add photos**, right on the event page ([event photos](/help/event-photos))
 - **Chat** — the event's chat opens from a button in the corner of the page ([event chat](/help/event-chat))
 - **Staff buttons** — **Post**, **Guests**, **Invite** and **Manage** right under the date; from an hour before the start, **Check in** takes Invite's place ([check-in](/help/check-in))
 - **Ended** and **Cancelled** badges on the date

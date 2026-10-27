@@ -20,7 +20,7 @@ Open the event and open the event's **Chat**. The event chat also appears in you
 
 ### Who can post
 
-Anyone in the chat can post text and mention people with `@username`. Sharing photos and video in the event chat is limited to the organizer and staff — everyone else's photos belong on the [event's **Photos**](/help/media-wall) instead, where they're easier to browse and react to.
+Anyone in the chat can post text and mention people with `@username`. Sharing photos and video in the event chat is limited to the organizer and staff — everyone else's photos belong on the [event's **Photos**](/help/event-photos) instead, where they're easier to browse and react to.
 
 ### Notifications
 

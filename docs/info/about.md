@@ -8,7 +8,7 @@ status: published
 generated: from whitetown/cloomba-content — do not edit here, open an issue instead
 ---
 
-Cloomba is an event platform. Host your own events, grow your community, and bring people together — registration, tickets, check-in, chat, and a shared photo wall, in one place.
+Cloomba is an event platform. Host your own events, grow your community, and bring people together — registration, tickets, check-in, chat, and shared photos, in one place.
 
 ---
 

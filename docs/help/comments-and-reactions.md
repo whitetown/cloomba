@@ -8,7 +8,7 @@ status: published
 generated: from whitetown/cloomba-content — do not edit here, open an issue instead
 ---
 
-Every photo and video in an event's [Photos](/help/media-wall) has its own comments and emoji reactions.
+Every photo and video in an event's [Photos](/help/event-photos) has its own comments and emoji reactions.
 
 Open any post in the event's **Photos** to read its comments and add your own. Every post also has emoji reactions, which appear as small badges on its tile so you can see what's popular at a glance.
 

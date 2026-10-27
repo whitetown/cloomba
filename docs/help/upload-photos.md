@@ -14,7 +14,7 @@ Open the event page and find the **Photos** section. Tap or click **Add photos**
 
 Supported formats: JPEG, PNG, WebP and GIF. HEIC files from iPhones are converted automatically.
 
-If you don't see **Add photos**, the organizer has limited uploads to staff, or you have not joined the event yet. See [Event photos](/help/media-wall).
+If you don't see **Add photos**, the organizer has limited uploads to staff, or you have not joined the event yet. See [Event photos](/help/event-photos).
 
 ---
 
