@@ -14,51 +14,12 @@ A running log of significant updates and new features.
 
 ---
 
-### October 2026 — Calendars are now communities
+### October 2026 
 
-On the website:
-
+- **Ban** — on the **People** tab, for anyone: it ends their membership and follow, and they can't join, follow or submit events until an organizer lifts it
 - **Communities** — what was called a calendar is now a community: the same page, followers, members, newsletters and payments, at the same address ([what are communities?](/help/about-communities))
-- **Personal** — your own events, private, first under **Your communities**
-- **Calendar** means your calendar app: **Add to Calendar** and the feeds you subscribe to
-
----
-
-### October 2026 — One event page, and Manage in one menu
-
-On the website:
-
-**Event page**
-- **One page** — the description, then the Program (or the dates of a series), Speakers, Photos and Sponsors, each with a link to the full list ([program and speakers](/help/agenda-and-speakers))
-- **Photos** — guests add photos and videos with **Add photos**, right on the event page ([event photos](/help/event-photos))
-- **Chat** — the event's chat opens from a button in the corner of the page ([event chat](/help/event-chat))
-- **Staff buttons** — **Post**, **Guests**, **Invite** and **Manage** right under the date; from an hour before the start, **Check in** takes Invite's place ([check-in](/help/check-in))
-- **Ended** and **Cancelled** badges on the date
-
-**Manage**
-- **One menu** — Overview, Registration, Guests, Invitations, Check in, Program, Speakers, Sponsors, Polls, Reports and Advanced, beside the page on a wide screen and in a dropdown on a phone
-- **Invitations and Check in** sit in Manage, next to the guest list ([inviting guests](/help/invite-guests))
-- **Organizer guides** — every guide, one click away in the menu
-
----
-
-### October 2026 — Personal and team calendars, payments, and refunds
-
-**Calendars**
-- **Your personal calendar** — every account has one: a private home for your own events, with their guests on its People tab and its own payment accounts. Convert it to a team calendar when it should have a public page ([what calendars are](/help/about-communities))
-- **Several owners** — a calendar can have more than one owner, all equal; make an admin an owner to hand a calendar over ([owners and admins](/help/community-admins))
 - **Payment accounts on the calendar** — each calendar connects its own Stripe accounts, and every event is paid into one of its calendar's accounts ([how it works](/help/payment-accounts))
-- **Email allowances per calendar** — invitations, updates and newsletters count towards the calendar they belong to ([sending limits](/help/email-sending-limits))
 - **API keys and webhooks on the calendar** — made by its owners on its Settings tab, reaching the calendar's events
-- **Change calendar** — move an event to another calendar from its Overview, and see what changes before you confirm ([how it works](/help/move-event-to-community))
-
-**Tickets & payments**
-- **Cancelling and refunding are separate** — a guest's cancel frees their place and never refunds; you refund from the guest list, also after a cancel, and the cancel-event dialog has a **Refund** box ([issuing refunds](/help/refunds))
-- **Your refund policy** — write it once on the calendar's Payments tab, and it shows below the description of its paid events
-
-**Events**
-- **One field for the place** — type a venue, or paste a meeting link for an online event ([event location](/help/event-location))
-- **Register without an account** — on the website, guests join with their name and email ([registering](/help/rsvp-to-event))
 
 ---
 

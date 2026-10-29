@@ -14,7 +14,7 @@ Anyone signed in can submit a published, public event to a community that accept
 
 ### Submitting an event
 
-1. Open the community's page and select **Submit Event**. The button is there when the community accepts submissions.
+1. Open the community's page, open the **…** menu and select **Submit Event**. It is there when the community accepts submissions.
 2. The picker opens with your upcoming events. Type to search the rest, or paste the link of any public Cloomba event — it does not have to be yours.
 3. Pick up to 5 events and submit them in one step.
 

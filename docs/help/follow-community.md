@@ -18,6 +18,8 @@ Open the community page and select **Follow**. If you are not signed in, a sign-
 
 You can also follow from an event page: when the event belongs to a community, the community is shown under **Presented by**, with a Follow button beside it. In the mobile apps, Follow is on the community page as well.
 
+Beside Follow, **Become a member** joins the community. Once you join, the community page shows a badge with your membership instead — **Member**, or the name of your tier — and it opens your member area.
+
 ---
 
 ### What you get
@@ -35,19 +37,19 @@ New-event notifications arrive as push notifications. In your notification setti
 
 ### Your own calendar app
 
-Next to Follow, the feed menu subscribes your calendar app to the community: **Google Calendar**, **Apple Calendar / Outlook**, or any reader that takes an RSS feed. A subscription keeps itself up to date as events are added or changed — unlike a downloaded .ics file, which is a one-time snapshot.
+The **…** menu at the end of the row subscribes your calendar app to the community: **Google Calendar**, **Apple Calendar / Outlook**, or any reader that takes an RSS feed. A subscription keeps itself up to date as events are added or changed — unlike a downloaded .ics file, which is a one-time snapshot.
 
 ---
 
 ### Memberships
 
-Some communities offer memberships — free or paid tiers with members-only events and tickets. Joining one makes you a follower too. Cancelling a membership keeps you following the community; unfollowing does not cancel a membership.
+Every community has a free membership: select **Become a member** on its page. Its organizers can add tiers of their own — free or paid, with members-only events and tickets — and you pick one when you join. Following shares nothing with the organizers; joining a membership shares your name, your account email and your answers to the community's questions. Joining makes you a follower too. Leaving a membership keeps you following the community; unfollowing does not end a membership.
 
 ---
 
 ### Unfollowing
 
-Open the community page and select **Following** — it turns back to Follow, and the notifications from that community stop.
+Open the community page and select **Following** — it turns back to Follow. As a member, you unfollow in your member area: untick **Inform me about new events and newsletters from the community**. Either way, the notifications and the community's newsletters stop together. The unsubscribe link in a newsletter does the same, and following again turns both back on.
 
 ---
 

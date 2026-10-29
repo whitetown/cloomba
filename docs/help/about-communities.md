@@ -29,9 +29,10 @@ Every community has its own public address on cloomba.com. The page shows:
 - The name, description, logo, and banner, with the home city and any links the organizer added
 - Upcoming and past events — as a list, or on a week, month, or day grid
 - The people behind it: organizers, speakers, and partners
-- **Follow**, and a feed menu to subscribe in Google Calendar, Apple Calendar, or Outlook, or by RSS
-- Membership tiers, when the community offers them
-- **Submit Event**, when the community accepts events from other organizers
+- **Follow**, and a **…** menu to subscribe in Google Calendar, Apple Calendar, or Outlook, or by RSS
+- **Become a member** — the free membership every community has, and any tiers its organizers add
+- Once you join, your membership's badge instead — it opens your member area
+- **Submit Event** in the **…** menu, when the community accepts events from other organizers
 
 ---
 
@@ -65,7 +66,9 @@ Any Cloomba user can follow a community. Followers see its upcoming events in **
 
 ### Memberships
 
-A community can offer membership tiers — free or paid, open to everyone or approved one by one. Members see members-only events on the community page and can buy members-only tickets. A member is always a follower too.
+Every community offers a free membership, and its organizers can add tiers of their own — free or paid, open to everyone or approved one by one. Joining shares your name, your account email and your answers to the community's questions with its organizers; following shares nothing. Members see members-only events on the community page and can buy members-only tickets. Joining makes you a follower too, and leaving a membership keeps you following.
+
+An organizer can ban someone from the **People** tab: their membership ends, they stop following, and they can't join, follow or submit events to the community until an organizer lifts the ban.
 
 ---
 
