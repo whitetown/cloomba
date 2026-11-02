@@ -19,6 +19,7 @@ A few things only you can settle, so they come first:
 - **Upcoming events with guests** — [cancel them](/help/cancel-event), so your guests are told, or [transfer them](/help/transfer-event) to someone else. When you cancel a paid event, keep its **Refund** box ticked, and every ticket paid by card is refunded. Refund anyone who paid you directly yourself.
 - **An organization you own** — hand it over to one of its admins, or [ask us](/info/contact) to delete it.
 - **A community with paid membership tiers** — make the tiers free or delete them.
+- **A community you're the only owner of, with someone else's upcoming events in it** — [move](/help/move-event-to-community), [transfer](/help/transfer-event), cancel, or delete those events, or make someone else an owner.
 
 Past events, events without guests, drafts and cancelled events go with your account.
 

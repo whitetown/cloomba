@@ -21,13 +21,13 @@ Every event has one home. Moving the event changes that home: the event belongs 
 
 In the app, open the event, tap **Manage**, and use **Change community** in the community card.
 
-The button is there when you have another community to move the event to. Picking **Personal** puts the event on its organizer's personal calendar.
+The button is there when you have another community to move the event to. Picking **Personal** puts the event on your own personal calendar: you become its host, and its organizer stays on as an admin.
 
 ---
 
 ### Who can move it
 
-The event's organizer can always move it. An event admin can move it when they also run the community it is in now. To move an event into a community, you need to be one of its owners or admins.
+An event on your personal calendar is yours to move. An event in a community belongs to that community, and its owners move it — its admins, the person who created it among them, see which community it is in. To move an event into a community, you need to be one of its owners or admins; if you aren't one of its owners, the dialog tells you that its owners will manage the event from then on.
 
 ---
 
@@ -40,7 +40,7 @@ The event's organizer can always move it. An event admin can move it when they a
 - **People** — the event's guests count on the new community's **People** tab, and stop counting on the old one's.
 - **API keys and webhooks** — those of the old community stop reaching the event, and the dialog lists them; those of the new community reach it.
 
-The event's address, organizer, guests, tickets, photos, and comments stay as they are.
+The event's address, guests, tickets, photos, and comments stay as they are, and so does its organizer — unless you move it to your own personal calendar.
 
 ---
 

@@ -69,6 +69,7 @@ The same pages are published on [cloomba.com](https://cloomba.com).
 - [Community admins and ownership](help/community-admins.md)
 - [Moving an event to another community](help/move-event-to-community.md)
 - [Submitting an event to a community](help/submit-event-to-community.md)
+- [Calls for papers](help/call-for-papers.md)
 - [Following a community](help/follow-community.md)
 
 ### Media & content

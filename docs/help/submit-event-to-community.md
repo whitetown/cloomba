@@ -51,4 +51,4 @@ Incoming submissions appear in a queue behind the **Submissions** button on the 
 
 Review is not optional: approving lists the event in your community and notifies every follower, so it never happens without you saying yes.
 
-You can remove an approved event from your community at any time, even after followers were notified. If you turn submissions off while requests are still pending, the queue stays reachable until you have answered them.
+You can remove an approved event someone else submitted — a listing — at any time, even after followers were notified. An event whose home is your community stays in it: its owners move, transfer, cancel, or delete it. If you turn submissions off while requests are still pending, the queue stays reachable until you have answered them.

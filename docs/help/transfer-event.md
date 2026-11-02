@@ -25,17 +25,19 @@ You can hand over an event to another Cloomba user. This is useful when:
 
 The recipient sees a notification and gets an email with a review link. They have **7 days** to accept; otherwise the request expires.
 
+An event on your personal calendar is yours to transfer. An event in a community is transferred by the community's owners — to anyone, the person who created it included.
+
 ### What happens when accepted
 
 - The new owner becomes the **organizer**.
-- You stay attached as an **admin** — you keep edit access but ownership has moved.
+- The previous organizer stays attached as an **admin** — they keep edit access but ownership has moved.
 - All RSVPs, tickets, media, and comments stay where they are. Nothing is lost or duplicated.
 - The event slug and URL don't change.
-- An event on your personal calendar moves to the new owner's personal calendar. An event in a community stays in it.
+- The event moves to the new owner's personal calendar, from a personal calendar or from a community.
 
 ### What happens when declined or cancelled
 
-- **Declined** by the recipient — the request closes; you remain the organizer.
+- **Declined** by the recipient — the request closes; nothing changes.
 - **Cancelled** by you — the recipient's pending notification is cleared.
 - **Expired** after 7 days — closed automatically.
 
