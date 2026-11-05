@@ -39,6 +39,10 @@ Your ticket is on the event page. Every event you're registered for is also in y
 
 Open your ticket and tap **Add to Apple Wallet** on an iPhone, iPad, or Mac, or **Add to Google Wallet** on Android and other devices. The pass carries the same QR code the organizer scans at the door.
 
+## Printing your ticket
+
+Open your ticket on the event page and choose **Print** from the menu in its corner, or use the **Print** button on the ticket's own link page. You get one A4 page with the QR code the organizer scans at the door, your name and ticket type, and the event's details. Unless the event is private, a smaller code at the bottom opens the event page.
+
 ## At the door
 
 Show your ticket confirmation to the organizer at check-in. The organizer can scan your QR code or look up your name on their guest list.

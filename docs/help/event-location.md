@@ -8,7 +8,7 @@ status: published
 generated: from whitetown/cloomba-content — do not edit here, open an issue instead
 ---
 
-One field holds where your event happens: **Location or link**. Type a venue or an address for an in-person event, or paste a meeting link for an online one.
+One field holds where your event happens: **Address or meeting link**. Type a venue or an address for an in-person event, or paste a meeting link for an online one.
 
 ---
 
@@ -19,6 +19,8 @@ Start typing the venue or street address and pick it from the suggestions. Cloom
 When you open the field, it lists your recent locations — the venues of your latest events — so you can pick a place you have used before.
 
 If the place you want is not among the suggestions, pick the last row, **Use “…”**, to keep the name exactly as you typed it.
+
+You can also paste a link from Google Maps, Apple Maps or Mapy, short links included. Cloomba turns it into the place it points to, with its name, address and pin. A link to a spot with no address — a trailhead, a meeting point in the woods — keeps the exact pin and the town around it, so directions lead to the spot itself. You can give the spot a name in the location's details.
 
 ---
 

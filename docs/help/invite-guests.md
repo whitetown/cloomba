@@ -40,6 +40,8 @@ When you are ready, add an optional **personal message** — it appears on the i
 
 Sending invitation emails is optional. Leave the toggle off and the invitations are created without email — useful when you are inviting existing Cloomba users, who get them in their in-app inbox anyway, or when you plan to share the links yourself.
 
+An invitation email comes from you, and on a community's event it also shows the community's name and logo. If you are the community's owner or an admin, the **From** field lets you send it in the community's name instead. Replies come to you either way, so sending emails requires an email address on your account; you can add one on your [profile](/me).
+
 Invitation emails count towards your [email sending limits](/help/email-sending-limits).
 
 ---

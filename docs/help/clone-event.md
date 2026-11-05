@@ -26,7 +26,7 @@ Cloning copies an event into a new one: the fastest way to set up the next editi
 You choose whether to copy two more things:
 
 - **Admins** — the co-organizers you added to the event
-- **Sponsors** — with their tiers
+- **Credits** — the organizers, partners and sponsors
 
 Guests, tickets sold, invitations, comments, updates and photos stay with the original event, as do the agenda, speakers, materials, coupons and door team — each edition gets its own.
 
@@ -48,7 +48,7 @@ In the app, open the event, tap **Manage**, then **Clone event**.
 Then:
 
 1. Set the new start and end. They are filled in a month after the original — or the first monthly date still ahead — at the same time of day and for the same length.
-2. Choose whether to copy admins and sponsors.
+2. Choose whether to copy admins and credits.
 3. Turn on **Publish** to make the new event live straight away, or leave it off to save it as a draft.
 4. Select **Clone event**. The new event opens, ready to edit.
 

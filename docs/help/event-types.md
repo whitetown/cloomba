@@ -8,7 +8,7 @@ status: published
 generated: from whitetown/cloomba-content — do not edit here, open an issue instead
 ---
 
-An event on Cloomba happens at a venue or online. You set which one in the **Location or link** field when you create the event: an address makes it in-person, a meeting link makes it online.
+An event on Cloomba happens at a venue or online. You set which one in the **Address or meeting link** field when you create the event: an address makes it in-person, a meeting link makes it online.
 
 ---
 

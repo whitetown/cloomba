@@ -26,7 +26,7 @@ The **Settings** tab is what you land on. Everything on it saves as you go:
 - **Location** — the city the community is based in; it links to that city's page
 - **Let others submit events** — off by default; see [Submitting an event to a community](/help/submit-event-to-community)
 - **Links** — your website and social profiles
-- **People & sponsors** — organizers, speakers, and partners shown on the community page
+- **Credits** — organizers, speakers, and partners shown on the community page
 - **Admins** — people who can edit the community, add events, review submissions, and write to your audience; see [Community admins and ownership](/help/community-admins)
 
 Communities are always public — anyone can open the page and follow it. Public events are shown to everyone. An unlisted event shows only to the community's members, and private events never appear.

@@ -42,9 +42,9 @@ For online events where attendees join from multiple timezones, the event page s
 
 ### Location
 
-The **Location or link** field takes either one.
+The **Address or meeting link** field takes either one.
 
-**In-person** — type the venue or street address and pick it from the suggestions. Cloomba will show a map on the event page and use the location for local discovery. Your recent locations are listed as soon as you open the field.
+**In-person** — type the venue or street address and pick it from the suggestions, or paste a link from Google Maps, Apple Maps or Mapy. Cloomba will show a map on the event page and use the location for local discovery. Your recent locations are listed as soon as you open the field.
 
 **Online** — paste the meeting link (Zoom, Google Meet, Teams, or any URL) and choose **Online**. The link is shown only to people who have registered.
 

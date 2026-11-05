@@ -1,6 +1,6 @@
 ---
 title: "Adding an agenda and speakers to your event"
-meta_description: "How to build a multi-session agenda for your Cloomba event and add speaker bios linked to specific sessions."
+meta_description: "How to build a multi-session agenda for your Cloomba event, add speaker bios linked to specific sessions, and credit its organizers, partners and sponsors."
 section: null
 section_position: 0
 position: 56
@@ -14,7 +14,7 @@ For conferences, workshops, and longer events, Cloomba supports a structured **P
 
 ### The Program
 
-Open **Manage › Program** and choose **Add session**. Add sessions one by one:
+Open **Manage › Program › Sessions** and choose **Add session**. Add sessions one by one:
 
 - **Title** — the talk or activity
 - **Starts at / ends at** — exact times in the event's timezone
@@ -27,7 +27,7 @@ Sessions are automatically grouped by day and shown in the **Program** section o
 
 ### Speakers
 
-Open **Manage › Speakers**. Add speakers (one row per person) with:
+Open **Manage › Program › Speakers**. Add speakers (one row per person) with:
 
 - **Name and photo**
 - **Bio**
@@ -38,9 +38,22 @@ Speakers appear in the **Speakers** section of the event page, with chips linkin
 
 ---
 
+### Organizers, partners and sponsors
+
+On the web, open **Manage › Credits** and select **Add Credits**. Each entry is an organization with:
+
+- **Name** and **Photo** — the logo
+- **Role** — **Organizer**, **Partner** or **Sponsor**
+- **Tier** — sponsors only; tier names show on the page only when more than one tier is used
+- **Link** — the logo opens it
+
+They appear at the bottom of the event page, in three sections — **Organizers**, **Partners** and **Sponsors** — each once it has someone in it.
+
+---
+
 ### Who can edit
 
-The event organizer and admins can add, edit, and remove sessions and speakers. Moderators cannot.
+The event organizer and admins can add, edit, and remove sessions, speakers and credits. Moderators cannot.
 
 ---
 

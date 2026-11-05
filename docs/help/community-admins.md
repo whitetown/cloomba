@@ -46,9 +46,9 @@ A community's admins are admins of every event whose home is the community: they
 
 This access comes with the community and ends with it — when the person stops being an admin of the community, when the event moves out of the community, or when the community is deleted. Someone who becomes an admin later has it on the events already in the community too. Access someone was given by hand on the event itself stays.
 
-When an event is put in a community as its home, the community's owners and admins are also added to the event's team, so their names appear under **Hosted by**. Someone who becomes an admin later shows there once they are added to the event's team.
+The community's owners and admins are on the staff of every event whose home is the community, so their names appear under **Hosted by** — someone who becomes an admin later too. Anyone who can edit the event can keep a name off its page; see [Adding co-hosts and managers](/help/cohosts).
 
-An event whose home is the community belongs to the community, and its owners run it: they can also cancel it, refund its guests, manage its team, move it, and hand it to someone else — see [Moving an event to another community](/help/move-event-to-community) and [Transferring event ownership](/help/transfer-event). The person who created it is one of its admins. An owner can take anyone off one event's team; a community admin taken off keeps managing the event while they are the community's admin, without their name under **Hosted by**.
+An event whose home is the community belongs to the community, and its owners run it: they can also cancel it, refund its guests, manage its team, move it, and hand it to someone else — see [Moving an event to another community](/help/move-event-to-community) and [Transferring event ownership](/help/transfer-event). The person who created it is one of its admins. An owner can take anyone added to one event off its team; the community's admins keep managing its events while they are the community's admins.
 
 ---
 
