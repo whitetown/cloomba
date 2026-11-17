@@ -12,7 +12,7 @@ generated: from whitetown/cloomba-content — do not edit here, open an issue in
 
 ### Is Cloomba really free?
 
-For free events, yes — at any scale, with no listing fee, no per-guest charge and no subscription. You only pay when you sell tickets: 5% plus card processing, taken out of your payout. Fair-use limits apply to photos, videos and monthly emails, set so a normal event never reaches them. See [Pricing & Fees](/info/pricing).
+For free events, yes — at any scale, with no listing fee, no per-guest charge and no subscription. You only pay when you sell tickets: a platform fee plus card processing, taken out of your payout. Fair-use limits apply to photos, videos and monthly emails, set so a normal event never reaches them. See [Pricing & Fees](/info/pricing).
 
 ### Do guests pay the fee on top of my ticket price?
 
@@ -32,13 +32,13 @@ Yes. Switch the event to off-platform payment, write your instructions, and conf
 
 ### When do I get paid, and what does a refund cost me?
 
-Stripe pays out to your bank on its normal schedule, typically 2–7 business days after the event ([Getting paid](/help/payouts)). Refunds return the full ticket price to the guest and Cloomba returns its 5% too — you do not pay us to refund someone ([Issuing refunds](/help/refunds)).
+It depends on your Stripe settings — see [Getting paid](/help/payouts). On a refund, Cloomba returns its fee — see [Issuing refunds](/help/refunds).
 
 ## Sign-ups and deadlines
 
-### Can I stop taking sign-ups before the event starts?
+### How do I stop accepting registrations?
 
-Yes — set **Sales end** on your ticket types. Registration closes when every type is past its own deadline, so staged pricing still works: early bird can close while general admission stays open. Guests then see "Registration has closed for this event" and no Join button. See [Closing registration before the event](/help/registration-deadline).
+Set an end date on the ticket: **Sales end** in **Manage › Registration › Tickets**. If the event has several ticket types, set it on each. Guests then see "Registration has closed for this event" and no Join button. See [Closing registration before the event](/help/registration-deadline).
 
 ### Can I still let one person in after the deadline?
 
@@ -58,13 +58,17 @@ Yes — add your own questions to the registration form: short text, long text, 
 
 ### Do guests need an account to register?
 
-Yes, and signing in is passwordless — Google, Apple, GitHub, or an email link. That is what lets someone manage their own registration, keep their ticket, and get event updates without you fielding it by hand. See [How to sign in](/help/sign-in).
+No. On the website, guests can choose **Continue as guest** and register with a name and email; for a free ticket, a link in that email confirms their place. In the Cloomba app, they sign in first, and so do guests taking members-only tickets, or paid tickets on events with approval or off-platform payment. See [How to register](/help/rsvp-to-event).
 
 ## Guests and the door
 
 ### Can I give discounts or comp tickets?
 
 Yes — create coupon codes with a flat or percentage discount, an optional usage cap and an optional expiry. A code that takes the price to zero is a comp. Coupons do not apply to pay-what-you-want tickets, where the guest already picks the amount. See [Discount coupons](/help/coupons).
+
+### How do I invite speakers?
+
+Open a [call for papers](/help/call-for-papers) on your community: speakers send proposals, and you accept or decline them. To add a speaker yourself, open **Manage › Program › Speakers**. To give speakers a free place on a paid event, add a free ticket type that requires a coupon code, create a coupon for it, and send them the code. See [Adding an agenda and speakers](/help/agenda-and-speakers).
 
 ### How does check-in work at the door?
 
@@ -78,7 +82,7 @@ Yes, any time — one click gives you a CSV with names, answers to your question
 
 ### Is there an API?
 
-Yes. The public API covers events, guests and check-in, authenticated with a key made on the **Settings** tab of a community or of your personal calendar; the key reaches its events. Reads are free; writes need it on a Pro plan. Full reference and examples are at [cloomba.com/developers](/developers).
+Yes. The public API covers events, guests and check-in, authenticated with a key made on the **Settings** tab of a community or of your personal calendar; the key reaches its events. Full reference and examples are at [cloomba.com/developers](/developers).
 
 ### Can I put my event or my community's calendar on my own website?
 

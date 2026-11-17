@@ -8,7 +8,7 @@ status: published
 generated: from whitetown/cloomba-content — do not edit here, open an issue instead
 ---
 
-Everything Cloomba does, in one list. Every item here is live. Free events are free on all of it; paid tickets carry a 5% platform fee plus payment processing, see [Pricing & Fees](/info/pricing).
+Everything Cloomba does, in one list. Every item here is live. Free events are free on all of it; paid tickets carry a platform fee plus payment processing, see [Pricing & Fees](/info/pricing).
 
 ## Event page
 
@@ -34,7 +34,7 @@ Everything Cloomba does, in one list. Every item here is live. Free events are f
 - **Coupons** — Percentage or fixed-amount [discounts](/help/coupons), with a use limit.
 - **Paid on Stripe** — Guests pay by card, Apple Pay or Google Pay. The money goes to [your Stripe account](/help/payouts), not through ours.
 - **Off-platform payment** — Bank transfer, PayPal or cash — you [mark tickets as paid](/help/off-platform-payment) yourself.
-- **Refunds** — [Refund](/help/refunds) from the guest list. Our fee is refunded with it.
+- **Refunds** — [Refund](/help/refunds) from the guest list.
 - **Wallet passes** — Tickets go into Apple Wallet and Google Wallet, with the QR code ready at the door.
 
 ## At the door

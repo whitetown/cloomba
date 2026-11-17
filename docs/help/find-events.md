@@ -18,7 +18,7 @@ Open **Discover** from the navigation. You'll see a curated feed of public event
 
 - **Location** — events near a city or place
 - **Category** — filter by topic (music, tech, sport, food, etc.)
-- **Communities** — collections of events from organizers you follow
+- **Communities** — featured communities and the events they put on
 
 ## Searching for events
 

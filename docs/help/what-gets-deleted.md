@@ -16,9 +16,9 @@ A companion to [Deleting your account](/help/delete-account) with the full break
 
 Your account is deactivated and you're signed out. At the same moment:
 
-- **Events you organize** — past, upcoming, drafts and cancelled ones — are hidden.
-- **Communities you're the only owner of**, and your personal calendar, are hidden.
-- **Payment accounts** you connected are hidden. Your Stripe account itself stays yours.
+- **Your personal calendar and the communities you're the only owner of** are hidden, with every event on them — past, upcoming, drafts and cancelled ones — whoever created it.
+- **Their payment accounts** are hidden. Your Stripe account itself stays yours.
+- **Events you created in a community that has another owner** stay: they belong to the community, as does a payment account you connected there.
 - **Your registrations for upcoming events** are cancelled, and the seat goes to the next guest. Paid tickets are not refunded.
 - **Memberships you pay for** by subscription end with the current period.
 
@@ -33,8 +33,8 @@ Your account is permanently erased:
 - Name, email, phone, bio and profile photos — removed
 - Your contact details on registrations, registration answers and invitations — removed
 - Your sign-in — deleted
-- Your events and communities — deleted for good
-- Your roles on other people's communities, events and organizations — ended
+- The hidden calendars and their events — deleted for good
+- Your roles on the communities, events and organizations that stay — ended
 
 **GDPR erasure** does all of this at once, under your Article 17 right. Available on request via [contact us](/info/contact).
 
@@ -44,14 +44,13 @@ Your account is permanently erased:
 
 - **Photos, videos, comments, and reactions** you posted stay in place. Request specific items via [contact us](/info/contact) if you need them removed.
 - **Registrations for past events** stay, without your contact details.
-- **Username** is retained, so it can't be silently re-registered by someone else.
 - **Payment records** are kept for the 10-year legal accounting period (see [Privacy Policy](/legal/privacy)).
 
 ---
 
 ### A clean exit checklist
 
-1. Cancel or transfer your upcoming events with guests — with the **Refund** box ticked on paid events.
+1. Cancel or transfer the upcoming events with guests on your personal calendar — with the **Refund** box ticked on paid events. In a community you're the only owner of, move, transfer, cancel or delete its upcoming events, or make someone else an owner.
 2. Hand over any organization you own, or ask us to delete it.
 3. Delete any individual photos / videos / comments you want gone.
 4. Delete the account with **Delete account** at the foot of your **Profile** on the web, or on the Account screen in the app.

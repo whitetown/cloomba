@@ -54,4 +54,4 @@ Open **Manage** on the community page, or the pencil on your Communities page. T
 - **Reports** — traffic and guests of the community's events, summed
 - **Settings** — everything above, plus the embed snippet and the **Danger zone**: **Leave community** for admins (and for an owner while another owner stays), **Delete** for owners
 
-A community can't be deleted while an upcoming event is in it — move, transfer, cancel, or delete those first — or while any of its membership tiers has a price. Its past events are kept: an event whose home it was moves to its organizer's personal calendar, and an event that was only listed in it stops being listed. See [Community admins and ownership](/help/community-admins).
+A community can't be deleted while an upcoming event is in it — move, transfer, cancel, or delete those first — or while any of its membership tiers has a price. Its past events are kept: an event whose home it was moves to the personal calendar of the owner who deletes it, and an event that was only listed in it stops being listed. See [Community admins and ownership](/help/community-admins).

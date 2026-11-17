@@ -54,7 +54,7 @@ As an attendee you agree to:
 
 **Free events** are always free to host and attend on Cloomba — we charge nothing.
 
-**Paid events:** Cloomba charges **5% of the ticket price plus payment processing fees** (processed via Stripe). These fees are deducted from organiser payouts; attendees pay the listed price. The exact fee breakdown is shown to organisers before they publish a paid ticket type.
+**Paid events:** Cloomba charges **a percentage of the ticket price plus payment processing fees** (processed via Stripe). These fees are deducted from organiser payouts; attendees pay the listed price. The exact fee breakdown is shown to organisers before they publish a paid ticket type.
 
 Payouts are transferred to the organiser's connected bank account after the event, subject to Stripe's payout schedule.
 

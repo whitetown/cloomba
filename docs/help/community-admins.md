@@ -48,19 +48,19 @@ This access comes with the community and ends with it — when the person stops 
 
 The community's owners and admins are on the staff of every event whose home is the community, so their names appear under **Hosted by** — someone who becomes an admin later too. Anyone who can edit the event can keep a name off its page; see [Adding co-hosts and managers](/help/cohosts).
 
-An event whose home is the community belongs to the community, and its owners run it: they can also cancel it, refund its guests, manage its team, move it, and hand it to someone else — see [Moving an event to another community](/help/move-event-to-community) and [Transferring event ownership](/help/transfer-event). The person who created it is one of its admins. An owner can take anyone added to one event off its team; the community's admins keep managing its events while they are the community's admins.
+An event whose home is the community belongs to the community, and its owners run it: they can also cancel it, refund its guests, manage its team, move it, and hand it to someone else — see [Moving an event to another community](/help/move-event-to-community) and [Transferring event ownership](/help/transfer-event). The person who created it is one of its admins while they stay in the community. An owner can take anyone added to one event off its team; the community's admins keep managing its events while they are the community's admins.
 
 ---
 
 ### Removing someone
 
-An owner removes an admin or another owner from the **Admins** list. The person loses access to the community and is notified. Their events stay in the community: they stay an admin of the ones they created there until an owner takes them off. To hand one of those events to them, [transfer](/help/transfer-event) it.
+An owner removes an admin or another owner from the **Admins** list. The person loses access to the community and is notified. The events they created stay in the community, and their access to them ends too; a role an owner gave them by hand on an event stays, and so do their tickets. To hand one of those events to them, [transfer](/help/transfer-event) it.
 
 ---
 
 ### Leaving a community
 
-An admin, or an owner while another owner stays, can leave from the **Danger zone** at the bottom of the **Settings** tab: select **Leave community**. Your events stay in the community, and you stay an admin of the ones you created there until an owner takes you off. The owners are notified.
+An admin, or an owner while another owner stays, can leave from the **Danger zone** at the bottom of the **Settings** tab: select **Leave community**. The events you created stay in the community, and your access to them ends; a role an owner gave you by hand on an event stays, and so do your tickets. The owners are notified, and told how many of the community's API keys and webhooks you made, if any, since you may still hold their secrets.
 
 ---
 
@@ -68,12 +68,12 @@ An admin, or an owner while another owner stays, can leave from the **Danger zon
 
 Make them an owner — add them with the **Owner** role, or pick **Owner** in their row if they are already an admin. Then step down to admin in your own row, or leave the community.
 
-The community's address, events, followers, members, and payment accounts stay as they are. Every event keeps its organizer. To hand over an event, see [Transferring event ownership](/help/transfer-event).
+The community's address, events, followers, members, payment accounts, API keys and webhooks stay as they are. To hand over an event, see [Transferring event ownership](/help/transfer-event).
 
 ---
 
 ### Deleting a community
 
-An owner deletes the community from the **Danger zone** with **Delete**, once they are its only owner — the other owners leave or are removed first — and once no upcoming event is in it: move, transfer, cancel, or delete those first. Its past events are kept: an event whose home it was moves to its organizer's personal calendar, and an event that was only listed in it stops being listed. The admins lose the access to those events that came with the community.
+An owner deletes the community from the **Danger zone** with **Delete**, once they are its only owner — the other owners leave or are removed first — and once no upcoming event is in it: move, transfer, cancel, or delete those first. Its past events are kept: an event whose home it was moves to the personal calendar of the owner who deletes it, and an event that was only listed in it stops being listed. The admins lose the access to those events that came with the community.
 
 A community cannot be deleted while any of its membership tiers has a price.

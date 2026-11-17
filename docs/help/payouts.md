@@ -20,7 +20,7 @@ The first time you set up a paid event, Cloomba prompts you to connect a Stripe 
 
 ### When you get paid
 
-Stripe holds collected funds and transfers them to your bank account after the event. The standard payout schedule is **2–7 business days** after the funds become available, depending on your country and Stripe account settings.
+When the money reaches your bank depends on your Stripe settings.
 
 You can view your payout status and history directly in your Stripe dashboard.
 
@@ -30,7 +30,7 @@ You can view your payout status and history directly in your Stripe dashboard.
 
 Before payout, the following are deducted from each ticket sale:
 
-- **Cloomba fee** — 5% of the ticket price
+- **Cloomba fee** — a percentage of the ticket price
 - **Standard payment processing** — Stripe's fee for handling the payment; the exact rate depends on the card type and country
 
 Attendees pay the full listed price. The fees come out of your share.
@@ -39,7 +39,7 @@ Attendees pay the full listed price. The fees come out of your share.
 
 ### Refunds and their effect on payouts
 
-If you issue a refund before a payout has been processed, Stripe deducts the refunded amount from the pending payout. If the payout has already been sent, Stripe debits your account for the refund amount. Cloomba's 5% fee is returned to you on refunds, so a refund costs you nothing on our side. Stripe keeps its processing fee from the original payment.
+A refund comes out of your Stripe balance. Refund before a payout and that payout is smaller; refund after it, and the amount comes out of the next one. When your balance can't cover the refund, Stripe holds a card refund until it can, for up to 45 days; a refund Stripe can't make fails, and you pay the guest back another way. What a refund returns: see [Issuing refunds](/help/refunds).
 
 ---
 

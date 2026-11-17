@@ -25,6 +25,14 @@ Sessions are automatically grouped by day and shown in the **Program** section o
 
 ---
 
+### When the event moves
+
+When an event's start and end both change and sessions fall outside the new times, every session moves with it by the same amount and keeps its place in the day.
+
+On the web, if sessions are outside the event's timeframe at any other time, **Manage › Program › Sessions** offers to move them: you confirm where the first session goes, and the rest follow.
+
+---
+
 ### Speakers
 
 Open **Manage › Program › Speakers**. Add speakers (one row per person) with:
@@ -32,6 +40,7 @@ Open **Manage › Program › Speakers**. Add speakers (one row per person) with
 - **Name and photo**
 - **Bio**
 - **Optional links** — website, social handles
+- **Username** — optional, links the speaker's Cloomba profile. They are notified, can edit their own details, and the entry shows under **Appearances** on their profile
 - **Linked sessions** — pick which sessions this person is speaking at
 
 Speakers appear in the **Speakers** section of the event page, with chips linking to the sessions they're presenting.

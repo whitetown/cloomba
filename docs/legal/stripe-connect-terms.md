@@ -18,7 +18,7 @@ This page summarises what that means in practice. The authoritative documents ar
 
 - **You (the holder of the payment account)** — the seller of the ticket. The merchant of record. Every payment account belongs to a community or to a personal calendar, and each event is paid into one of the accounts of the community or personal calendar it belongs to.
 - **Stripe** — the payment processor. Holds funds, runs card networks, transfers payouts to your bank account.
-- **Cloomba (WhiteTown s.r.o.)** — the platform you use to run the event and the storefront for the ticket. Charges a 5% platform fee. NOT the merchant of record.
+- **Cloomba (WhiteTown s.r.o.)** — the platform you use to run the event and the storefront for the ticket. Charges a platform fee. NOT the merchant of record.
 
 ---
 
@@ -46,9 +46,9 @@ Read them in full on Stripe's site:
 
 ---
 
-### Cloomba's 5% platform fee
+### Cloomba's platform fee
 
-Cloomba's 5% fee is collected from each successful sale via Stripe's `application_fee_amount` mechanism — you don't pay it separately, it's just deducted from your gross before payout.
+Cloomba's fee is collected from each successful sale via Stripe's `application_fee_amount` mechanism — you don't pay it separately, it's just deducted from your gross before payout.
 
 If you later refund the ticket, Cloomba **refunds this fee too** — a full refund costs you nothing on our side.
 

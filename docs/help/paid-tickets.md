@@ -39,7 +39,7 @@ Once connected, it becomes your personal calendar's default account, and your pa
 
 ### How fees work
 
-Cloomba charges **5% of the ticket price** plus standard payment processing (the exact rate depends on the card type and country). These fees are deducted from your payout — attendees pay exactly the price you set.
+Cloomba charges **a percentage of the ticket price** plus standard payment processing (the exact rate depends on the card type and country). These fees are deducted from your payout — attendees pay exactly the price you set.
 
 The exact net payout is shown in **Manage › Registration** before you publish, so there are no surprises. For more detail see [How Cloomba fees work](/help/pricing-fees).
 
@@ -53,4 +53,4 @@ You can combine paid tickets with the **Require approval** setting. In this case
 
 ### After the event
 
-Stripe transfers your earnings to your bank account on its standard payout schedule (typically 2–7 business days after the event). You can track payout status from your Stripe dashboard.
+When your earnings reach your bank depends on your Stripe settings. You can track payout status from your Stripe dashboard.

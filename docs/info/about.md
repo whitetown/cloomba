@@ -16,7 +16,7 @@ Cloomba is an event platform. Host your own events, grow your community, and bri
 
 - **Made by** WhiteTown s.r.o., Bratislava, Slovakia — see the [imprint](/legal/imprint).
 - **Launched** in May 2026.
-- **Price:** free. When you sell tickets, Cloomba takes 5% plus card processing out of your payout, so guests pay exactly the price you list — see [pricing](/info/pricing).
+- **Price:** free. When you sell tickets, Cloomba takes a platform fee plus card processing out of your payout, so guests pay exactly the price you list — see [pricing](/info/pricing).
 - **Where it runs:** on the web at cloomba.com, in the iOS and Android apps, and in Telegram through @cloomba_bot — see [mobile apps](/info/mobile-apps).
 - **Languages:** multiple European languages, and every email reaches each guest in their own language.
 - **Your data** is stored on servers in the EU — see the [privacy policy](/legal/privacy).

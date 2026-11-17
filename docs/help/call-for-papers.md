@@ -29,7 +29,7 @@ Under **Settings**:
 
 ### Questions
 
-Every proposal has a title and a description, and comes with the speaker's name, picture and email. Under **Questions**, add anything else you need:
+Every proposal comes with the speaker's name, picture and email. **Questions** starts with its title, always required, and its description, which you set to **Required** or **Optional**. Add anything else you need:
 
 - **File upload** — one file per question; to ask for slides and a paper, add two. Speakers can upload PDF, PowerPoint, Keynote, Word, Excel and images (JPEG, PNG, WebP, HEIC), up to 100 MB per file.
 - **Short text** with **Long answer** turned on — a few paragraphs, for a bio or notes.

@@ -34,7 +34,7 @@ The other way round, a guest who cancels keeps their payment until you refund it
 
 ### What is refunded
 
-The guest receives the full ticket price back, and **Cloomba refunds its 5% platform fee** too, so refunding a guest costs you nothing on our side. Stripe keeps its processing fee from the original payment — that's Stripe's rule for every refund, not a Cloomba choice.
+The guest receives the full ticket price back, and **Cloomba refunds its platform fee** too, so refunding a guest costs you nothing on our side. Stripe keeps its processing fee from the original payment — that's Stripe's rule for every refund, not a Cloomba choice.
 
 ---
 

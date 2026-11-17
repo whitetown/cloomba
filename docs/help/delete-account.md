@@ -10,23 +10,23 @@ generated: from whitetown/cloomba-content — do not edit here, open an issue in
 
 ## Deleting your account
 
-When you delete your account, it's deactivated and you're signed out. What you own disappears at once: your events, your communities and your payment accounts. Sign back in within **30 days** and all of it comes back. After that, your account is permanently erased.
+When you delete your account, it's deactivated and you're signed out. What you alone hold disappears at once: your personal calendar and the communities you're the only owner of, with their events and payment accounts. Sign back in within **30 days** and all of it comes back. After that, your account is permanently erased.
 
 ## Before you delete
 
 A few things only you can settle, so they come first:
 
-- **Upcoming events with guests** — [cancel them](/help/cancel-event), so your guests are told, or [transfer them](/help/transfer-event) to someone else. When you cancel a paid event, keep its **Refund** box ticked, and every ticket paid by card is refunded. Refund anyone who paid you directly yourself.
+- **Upcoming events with guests on your personal calendar** — [cancel them](/help/cancel-event), so your guests are told, or [transfer them](/help/transfer-event) to someone else. When you cancel a paid event, keep its **Refund** box ticked, and every ticket paid by card is refunded. Refund anyone who paid you directly yourself.
 - **An organization you own** — hand it over to one of its admins, or [ask us](/info/contact) to delete it.
 - **A community with paid membership tiers** — make the tiers free or delete them.
-- **A community you're the only owner of, with someone else's upcoming events in it** — [move](/help/move-event-to-community), [transfer](/help/transfer-event), cancel, or delete those events, or make someone else an owner.
+- **A community you're the only owner of, with upcoming events in it** — [move](/help/move-event-to-community), [transfer](/help/transfer-event), cancel, or delete those events, whoever created them, or make someone else an owner.
 
-Past events, events without guests, drafts and cancelled events go with your account.
+Past events, events without guests, drafts and cancelled events on those calendars go with your account. Events you created in a community that has another owner belong to that community and stay.
 
 ## What happens when you delete
 
-- **Your events and communities** are hidden right away.
-- **Your payment accounts** are hidden too. Your Stripe account itself stays yours.
+- **Your personal calendar and the communities you're the only owner of** are hidden right away, with every event on them.
+- **Their payment accounts** are hidden too. A payment account you connected on a community that stays keeps working there. Your Stripe account itself stays yours.
 - **Your registrations for upcoming events** are cancelled for good, so the seat goes to someone else. Paid tickets are not refunded.
 - **A membership you pay for** by subscription ends at the end of the current period.
 
@@ -40,7 +40,7 @@ You'll be signed out on all devices.
 
 ## Changed your mind?
 
-Sign in again within 30 days. Your account comes back with your events, communities and payment accounts. Cancelled registrations stay cancelled — register again if there's room.
+Sign in again within 30 days. Your account comes back with the calendars, events and payment accounts that were hidden. Cancelled registrations stay cancelled — register again if there's room.
 
 ## After 30 days
 

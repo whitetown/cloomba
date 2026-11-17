@@ -78,4 +78,4 @@ If you want a cheaper option for a particular group, add a second ticket type at
 
 ### Coupons + fees
 
-Cloomba's 5% fee is calculated on the **final** price after the coupon — so a coupon that drops the price to zero results in no Cloomba fee.
+Cloomba's fee is calculated on the **final** price after the coupon — so a coupon that drops the price to zero results in no Cloomba fee.

@@ -1,6 +1,6 @@
 ---
 title: "How Cloomba fees work"
-meta_description: "Cloomba is free for free events. For paid tickets we charge 5% plus Stripe processing — deducted from your payout, never added on top for attendees."
+meta_description: "Cloomba is free for free events. For paid tickets we charge 3% plus Stripe processing — deducted from your payout, never added on top for attendees."
 section: "Tickets & payments"
 section_position: 40
 position: 20
@@ -20,25 +20,25 @@ When you collect ticket payments, Cloomba deducts fees from your payout. Attende
 
 **Two fees apply:**
 
-**Cloomba fee — 5%**
+**Cloomba fee — 3%**
 Our platform fee on each ticket sold.
 
 **Standard payment processing**
 Stripe's fee for handling the payment. The exact rate depends on the card type and country — **Manage › Registration** shows the exact net payout for the price and currency you choose, before you publish.
 
-Both fees are charged on the amount the guest actually pays. That matters on a [pay-what-you-want](/help/ticket-types) ticket, where the guest picks the figure: someone who pays €20 on a €5 minimum is charged 5% of €20, and someone who pays nothing on a 0 minimum costs you nothing at all. A [coupon](/help/coupons) works the same way — the 5% is taken on the discounted total, not the list price.
+Both fees are charged on the amount the guest actually pays. That matters on a [pay-what-you-want](/help/ticket-types) ticket, where the guest picks the figure: someone who pays €20 on a €5 minimum is charged 3% of €20, and someone who pays nothing on a 0 minimum costs you nothing at all. A [coupon](/help/coupons) works the same way — the 3% is taken on the discounted total, not the list price.
 
 ---
 
 ### When do you get paid?
 
-Payouts go to your connected Stripe bank account after the event. Stripe's standard schedule is **2–7 business days** depending on your country and account settings. You can view and manage your payout schedule directly in your Stripe dashboard.
+Payouts go to your connected Stripe bank account, and when depends on your Stripe settings. You can view and manage your payout schedule directly in your Stripe dashboard.
 
 ---
 
 ### Refunds
 
-If you refund a ticket, the attendee receives the full ticket price back. Cloomba refunds its 5% fee too, so refunding a ticket costs you nothing on our side. Stripe keeps its processing fee from the original payment — that's Stripe's rule for every refund.
+What happens to both fees when you refund a ticket: see [Issuing refunds](/help/refunds).
 
 ---
 

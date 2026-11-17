@@ -39,7 +39,7 @@ A community's or an organization's people carry the role they have there — hov
 1. Open your event and go to **Manage › Advanced** → **Event staff**.
 2. Select **Add** and enter the person's Cloomba username.
 3. Choose their **Role** — **Admin** or **Moderator**.
-4. Select **Add**. They immediately have access, get a free ticket, and appear in the guest list with their role.
+4. Select **Add**. They immediately have access. For a ticket, they join the event like any guest, and their registration is approved automatically.
 
 The person must already have a Cloomba account. Someone already on the staff, through the community or the organization included, is not added a second time. On an event an organization hosts, only the organization's members can be added, and **Owner** is a role you can give too.
 

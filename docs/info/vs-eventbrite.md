@@ -1,6 +1,6 @@
 ---
 title: "Cloomba vs Eventbrite"
-meta_description: "How Cloomba compares to Eventbrite — a flat 5% on paid tickets vs per-ticket fees, EU hosting, modern community feel vs an older transactional marketplace."
+meta_description: "How Cloomba compares to Eventbrite — a flat 3% on paid tickets with nothing fixed per ticket, the money in your own Stripe account, community pages, and EU hosting."
 section: null
 section_position: 0
 position: 62
@@ -25,31 +25,40 @@ Eventbrite is the established name in event ticketing — used by everyone from 
 
 **You want free events to stay free.** Cloomba's free events cost the organizer nothing — no listing fee, no per-RSVP charge — and that is a standing commitment: [free events are always free](/help/free-events).
 
-**You're running a community, not a transaction.** Cloomba ships with [shared event photos](/help/event-photos), [comments and reactions](/help/comments-and-reactions), [organizer updates](/help/event-updates), and [communities](/help/about-communities) — built for the conversation around an event, not just the moment of buying a ticket.
+**Your pricing is simple and predictable.** Cloomba is a flat 3% + standard payment processing on paid tickets, with nothing fixed per ticket and no per-event surcharges. Eventbrite's pricing combines a percentage **and** a flat per-ticket fee, which weighs most on a cheap ticket. See [Pricing & Fees](/info/pricing).
 
-**Your pricing is simple and predictable.** Cloomba is a flat 5% + standard payment processing on paid tickets, with no per-event surcharges. Eventbrite's pricing combines a percentage **and** a flat per-ticket fee. See [Pricing & Fees](/info/pricing).
+**You want the money in your own account.** Ticket payments go straight to your own Stripe account, connected to your community — you are the seller — and each event in it can be paid into a different [payment account](/help/payment-accounts).
 
-**You want the money in your own account.** Ticket payments go straight to your own Stripe account, connected to your community — you are the seller — and each event in it can be paid into a different [payment account](/help/payment-accounts). A refund returns Cloomba's fee too.
+**You sell more than one kind of ticket.** Several [ticket types](/help/ticket-types), each with its own price, quantity and sale window, plus [coupons](/help/coupons), a [waitlist](/help/waitlist), [approval](/help/guest-approval) before a place is confirmed, and [questions](/help/guest-questions) at registration. Or take bank transfer, PayPal or cash with [off-platform payment](/help/off-platform-payment).
 
-**You want a modern, fast UI.** Cloomba is built on TanStack Start with server-side rendering and real-time updates. Eventbrite's organizer tooling is feature-rich but generationally older.
+**You run the door yourself.** Every ticket carries a QR code and goes into Apple Wallet or Google Wallet. You and your [co-hosts](/help/cohosts) [scan it](/help/check-in) from any phone, and the count updates as people arrive.
 
-**You're an EU organizer.** Cloomba's servers are in Amsterdam (EU-West) and the product is GDPR-by-design. Eventbrite is a US company; your attendee data flows through US infrastructure under whichever transfer mechanism Eventbrite has in place at the time.
+**You're running a community, not a transaction.** Cloomba ships with [shared event photos](/help/event-photos), [comments and reactions](/help/comments-and-reactions), an [event chat](/help/event-chat) with polls, [organizer updates](/help/event-updates), and [communities](/help/about-communities) people [follow](/help/follow-community) — built for the conversation around an event, not just the moment of buying a ticket.
+
+**You run a conference.** An [agenda with speakers](/help/agenda-and-speakers) and sponsors on the event page, the current session on each guest's phone while the event runs, and a [call for papers](/help/call-for-papers) to collect the talks.
+
+**Your guests speak different languages.** The pages, the emails and the apps follow [each guest's language](/help/language-and-locale), and you can write the [description in several languages](/help/multilingual-descriptions).
+
+**You want to bring your events over.** Paste a link to an Eventbrite event and it arrives as a draft — cover, description, date and place. For more than a few, [send us your organizer page](/switch/eventbrite) and we move the events across for you, at no cost.
+
+**You have your own website.** [Embed](/help/embed-event) an event or your [community's calendar](/help/embed-calendar), give people an [.ics feed](/help/add-to-calendar) for their calendar app, or use the public API.
+
+**You're an EU organizer.** Cloomba's servers are in Amsterdam (EU-West) and the product is GDPR-by-design, with a [DPA for organizers](/legal/dpa-for-organizers). Eventbrite is a US company.
 
 ---
 
 ## When Eventbrite is the better fit
 
-- **You need their marketplace and SEO.** Eventbrite shows up in Google search for "events in [your city]" and has an established audience browsing the marketplace.
-- **You're a professional promoter with venue/series tooling needs.** Eventbrite has decades of features for ticketing companies — reserved seating, complex multi-tier pricing, advanced fraud tools, integrations with Mailchimp / Salesforce, dedicated sales support for large events.
+**You sell through their marketplace.** Eventbrite shows up in search for events in your city and has an established audience browsing it, which can be worth its per-ticket fee.
 
 ---
 
-## Pricing snapshot
+## At a glance
 
 | | Cloomba | Eventbrite |
 |---|---|---|
 | Free events | Free | Free |
-| Paid events | 5% + standard payment processing | % + flat per-ticket fee, varying by plan and country |
+| Paid events | 3% + standard payment processing | % + flat per-ticket fee, varying by plan and country |
 | Subscription | Not required | Premium plan available |
 | Who collects ticket money | Your own Stripe account on your community, chosen per event | Eventbrite, paid out to your bank account |
 | Hosting | EU (Amsterdam) | US (with international processing) |
@@ -60,6 +69,6 @@ Eventbrite's exact rates depend on your plan and country and change periodically
 
 ## Honest bottom line
 
-If you're running community events, meetups, classes, or conferences in Europe and don't need a marketplace audience, Cloomba is simpler, EU-hosted, and built around the post-event experience as much as the RSVP. If you're a professional promoter selling thousands of tickets and you need every Eventbrite feature plus its discovery surface, stay there.
+If you run community events, classes or conferences, Cloomba keeps free events free, takes nothing fixed per ticket, pays into your own Stripe account, and keeps the photos and the conversation around every event — hosted in the EU.
 
 [Run your first event on Cloomba →](/switch/eventbrite)

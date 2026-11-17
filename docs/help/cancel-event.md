@@ -38,8 +38,6 @@ When you cancel, every registered guest — including anyone on the waitlist or 
 
 If your event had paid tickets, all attendees must be refunded in full. On an event that sells tickets by card, the cancel dialog has a **Refund** box, ticked: cancel with it ticked, and every ticket paid by card is refunded, and the cancellation email tells guests so. Untick it only if you will refund guests another way. Refund anyone who paid you directly — by bank transfer or in cash — yourself. See [Issuing refunds](/help/refunds).
 
-Cloomba refunds its 5% platform fee too, so refunding an attendee costs you nothing on our side. Stripe keeps its processing fee from the original payment — that's Stripe's rule for every refund.
-
 ---
 
 ### Deleting vs cancelling

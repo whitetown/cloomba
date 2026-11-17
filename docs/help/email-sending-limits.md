@@ -60,7 +60,7 @@ Before invitation emails go out, you confirm that the people on your list have a
 
 Every invitation and event update email contains an unsubscribe link, and Cloomba enforces the outcome for you:
 
-- **Unsubscribed** — anyone who unsubscribes from your emails is skipped automatically on every future send, even if you re-import their address. You see the skip count before sending.
+- **Unsubscribed** — anyone who unsubscribes from your emails is skipped automatically on every future send, even if you re-import their address. You see the skip count before sending. Unsubscribing from an invitation to a community's event stops that community's invitations and newsletters to the address.
 - **Muted** — Cloomba users who switched invitation emails off in their notification settings are skipped too, and don't count against your allowance.
 - **Bounced or complained** — addresses that don't exist, or whose owners marked an email as spam, are never emailed again.
 - **Update opt-outs** — a guest can unsubscribe from one event's email updates and still see the updates in the app.

@@ -1,6 +1,6 @@
 ---
 title: "Pricing & Fees"
-meta_description: "Free events are always free on Cloomba. For paid events we charge 5% plus payment processing — deducted from payouts, nothing upfront."
+meta_description: "Free events are always free on Cloomba. For paid events we charge 3% plus payment processing — deducted from payouts, nothing upfront."
 section: "Product"
 section_position: 20
 position: 30
@@ -17,7 +17,7 @@ If your event is free to attend, Cloomba costs you nothing. Create as many free 
 When you sell tickets, the fee is deducted from your payout — attendees always pay exactly the price you set.
 
 - **Free events** — Free, always. No listing fees, unlimited attendees, at any scale.
-- **Cloomba fee on paid tickets** — 5% of the ticket price, deducted from your payout — never added on top for attendees.
+- **Cloomba fee on paid tickets** — 3% of the ticket price, deducted from your payout — never added on top for attendees.
 - **Payment processing** — Standard payment processing on top; the rate depends on the card and country. The exact breakdown for your event setup is shown in the ticket type editor before you publish — no surprises.
 - **Payouts by Stripe** — Funds reach your connected bank account on Stripe's standard payout schedule — typically 2–7 business days depending on your country. The payout currency matches your Stripe account.
 
@@ -27,7 +27,7 @@ To receive payouts you connect a Stripe account to a community or to your person
 
 ### Refunds
 
-If you issue a refund to an attendee, the ticket price is returned to them in full. Cloomba refunds its 5% fee too, so refunding a ticket costs you nothing on our side. Stripe keeps its processing fee from the original payment — that's Stripe's rule for every refund.
+Cloomba returns its fee when you refund a ticket. See [Issuing refunds](/help/refunds).
 
 ## Common questions
 
