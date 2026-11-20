@@ -16,7 +16,7 @@ We built Cloomba because we think organizers in Europe deserve better.
 
 ### Hosted in Europe, by default
 
-Cloomba runs on infrastructure in the **European Union** — EU West, Amsterdam. Your data and your attendees' data never leaves the EU as part of our core operations. That is not a setting you have to find or a tier you have to pay for. It is just how it works.
+Cloomba runs on infrastructure in the **European Union** — EU West, Amsterdam. Your data and your attendees' data are stored on servers in the EU, and the [privacy policy](/legal/privacy) names every service that processes it. That is not a setting you have to find or a tier you have to pay for. It is just how it works.
 
 ---
 

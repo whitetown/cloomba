@@ -1,6 +1,6 @@
 ---
 title: "Terms of Service"
-meta_description: "Terms of Service for Cloomba — the event platform operated by WhiteTown s.r.o., Bratislava. Covers accounts, payments, organiser duties, and governing law."
+meta_description: "Terms of Service for Cloomba — the event platform operated by WhiteTown s.r.o., Bratislava. Covers accounts, payments, organizer duties, and governing law."
 section: null
 section_position: 0
 position: 10
@@ -22,21 +22,21 @@ You must be at least **16 years old** to create an account. If you are under 18,
 
 ### 2. Your account
 
-You are responsible for keeping your account credentials secure. Do not share your account with others or use someone else's account. If you suspect unauthorised access, contact us immediately at [support (at) cloomba.com](/info/contact).
+You are responsible for keeping your account credentials secure. Do not share your account with others or use someone else's account. If you suspect unauthorized access, contact us immediately at [support (at) cloomba.com](/info/contact).
 
 ---
 
-### 3. Organiser responsibilities
+### 3. Organizer responsibilities
 
-As an organiser you agree to:
+As an organizer you agree to:
 
 - Provide accurate and honest information about your events — date, location, price, capacity, and description.
 - Deliver the event as described, or communicate changes to attendees promptly.
 - Handle cancellations and refunds fairly and in accordance with applicable law.
-- Obtain any permits, licences, or permissions required to host your event.
+- Obtain any permits, licenses, or permissions required to host your event.
 - Comply with data protection law when handling attendee information.
 
-Cloomba is a platform — we are not a co-organiser, ticketing agent, or party to the agreement between you and your attendees. You are solely responsible for your events and their outcomes.
+Cloomba is a platform — we are not a co-organizer, ticketing agent, or party to the agreement between you and your attendees. You are solely responsible for your events and their outcomes.
 
 ---
 
@@ -45,8 +45,8 @@ Cloomba is a platform — we are not a co-organiser, ticketing agent, or party t
 As an attendee you agree to:
 
 - Provide accurate information when registering for an event.
-- Follow the rules and instructions set by the organiser.
-- Not resell or transfer tickets unless the organiser explicitly permits it.
+- Follow the rules and instructions set by the organizer.
+- Not resell or transfer tickets unless the organizer explicitly permits it.
 
 ---
 
@@ -54,9 +54,9 @@ As an attendee you agree to:
 
 **Free events** are always free to host and attend on Cloomba — we charge nothing.
 
-**Paid events:** Cloomba charges **a percentage of the ticket price plus payment processing fees** (processed via Stripe). These fees are deducted from organiser payouts; attendees pay the listed price. The exact fee breakdown is shown to organisers before they publish a paid ticket type.
+**Paid events:** Cloomba charges **a percentage of the ticket price plus payment processing fees** (processed via Stripe). These fees are deducted from organizer payouts; attendees pay the listed price. The exact fee breakdown is shown to organizers before they publish a paid ticket type.
 
-Payouts are transferred to the organiser's connected bank account after the event, subject to Stripe's payout schedule.
+Ticket payments go to the organizer's connected Stripe account, and Stripe pays them out to the organizer's bank account on that account's payout schedule.
 
 ---
 
@@ -64,7 +64,7 @@ Payouts are transferred to the organiser's connected bank account after the even
 
 If you cancel a paid event, you must refund all attendees in full. Cloomba will facilitate refunds through Stripe; Cloomba's platform fee is returned to you when you refund an attendee.
 
-Refunds are the organiser's decision and the organiser's action: Cloomba never refunds a ticket on its own. An attendee may cancel their registration until the event starts; cancelling does not refund their payment. Organisers set out their refund policy in their own words, shown below the description of their paid events, and are responsible for applying it fairly and in accordance with applicable law.
+Refunds are the organizer's decision and the organizer's action: Cloomba never refunds a ticket on its own. An attendee may cancel their registration until the event starts; cancelling does not refund their payment. Organizers set out their refund policy in their own words, shown below the description of their paid events, and are responsible for applying it fairly and in accordance with applicable law.
 
 ---
 
@@ -75,9 +75,9 @@ You may not use Cloomba to:
 - Host or promote events that involve illegal activity, violence, or unlawful discrimination.
 - Collect personal data from attendees beyond what is necessary to run your event.
 - Send unsolicited commercial messages to attendees or other users.
-- Impersonate another person or organisation.
+- Impersonate another person or organization.
 - Upload content that infringes third-party intellectual property rights.
-- Attempt to gain unauthorised access to other accounts or Cloomba's systems.
+- Attempt to gain unauthorized access to other accounts or Cloomba's systems.
 
 We reserve the right to remove content and suspend or terminate accounts that violate these rules.
 
@@ -85,7 +85,7 @@ We reserve the right to remove content and suspend or terminate accounts that vi
 
 ### 8. Your content
 
-You retain ownership of the content you upload — event descriptions, photos, and videos. By uploading content you grant Cloomba a limited, non-exclusive, royalty-free licence to store, display, and deliver that content to users of the platform for the purpose of operating the service. This licence ends when you delete the content or close your account.
+You retain ownership of the content you upload — event descriptions, photos, and videos. By uploading content you grant Cloomba a limited, non-exclusive, royalty-free license to store, display, and deliver that content to users of the platform for the purpose of operating the service. This license ends when you delete the content or close your account.
 
 Cloomba's own software, design, trademarks, and branding remain our property.
 
@@ -101,7 +101,7 @@ We process personal data in accordance with our [Privacy Policy](/legal/privacy)
 
 To the fullest extent permitted by Slovak and EU law, Cloomba's total liability to you for any claim arising from these Terms or the use of the platform is limited to the fees you paid us in the three months preceding the claim.
 
-We are not liable for events that are cancelled, postponed, or fail to meet your expectations — responsibility for those lies with the organiser.
+We are not liable for events that are cancelled, postponed, or fail to meet your expectations — responsibility for those lies with the organizer.
 
 Nothing in these Terms limits our liability for fraud, gross negligence, or any liability that cannot be excluded under mandatory EU consumer protection law.
 
@@ -116,8 +116,6 @@ We may update these Terms from time to time. For material changes we will notify
 ### 12. Governing law and disputes
 
 These Terms are governed by the law of the **Slovak Republic**. Any dispute that cannot be resolved amicably will be referred to the competent courts of the Slovak Republic, without prejudice to any mandatory consumer protections you are entitled to under the law of your country of residence.
-
-As an EU consumer you also have the right to use the [EU Online Dispute Resolution platform](https://ec.europa.eu/consumers/odr).
 
 ---
 

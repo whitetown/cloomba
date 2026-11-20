@@ -1,5 +1,5 @@
 ---
-title: "Cancelling Your RSVP"
+title: "Cancelling your RSVP"
 meta_description: "How to cancel your RSVP on Cloomba, what happens to your spot, and how refunds for paid tickets work."
 section: "For attendees"
 section_position: 90

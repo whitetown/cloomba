@@ -1,5 +1,5 @@
 ---
-title: "Payment Problems"
+title: "Payment problems"
 meta_description: "Fix payment issues on Cloomba — declined cards, missing tickets after payment, refund requests, and checkout not loading."
 section: "Troubleshooting"
 section_position: 110

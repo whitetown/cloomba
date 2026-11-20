@@ -12,7 +12,7 @@ Add a label to a link to your event, and Reports counts the visits and registrat
 
 ---
 
-### Labelling a link
+### Labeling a link
 
 Add `?utm_source=` and a name of your choice to the end of your event link:
 
@@ -25,7 +25,7 @@ If the link already has a `?` in it, add `&utm_source=` instead.
 
 A short link (**Share → Get short link**) takes a label the same way, and keeps it when it opens the event: `https://cloo.mba/abc123?utm_source=poster`. So does an invite link: `https://cloomba.com/s/abc123?utm_source=poster`.
 
-Labels ignore capitals and spaces at either end — `Poster` and `poster` count as one. Short names you'll recognise later work best.
+Labels ignore capitals and spaces at either end — `Poster` and `poster` count as one. Short names you'll recognize later work best.
 
 ---
 
@@ -49,7 +49,7 @@ Open your event's **Manage → Reports**. Two tables show where your guests came
 
 Guests who cancelled, were refunded or were rejected are not counted.
 
-Each guest counts once. Someone who joins through an invite link counts under that link, even if it also carries a label. Otherwise they count under the label of the link they arrived through; if they opened several labelled links on the way, the last one counts.
+Each guest counts once. Someone who joins through an invite link counts under that link, even if it also carries a label. Otherwise they count under the label of the link they arrived through; if they opened several labeled links on the way, the last one counts.
 
 Views count page loads, so a reload adds one and a visitor with an ad blocker adds none. Read them as a guide rather than an exact count.
 

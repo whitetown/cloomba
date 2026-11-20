@@ -19,7 +19,7 @@ When you sell tickets, the fee is deducted from your payout — attendees always
 - **Free events** — Free, always. No listing fees, unlimited attendees, at any scale.
 - **Cloomba fee on paid tickets** — 3% of the ticket price, deducted from your payout — never added on top for attendees.
 - **Payment processing** — Standard payment processing on top; the rate depends on the card and country. The exact breakdown for your event setup is shown in the ticket type editor before you publish — no surprises.
-- **Payouts by Stripe** — Funds reach your connected bank account on Stripe's standard payout schedule — typically 2–7 business days depending on your country. The payout currency matches your Stripe account.
+- **Payouts by Stripe** — Stripe pays out to your bank on your Stripe account's schedule. See [Getting paid](/help/payouts).
 
 ### Connecting Stripe
 

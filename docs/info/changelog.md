@@ -14,12 +14,31 @@ A running log of significant updates and new features.
 
 ---
 
+### November 2026 — Feedback, programs, and calls for papers
+
+**Events**
+- **Feedback** — guests rate the event and its topics from the event page, and you choose when the feedback email goes out
+- **Program import and export** — on **Manage › Program**, paste a program or upload a PDF, a photo or a sheet, check the preview, and the sessions are added; export the program as CSV, Excel or a print view
+- **Favorite sessions** — guests star the talks they want and show only those on the agenda
+- **Credits** — list the event's organizers, partners and sponsors; they appear at the bottom of the event page ([how](/help/agenda-and-speakers))
+- **Share image** — choose the image an event's or a community's links show when they're shared
+- **Map links** — paste a map link into the location and pick the address it points to; an address typed by hand gets a pin on the map
+
+**Communities**
+- **Call for papers** — collect talk and sponsor proposals for one event or for the whole community, and accept or decline each one ([how it works](/help/call-for-papers))
+- **Contact email** — a confirmed address for your community: replies to its emails and the event contact form go there
+
+**Tickets**
+- **Cancellation notices** — you hear when a guest cancels, and your notification settings keep your notices apart from a guest's
+
+---
+
 ### October 2026 
 
 - **Ban** — on the **People** tab, for anyone: it ends their membership and follow, and they can't join, follow or submit events until an organizer lifts it
 - **Communities** — what was called a calendar is now a community: the same page, followers, members, newsletters and payments, at the same address ([what are communities?](/help/about-communities))
-- **Payment accounts on the calendar** — each calendar connects its own Stripe accounts, and every event is paid into one of its calendar's accounts ([how it works](/help/payment-accounts))
-- **API keys and webhooks on the calendar** — made by its owners on its Settings tab, reaching the calendar's events
+- **Payment accounts on the community** — each community connects its own Stripe accounts, and every event is paid into one of its community's accounts ([how it works](/help/payment-accounts))
+- **API keys and webhooks on the community** — made by its owners on its Settings tab, reaching the community's events
 
 ---
 

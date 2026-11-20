@@ -30,7 +30,7 @@ The account's holder is the seller: the payout, the Stripe receipts, refunds and
 
 Select **Connect Stripe** for the first account, or **Add** for another one, and finish Stripe's onboarding — your business details and a bank account. The first account becomes the default. A community or personal calendar can have up to 10, set up one at a time: while one is unfinished, its row shows **Continue setup** in place of **Add**.
 
-Select an account's row to give it a name you will recognise or make it the default. An account becomes the default once it is ready to take payments. **Manage on Stripe** opens the Stripe dashboard for the person who connected the account — Stripe sends its login code to them.
+Select an account's row to give it a name you will recognize or make it the default. An account becomes the default once it is ready to take payments. **Manage on Stripe** opens the Stripe dashboard for the person who connected the account — Stripe sends its login code to them.
 
 ---
 

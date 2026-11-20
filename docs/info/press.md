@@ -16,7 +16,26 @@ Information for journalists, bloggers, and anyone writing about Cloomba.
 
 Cloomba is a European event management platform built for organizers who want a simple, privacy-respecting alternative to US-based tools. We're focused on real communities — meetups, clubs, parties, professional events — not algorithmic feeds or growth hacking.
 
-The platform is built and hosted entirely within the EU. We're based in Bratislava, Slovakia, and operated by WhiteTown s.r.o.
+The platform is built in the EU, and its data is stored on servers in the EU — see the [privacy policy](/legal/privacy). We're based in Bratislava, Slovakia, and operated by WhiteTown s.r.o.
+
+## Facts
+
+- **Operator** — WhiteTown s.r.o., Bratislava, Slovakia
+- **Launched** — May 2026
+- **Platforms** — the website at cloomba.com, apps for iPhone and Android, and the Telegram bot @cloomba_bot
+
+## Logo
+
+- [Cloomba logo, SVG](https://cloomba.com/logo.svg)
+- [Cloomba logo, PNG, 256 × 256](https://cloomba.com/logo.png)
+
+## Screenshots
+
+- [Create your event](https://cdn.cloomba.com/tutorials/tour/create.png)
+- [Invite your guests](https://cdn.cloomba.com/tutorials/tour/invite.png)
+- [Track your guest list](https://cdn.cloomba.com/tutorials/tour/guests.png)
+- [Check people in](https://cdn.cloomba.com/tutorials/tour/checkin.png)
+- [See how it went](https://cdn.cloomba.com/tutorials/tour/reports.png)
 
 ## Get in touch
 

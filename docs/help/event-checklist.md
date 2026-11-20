@@ -1,5 +1,5 @@
 ---
-title: "Organizer Checklist Before the Event"
+title: "Organizer checklist before the event"
 meta_description: "A complete pre-event checklist for Cloomba organizers — from publishing to the day of the event and follow-up after."
 section: "Tips & tricks"
 section_position: 120

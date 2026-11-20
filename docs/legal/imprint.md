@@ -23,9 +23,9 @@ IČ DPH: SK2024127160
 
 Email: support (at) cloomba.com
 
-### Online dispute resolution
+### Dispute resolution
 
-The European Commission provides a platform for online dispute resolution at [ec.europa.eu/consumers/odr](https://ec.europa.eu/consumers/odr). We are not generally willing to participate in dispute-resolution proceedings before a consumer arbitration board, and are not obliged to do so.
+We are not generally willing to participate in dispute-resolution proceedings before a consumer arbitration board, and are not obliged to do so.
 
 ### Supervisory authority
 

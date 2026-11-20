@@ -1,5 +1,5 @@
 ---
-title: "Keeping Your Account Secure"
+title: "Keeping your account secure"
 meta_description: "How Cloomba's passwordless sign-in protects you, and what steps you can take to keep your account safe."
 section: "Your account"
 section_position: 80

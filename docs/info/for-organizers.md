@@ -32,7 +32,7 @@ The full list, section by section: [Features](/info/features).
 
 ### Built in the EU
 
-Servers in **Amsterdam**. Your data and your attendees' data stay in the EU. Every feature ships with export and delete built in.
+Servers in **Amsterdam**. Your data and your attendees' data are stored on servers in the EU, and the [privacy policy](/legal/privacy) names every service that processes it. Every feature ships with export and delete built in.
 
 ---
 
@@ -46,4 +46,4 @@ Cloomba is run by **WhiteTown s.r.o.** in Bratislava. We grow when you grow. No 
 
 Sign in at [cloomba.com](https://cloomba.com) and create your first event — it takes about five minutes. See [Your first event on Cloomba](/help/getting-started).
 
-Questions before you switch? [contact us](/info/contact) — we read every message.
+Questions before you switch? [Contact us](/info/contact) — we read every message.

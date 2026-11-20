@@ -1,6 +1,6 @@
 ---
 title: "Contact Us"
-meta_description: "Get in touch with the Cloomba team — support, feedback, press enquiries, and legal requests."
+meta_description: "Get in touch with the Cloomba team — support, feedback, press inquiries, and legal requests."
 section: "Company"
 section_position: 10
 position: 40
@@ -10,11 +10,11 @@ generated: from whitetown/cloomba-content — do not edit here, open an issue in
 
 ## We are happy to hear from you
 
-Whatever you need — a question about your account, a report, press enquiry, or feedback — the form below reaches us directly. We aim to respond within **1 business day**.
+Whatever you need — a question about your account, a report, press inquiry, or feedback — the form below reaches us directly. We aim to respond within **1 business day**.
 
 If your message has a specific topic, mention it in the subject so we can route it quickly. Examples:
 
-- **Account or how-to** — any question about using cloomba
+- **Account or how-to** — any question about using Cloomba
 - **Legal or data rights** — GDPR requests, takedowns, legal correspondence
 - **Report abuse** — content or behavior that breaks our [Acceptable Use Policy](/legal/acceptable-use); include a link to the event or profile
 - **Press and media** — interviews, story ideas, asset requests

@@ -8,7 +8,7 @@ status: published
 generated: from whitetown/cloomba-content — do not edit here, open an issue instead
 ---
 
-This policy explains what personal data Cloomba collects, why we collect it, how we use it, and what rights you have. It applies to everyone who uses Cloomba — organisers, attendees, and visitors.
+This policy explains what personal data Cloomba collects, why we collect it, how we use it, and what rights you have. It applies to everyone who uses Cloomba — organizers, attendees, and visitors.
 
 Cloomba is operated by **WhiteTown s.r.o.**, Narcisova 38, 821 01 Bratislava, Slovak Republic (IČO: 47878606). We are the data controller for the personal data described in this policy.
 
@@ -22,7 +22,7 @@ Cloomba is operated by **WhiteTown s.r.o.**, Narcisova 38, 821 01 Bratislava, Sl
 
 **Event data** — event titles, descriptions, locations, dates, cover images, and other details you enter when creating or editing an event.
 
-**Attendance data** — RSVP status, ticket type, check-in records, and any answers you provide to organiser registration questions.
+**Attendance data** — RSVP status, ticket type, check-in records, and any answers you provide to organizer registration questions.
 
 **Media** — photos and videos you upload to events, together with any captions you add.
 
@@ -55,28 +55,35 @@ We do not use your data for advertising or sell it to third parties.
 
 We share data only where necessary to operate the service:
 
-- **Stripe** — payment processing and organiser payouts. Stripe is a data processor acting on our instructions. See [Stripe's privacy policy](https://stripe.com/privacy).
+- **Stripe** — payment processing and organizer payouts. Stripe is a data processor acting on our instructions. See [Stripe's privacy policy](https://stripe.com/privacy).
 - **Firebase (Google)** — authentication and push notification delivery. See [Google's privacy policy](https://policies.google.com/privacy).
-- **Cloudflare** — content delivery and DDoS protection for media files.
+- **Cloudflare** — the network in front of our website and apps: content delivery, DDoS protection, storage of uploaded photos and files, map tiles, web analytics that count visits without cookies, and the bot check (Turnstile) on the contact form and the import box.
 - **Railway** — our server infrastructure, hosted in EU West (Amsterdam, Netherlands).
-- **Anthropic** — reads the title, description and venue city and country of public events to pick their categories and languages, and to translate them for visitors. Anthropic processes this text on our instructions, outside the EEA.
+- **Amazon Web Services (Amazon SES)** — delivers the emails we send (confirmations, tickets, reminders, updates, newsletters) and tells us when one bounces. We use its EU (Frankfurt) region.
+- **Vercel** — hosts umami, the tool that counts visits to our website. umami sets no cookies and stores no IP addresses: it keeps the page visited, where the visit came from, the browser and device type, and the country and city.
+- **Anthropic** — reads the title, description and venue city and country of public events to pick their categories and languages, and to translate them for visitors. When an organizer imports an event's program, it also reads the text, PDF, photo or sheet they upload to find the sessions and speakers in it. Anthropic processes this content on our instructions, outside the EEA.
+- **Apple** — delivers updates to tickets you add to Apple Wallet and to Live Activities in the Cloomba iPhone app.
+- **Google Wallet (optional)** — only if you add a ticket to Google Wallet: the ticket (event, date, venue and the name on it) is sent to Google.
 - **Telegram (optional)** — only if you sign in with Telegram or connect your Telegram account in Settings → Preferences. When you sign in with Telegram, Telegram FZ-LLC, which operates outside the EU, sends us your Telegram user ID, chat ID, username and name. When you connect it for notifications, we share your Telegram chat ID and the content of the notifications you have enabled for Telegram with Telegram FZ-LLC. This is optional, based on your consent, and you can disconnect notifications at any time.
+- **LinkedIn (optional)** — only if you connect your LinkedIn account in Settings → Profile to share events there. We keep the link to your LinkedIn account and send LinkedIn the posts you choose to publish. You can disconnect it at any time.
 
 All processors are contractually bound to handle your data in accordance with GDPR.
+
+**Address search.** When you search for a place (a venue, a city) or drop a pin on a map, our server sends that text or those coordinates to Photon (komoot), Nominatim (OpenStreetMap), Geoapify or Google Places to find the address. They receive only the search, never who made it.
 
 We do not transfer personal data outside the European Economic Area except where a valid transfer mechanism applies (e.g. Standard Contractual Clauses with Stripe, Google and Anthropic), or where you have explicitly chosen to sign in with Telegram or receive notifications via Telegram, which we rely on your consent to do (Art. 49(1)(a) GDPR).
 
 ---
 
-### 4. Organiser access to attendee data
+### 4. Organizer access to attendee data
 
-When you RSVP to an event, the organiser can see your name, profile photo, RSVP status, and any answers you gave to their registration questions. This is necessary to run the event. Organisers are independent data controllers for this data and must handle it in accordance with GDPR.
+When you RSVP to an event, the organizer can see your name, profile photo, RSVP status, and any answers you gave to their registration questions. This is necessary to run the event. Organizers are independent data controllers for this data and must handle it in accordance with GDPR.
 
-**Your email address and phone number.** An organiser may switch on email or phone collection for their event. When they have, the RSVP form asks you for it and tells you, at that moment, that the organiser will receive it. If you provide it, it appears in that event’s guest list and CSV export.
+**Your email address and phone number.** An organizer may switch on email or phone collection for their event. When they have, the RSVP form asks you for it and tells you, at that moment, that the organizer will receive it. If you provide it, it appears in that event’s guest list and CSV export.
 
-This is separate from the email address on your Cloomba account, which we do **not** give to organisers. We may email you on an organiser’s behalf — an invitation, or an announcement about an event you are attending — without disclosing your address to them. Every such email carries an unsubscribe link.
+This is separate from the email address on your Cloomba account, which we do **not** give to an event's organizers. **Community memberships are the exception:** when you join a community's membership, its organizers see your name, your account email and your answers to the community's questions. Following a community shares nothing with them. We may email you on an organizer’s behalf — an invitation, or an announcement about an event you are attending — without disclosing your address to them. Every such email carries an unsubscribe link.
 
-**Other attendees.** An organiser can choose to make the guest list visible to the people attending. Other attendees then see your name and profile photo — never your email address, phone number, registration answers, or what you paid.
+**Other attendees.** An organizer can choose to make the guest list visible to the people attending. Other attendees then see your name and profile photo — never your email address, phone number, registration answers, or what you paid.
 
 ---
 
@@ -112,7 +119,7 @@ You also have the right to lodge a complaint with the Slovak data protection aut
 
 ### 7. Cookies
 
-We use a small number of essential cookies to keep you signed in and remember your language preference. We do not use advertising or tracking cookies. See our [Cookie Policy](/legal/cookies) for details.
+We set two essential cookies: one tells the site that you are signed in, the other remembers your language. Our analytics (umami and Cloudflare Web Analytics) set no cookies. Stripe sets its own cookies when you open a checkout, to prevent fraud. We do not use advertising or tracking cookies. See our [Cookie Policy](/legal/cookies) for details.
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Getting and Finding Your Tickets"
+title: "Getting and finding your tickets"
 meta_description: "How to buy a ticket on Cloomba, where to find it after purchase, and what to do if payment goes wrong."
 section: "For attendees"
 section_position: 90

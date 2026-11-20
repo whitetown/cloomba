@@ -1,5 +1,5 @@
 ---
-title: "Reporting a Bug"
+title: "Reporting a bug"
 meta_description: "How to report a bug on Cloomba — what to include, how to send it, and what happens after you report."
 section: "Troubleshooting"
 section_position: 110

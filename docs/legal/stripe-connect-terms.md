@@ -1,6 +1,6 @@
 ---
-title: "Stripe Connect Terms for Paid Organisers"
-meta_description: "A plain-language summary of the Stripe Connected Account Agreement that paid-event organisers accept when they connect a Stripe account to Cloomba."
+title: "Stripe Connect Terms for Paid Organizers"
+meta_description: "A plain-language summary of the Stripe Connected Account Agreement that paid-event organizers accept when they connect a Stripe account to Cloomba."
 section: null
 section_position: 0
 position: 70
@@ -10,7 +10,7 @@ generated: from whitetown/cloomba-content — do not edit here, open an issue in
 
 When you set up paid ticketing on Cloomba, you connect a **Stripe** account via Stripe Connect. Stripe — not Cloomba — is the payment processor and the contracting party for the funds you take in.
 
-This page summarises what that means in practice. The authoritative documents are Stripe's, linked below.
+This page summarizes what that means in practice. The authoritative documents are Stripe's, linked below.
 
 ---
 
@@ -40,7 +40,7 @@ Read them in full on Stripe's site:
 
 - **Refunds** are issued from your event's guest list. See [Issuing refunds](/help/refunds).
 - **Disputes / chargebacks** flow through Stripe. You'll receive notifications and have a chance to submit evidence.
-- **VAT and tax** on ticket sales are your responsibility as merchant of record. See [Taxes and VAT for EU organisers](/help/taxes-vat).
+- **VAT and tax** on ticket sales are your responsibility as merchant of record. See [Taxes and VAT for EU organizers](/help/taxes-vat).
 - **Payout schedules** are set by Stripe — typically 2–7 business days. See [Getting paid — how payouts work](/help/payouts).
 - **Account holds or closures** by Stripe (e.g. for KYC, suspected fraud) freeze your payouts until resolved. Cloomba can't override Stripe decisions; contact Stripe support.
 

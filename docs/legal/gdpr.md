@@ -74,7 +74,7 @@ For a full breakdown of what data we collect, why, and how long we keep it, see 
 
 ### Infrastructure and transfers
 
-Cloomba's servers run on Railway infrastructure in **EU West (Amsterdam, Netherlands)**. Authentication is handled by Firebase (Google). Payment processing is handled by Stripe.
+Cloomba's servers run on Railway infrastructure in **EU West (Amsterdam, Netherlands)**. Authentication is handled by Firebase (Google). Payment processing is handled by Stripe. Every service that processes data for us is listed in the [Privacy Policy](/legal/privacy), section 3.
 
 Where data is processed by sub-processors outside the EEA (such as Google and Stripe in the US), it is protected by Standard Contractual Clauses approved by the European Commission.
 

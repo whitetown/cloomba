@@ -20,23 +20,39 @@ A cookie is a small text file stored in your browser when you visit a website. I
 
 ### What we use
 
-Cloomba uses only **essential cookies**. We do not use advertising cookies, tracking pixels, or analytics that build profiles of your behaviour.
+Cloomba uses only **essential cookies**. We do not use advertising cookies, tracking pixels, or analytics that build profiles of your behavior.
 
 | Cookie | Purpose | Duration |
 |---|---|---|
-| `session` | Keeps you signed in between page loads | Session (cleared when you close the browser) |
+| `cloomba_signed_in` | Tells the site that you are signed in, so the homepage opens your events | 1 year, removed when you sign out |
 | `locale` | Remembers your language preference | 1 year |
 
 Both cookies are set by Cloomba directly (first-party). Neither is used for advertising or shared with third parties.
+
+Our analytics, umami and Cloudflare Web Analytics, count visits without cookies.
+
+---
+
+### Browser storage
+
+The site also keeps some things in your browser's own storage, which is not sent along with every request the way a cookie is:
+
+- your sign-in, and the sign-in method you used last on this browser
+- your theme, and the views and filters you choose
+- the events you viewed recently, on this device only
+- something you started before signing in or before your bank's card check (an event draft, a join, an import, a ticket order), so it can finish afterwards
+- the page you were on when you started signing in, which we record once if that sign-in creates your account
+- for this visit only: the invitation or shared link that brought you to an event (who shared it, a campaign label, a discount code), so your join is credited to that link and the discount applies
+
+Nothing in it is used for advertising, and no other website can read it.
 
 ---
 
 ### Third-party services
 
-Some third-party services we use may set their own cookies:
-
-- **Firebase (Google)** — used for authentication. May set cookies to manage your sign-in session. See [Google's cookie policy](https://policies.google.com/technologies/cookies).
-- **Stripe** — used for payment processing on paid event pages. May set cookies for fraud prevention. See [Stripe's cookie policy](https://stripe.com/cookies-policy/legal).
+- **Firebase (Google)** — used for sign-in. It keeps your sign-in session in your browser's storage, not in a cookie. See [Google's cookie policy](https://policies.google.com/technologies/cookies).
+- **Stripe** — loads only when you open a checkout to pay for a ticket or a membership, and then sets its fraud-prevention cookies (`__stripe_mid`, `__stripe_sid`). See [Stripe's cookie policy](https://stripe.com/cookies-policy/legal).
+- **Cloudflare Turnstile** — the bot check on the contact form and the import box. It answers with a one-time token and sets no cookie.
 
 We have no control over third-party cookies and they are governed by the respective parties' policies.
 
@@ -44,7 +60,7 @@ We have no control over third-party cookies and they are governed by the respect
 
 ### Managing cookies
 
-You can control or delete cookies through your browser settings. If you delete or block the session cookie you will be signed out and will need to sign in again.
+You can control or delete cookies through your browser settings. If you clear this site's data in your browser, you will be signed out and will need to sign in again.
 
 Most browsers allow you to:
 - View which cookies are stored

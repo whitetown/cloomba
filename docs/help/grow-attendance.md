@@ -1,5 +1,5 @@
 ---
-title: "How to Promote Your Event"
+title: "How to promote your event"
 meta_description: "Practical tips for getting more RSVPs on Cloomba — sharing links, posting in communities, using your own community, and timing your announcements."
 section: "Tips & tricks"
 section_position: 120

@@ -96,5 +96,5 @@ Links from the card to your event page on Cloomba carry the coupon and the label
 ### Good to know
 
 - Only **public** and **unlisted** events can be embedded — private events don't render.
-- Visitors sign in inside the widget or pop-up to register. Paid tickets can also be bought with just a name and email — the ticket arrives by email.
+- Visitors register inside the widget or pop-up. They can sign in, or register for a free or paid ticket with just a name and email — see [How to join an event](/help/rsvp-to-event) for when signing in is needed.
 - Add the `embed.js` / `button.js` script once per page, even with several embeds.

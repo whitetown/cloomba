@@ -1,5 +1,5 @@
 ---
-title: "After the Event: Follow-Up Tips"
+title: "After the event: follow-up tips"
 meta_description: "What to do after your Cloomba event — thank attendees, share photos, ask for feedback, and turn first-timers into regulars."
 section: "Tips & tricks"
 section_position: 120

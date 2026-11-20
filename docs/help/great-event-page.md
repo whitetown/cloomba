@@ -1,5 +1,5 @@
 ---
-title: "Tips for a Standout Event Page"
+title: "Tips for a standout event page"
 meta_description: "How to write a great Cloomba event page — title, cover image, description formatting, visibility settings, and location tips."
 section: "Tips & tricks"
 section_position: 120

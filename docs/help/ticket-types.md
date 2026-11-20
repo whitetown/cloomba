@@ -34,7 +34,7 @@ The ordinary case. Set the amount and the currency; guests see it and pay it. Le
 
 ### Price on request
 
-The price is hidden, not absent. Guests see **On request** where the amount would be, and the ticket stays selectable — the model is that they register first and settle the number with you, rather than filling in an enquiry form and waiting.
+The price is hidden, not absent. Guests see **On request** where the amount would be, and the ticket stays selectable — the model is that they register first and settle the number with you, rather than filling in an inquiry form and waiting.
 
 There are two shapes, depending on whether you set an amount:
 

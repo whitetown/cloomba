@@ -1,5 +1,5 @@
 ---
-title: "How We Protect Your Data"
+title: "How we protect your data"
 meta_description: "How Cloomba keeps your data safe — EU hosting, GDPR compliance, passwordless auth, and your privacy rights explained."
 section: "Security & privacy"
 section_position: 100
@@ -14,9 +14,9 @@ Cloomba is built and hosted in Europe, with GDPR compliance as a baseline — no
 
 ## Where your data lives
 
-Cloomba runs on **Railway**, with servers in **EU West (Amsterdam, Netherlands)**. Your data stays in the European Union as part of normal platform operations, with one exception: the title, description and venue city and country of a public event go to **Anthropic**, which picks the event's categories and languages.
+Cloomba runs on **Railway**, with servers in **EU West (Amsterdam, Netherlands)**. Your data is stored on servers in the European Union. Images and media are stored on **Cloudflare R2** and delivered through Cloudflare's network.
 
-Images and media are stored on **Cloudflare R2** with CDN delivery — also with EU data residency.
+Some services process data for us outside the EU — among them Stripe for payments, Firebase (Google) for sign-in and push notifications, and Anthropic, which reads public events to pick their categories and languages. The [Privacy Policy](/legal/privacy) lists every one of them and what each receives.
 
 ## What we collect
 
@@ -36,4 +36,4 @@ As a user in the EU (or anywhere), you have the right to access, correct, export
 - Access to production systems is restricted to authorized personnel
 - We do not sell your data to third parties
 
-Questions? [contact us](/info/contact).
+Questions? [Contact us](/info/contact).

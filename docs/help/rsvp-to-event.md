@@ -1,5 +1,5 @@
 ---
-title: "How to RSVP to an Event"
+title: "How to join an event"
 meta_description: "How to RSVP on Cloomba — free events, paid tickets, approval-required events, and waitlists explained."
 section: "For attendees"
 section_position: 90
@@ -8,9 +8,9 @@ status: published
 generated: from whitetown/cloomba-content — do not edit here, open an issue instead
 ---
 
-## How to RSVP to an event
+## How to join an event
 
-RSVPing on Cloomba lets the organizer know you're coming and, for paid events, secures your ticket.
+Joining an event tells the organizer you're coming and gives you your ticket, whether the event is free or paid.
 
 ## Finding an event
 

@@ -1,5 +1,5 @@
 ---
-title: "Not Receiving Emails?"
+title: "Not receiving emails?"
 meta_description: "Why Cloomba emails might not be arriving and how to fix it — spam filters, Promotions tab, wrong address, and more."
 section: "Troubleshooting"
 section_position: 110
@@ -34,4 +34,4 @@ Some organizations block external email or filter aggressively. Try signing in w
 
 ## Still not arriving?
 
-[contact us](/info/contact) with your email address and a description of which emails are missing. We can check delivery logs on our end.
+[Contact us](/info/contact) with your email address and a description of which emails are missing. We can check delivery logs on our end.

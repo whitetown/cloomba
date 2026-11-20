@@ -1,5 +1,5 @@
 ---
-title: "Email Reminders & Alerts"
+title: "Email reminders & alerts"
 meta_description: "Learn what emails Cloomba sends for RSVPs, event reminders, updates, and tickets — and what to do if they aren't arriving."
 section: "Notifications"
 section_position: 70

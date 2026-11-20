@@ -1,5 +1,5 @@
 ---
-title: "What Data We Collect and Why"
+title: "What data we collect and why"
 meta_description: "A plain-language breakdown of what personal data Cloomba collects, why we need it, and which third-party processors we use."
 section: "Security & privacy"
 section_position: 100

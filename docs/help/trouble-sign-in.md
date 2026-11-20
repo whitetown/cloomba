@@ -1,5 +1,5 @@
 ---
-title: "Can't Sign In?"
+title: "Can't sign in?"
 meta_description: "Fix common Cloomba sign-in problems — magic link not arriving, landing in a different account, and missing account data."
 section: "Troubleshooting"
 section_position: 110

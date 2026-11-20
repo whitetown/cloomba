@@ -21,7 +21,7 @@ Everything Cloomba does, in one list. Every item here is live. Free events are f
 
 ## Registration
 
-- **Register in one tap** — Guests [sign in](/help/sign-in) with Google, Apple, GitHub, email or Telegram and [register](/help/rsvp-to-event). No passwords.
+- **Register in one tap** — On the website, guests [register](/help/rsvp-to-event) with a name and email, no account needed, or [sign in](/help/sign-in) with Google, Apple, GitHub, email or Telegram. No passwords.
 - **Capacity and deadline** — Set a limit and a [closing time](/help/registration-deadline); registration closes itself.
 - **Waitlist** — When the event is full, guests join the [waitlist](/help/waitlist) and move up as spots open.
 - **Approval** — Review each request and [approve or decline](/help/guest-approval) before a spot is confirmed.
@@ -31,6 +31,8 @@ Everything Cloomba does, in one list. Every item here is live. Free events are f
 ## Tickets
 
 - **Ticket types** — Several [tiers](/help/ticket-types) per event, each with its own price, quantity and sale window.
+- **Pay what you want** — The price becomes a minimum and the guest chooses what they pay; a minimum of 0 keeps the event free with support optional. See [ticket types](/help/ticket-types).
+- **Price on request** — Guests see "On request" instead of a number and register as normal; you settle the amount with them. See [ticket types](/help/ticket-types).
 - **Coupons** — Percentage or fixed-amount [discounts](/help/coupons), with a use limit.
 - **Paid on Stripe** — Guests pay by card, Apple Pay or Google Pay. The money goes to [your Stripe account](/help/payouts), not through ours.
 - **Off-platform payment** — Bank transfer, PayPal or cash — you [mark tickets as paid](/help/off-platform-payment) yourself.
@@ -72,6 +74,8 @@ Everything Cloomba does, in one list. Every item here is live. Free events are f
 - **Recurring events** — Weekly, monthly or custom [series](/help/recurring-events); each occurrence has its own guest list.
 - **Submissions** — Other organizers [submit events](/help/submit-event-to-community) to your community; you approve.
 - **Members** — Add owners and admins to a community; owners run it together, admins help.
+- **Memberships** — Every community has a free membership, and you can add tiers of your own, free or paid, with member-only events and tickets. See [communities](/help/about-communities).
+- **Tags** — Tag the people on your community's People tab, filter the list by tag, and send a [newsletter](/help/community-newsletters) to one tag.
 - **Newsletter** — Email everyone the community has reached — followers, past guests, and contacts you add. Every email carries an unsubscribe link. See [writing to your followers](/help/about-communities).
 - **Calendar feeds** — An .ics feed for each community and for every event — [subscribe](/help/add-to-calendar) from Google Calendar, Apple Calendar or Outlook.
 - **Clone an event** — [Copy](/help/clone-event) last month's event and change the date.
@@ -81,6 +85,7 @@ Everything Cloomba does, in one list. Every item here is live. Free events are f
 - **Sessions** — Talks with a time and a room, shown as a [schedule](/help/agenda-and-speakers) on the event page.
 - **Speakers and sponsors** — Profiles with photo and bio, linked to their sessions.
 - **Materials** — Speakers attach slides and files to their session.
+- **Call for papers** — Open a [call for papers](/help/call-for-papers) on your community, for one event or as a standing form, and review the proposals that come in.
 - **Live agenda** — The current session on the guest's phone while the event runs.
 
 ## Apps and integrations

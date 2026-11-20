@@ -1,5 +1,5 @@
 ---
-title: "Exporting Your Data"
+title: "Exporting your data"
 meta_description: "How to request a copy of your personal data from Cloomba under GDPR Article 15, and what your export will contain."
 section: "Your account"
 section_position: 80

@@ -1,5 +1,5 @@
 ---
-title: "How to Discover Events Near You"
+title: "How to discover events near you"
 meta_description: "How to find events on Cloomba — browse by location, category, or community, search by keyword, and follow communities."
 section: "For attendees"
 section_position: 90

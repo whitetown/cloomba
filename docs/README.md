@@ -91,41 +91,41 @@ The same pages are published on [cloomba.com](https://cloomba.com).
 ### Notifications
 - [How notifications work](help/notifications-overview.md)
 - [Setting up push notifications](help/push-notifications.md)
-- [Email Reminders & Alerts](help/email-notifications.md)
+- [Email reminders & alerts](help/email-notifications.md)
 
 ### Your account
-- [Setting Up Your Profile](help/profile-setup.md)
-- [Editing Your Profile](help/manage-profile.md)
-- [Deleting Your Account](help/delete-account.md)
-- [Exporting Your Data](help/data-export.md)
-- [Keeping Your Account Secure](help/account-security.md)
+- [Setting up your profile](help/profile-setup.md)
+- [Editing your profile](help/manage-profile.md)
+- [Deleting your account](help/delete-account.md)
+- [Exporting your data](help/data-export.md)
+- [Keeping your account secure](help/account-security.md)
 
 ### For attendees
-- [How to Discover Events Near You](help/find-events.md)
-- [How to RSVP to an Event](help/rsvp-to-event.md)
-- [Cancelling Your RSVP](help/cancel-rsvp.md)
-- [Getting and Finding Your Tickets](help/getting-tickets.md)
+- [How to discover events near you](help/find-events.md)
+- [How to join an event](help/rsvp-to-event.md)
+- [Cancelling your RSVP](help/cancel-rsvp.md)
+- [Getting and finding your tickets](help/getting-tickets.md)
 - [How to contact the event organizer](help/contact-organizer.md)
 - [Add a Cloomba event to your calendar](help/add-to-calendar.md)
 
 ### Security & privacy
-- [How We Protect Your Data](help/privacy-overview.md)
-- [Your GDPR Rights as a User](help/gdpr-rights.md)
-- [What Data We Collect and Why](help/data-we-collect.md)
-- [Reporting Abuse or Inappropriate Content](help/reporting-abuse.md)
+- [How we protect your data](help/privacy-overview.md)
+- [Your GDPR rights as a user](help/gdpr-rights.md)
+- [What data we collect and why](help/data-we-collect.md)
+- [Reporting abuse or inappropriate content](help/reporting-abuse.md)
 
 ### Troubleshooting
-- [Can't Sign In?](help/trouble-sign-in.md)
+- [Can't sign in?](help/trouble-sign-in.md)
 - [Issues with RSVPs](help/trouble-rsvp.md)
-- [Not Receiving Emails?](help/email-not-received.md)
-- [Payment Problems](help/payment-issues.md)
-- [Reporting a Bug](help/report-bug.md)
+- [Not receiving emails?](help/email-not-received.md)
+- [Payment problems](help/payment-issues.md)
+- [Reporting a bug](help/report-bug.md)
 
 ### Tips & tricks
-- [How to Promote Your Event](help/grow-attendance.md)
-- [Tips for a Standout Event Page](help/great-event-page.md)
-- [Organizer Checklist Before the Event](help/event-checklist.md)
-- [After the Event: Follow-Up Tips](help/post-event-tips.md)
+- [How to promote your event](help/grow-attendance.md)
+- [Tips for a standout event page](help/great-event-page.md)
+- [Organizer checklist before the event](help/event-checklist.md)
+- [After the event: follow-up tips](help/post-event-tips.md)
 - [Building a community](help/community-building.md)
 - [Tracking links](help/tracking-links.md)
 
@@ -161,5 +161,5 @@ The same pages are published on [cloomba.com](https://cloomba.com).
 - [Cookie Policy](legal/cookies.md)
 - [GDPR & Your Rights](legal/gdpr.md)
 - [Acceptable Use Policy](legal/acceptable-use.md)
-- [Data Processing Notes for Organisers](legal/dpa-for-organizers.md)
-- [Stripe Connect Terms for Paid Organisers](legal/stripe-connect-terms.md)
+- [Data Processing Notes for Organizers](legal/dpa-for-organizers.md)
+- [Stripe Connect Terms for Paid Organizers](legal/stripe-connect-terms.md)

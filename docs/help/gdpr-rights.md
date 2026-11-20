@@ -1,5 +1,5 @@
 ---
-title: "Your GDPR Rights as a User"
+title: "Your GDPR rights as a user"
 meta_description: "Your rights under GDPR on Cloomba — access, rectification, erasure, portability, and how to exercise them."
 section: "Security & privacy"
 section_position: 100
@@ -34,4 +34,4 @@ You can object to certain types of processing. Cloomba does not use your data fo
 
 ## How to exercise your rights
 
-[contact us](/info/contact) from the address associated with your account. We'll verify your identity and respond within 30 days. If we fail to respond or you're unsatisfied, you have the right to lodge a complaint with your national data protection authority. In Slovakia: [Úrad na ochranu osobných údajov](https://dataprotection.gov.sk).
+[Contact us](/info/contact) from the address associated with your account. We'll verify your identity and respond within 30 days. If we fail to respond or you're unsatisfied, you have the right to lodge a complaint with your national data protection authority. In Slovakia: [Úrad na ochranu osobných údajov](https://dataprotection.gov.sk).

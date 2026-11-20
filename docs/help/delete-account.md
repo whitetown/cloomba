@@ -1,5 +1,5 @@
 ---
-title: "Deleting Your Account"
+title: "Deleting your account"
 meta_description: "How to delete your Cloomba account, what happens to your events, communities and registrations, and how to come back within 30 days."
 section: "Your account"
 section_position: 80

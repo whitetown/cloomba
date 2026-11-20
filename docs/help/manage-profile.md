@@ -1,5 +1,5 @@
 ---
-title: "Editing Your Profile"
+title: "Editing your profile"
 meta_description: "How to update your Cloomba display name, username, bio, and profile photo — and what to know about changing your email or sign-in method."
 section: "Your account"
 section_position: 80

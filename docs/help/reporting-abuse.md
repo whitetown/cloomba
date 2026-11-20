@@ -1,5 +1,5 @@
 ---
-title: "Reporting Abuse or Inappropriate Content"
+title: "Reporting abuse or inappropriate content"
 meta_description: "How to report abusive events, harmful media, harassment, or scams on Cloomba, and what happens after you report."
 section: "Security & privacy"
 section_position: 100

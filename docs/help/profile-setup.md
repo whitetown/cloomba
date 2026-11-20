@@ -1,5 +1,5 @@
 ---
-title: "Setting Up Your Profile"
+title: "Setting up your profile"
 meta_description: "Learn how to set up your Cloomba profile — display name, username, photo, and bio — so organizers and guests can recognize you."
 section: "Your account"
 section_position: 80

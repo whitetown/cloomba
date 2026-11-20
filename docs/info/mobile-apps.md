@@ -27,4 +27,4 @@ You don't need to choose between mobile and web — sign in with the same accoun
 
 ### Privacy and data
 
-The mobile apps are governed by the same [Privacy Policy](/legal/privacy) and [GDPR rights](/legal/gdpr) as the website. Your data stays in the EU; the apps store only the minimum local cache needed to work offline.
+The mobile apps are governed by the same [Privacy Policy](/legal/privacy) and [GDPR rights](/legal/gdpr) as the website. Your data is stored on servers in the EU; the apps store only the minimum local cache needed to work offline.
